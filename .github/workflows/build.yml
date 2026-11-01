@@ -6,6 +6,11 @@ on:
       - 'v*'
       - 'v[0-9]+.[0-9]+.[0-9]+'
   workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Tag de la release (ex: v2.0.0)'
+        required: false
+        default: 'v2.0.0'
 
 permissions:
   contents: write
@@ -100,8 +105,8 @@ jobs:
       - name: GitHub Release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ github.ref_name }}
-          name: ${{ github.ref_name }}
+          tag_name: ${{ github.event.inputs.tag || github.ref_name }}
+          name: ${{ github.event.inputs.tag || github.ref_name }}
           body_path: RELEASE_NOTES.md
           files: release/*
         env:
