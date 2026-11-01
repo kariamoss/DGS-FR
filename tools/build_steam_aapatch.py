@@ -32,13 +32,13 @@ def build_steam_patch():
     patch.load_destination(dst_dir, flag=0)
     print(f"Loaded {len(patch._destination_files)} dest files in {time.time()-t1:.1f}s")
 
-    # Exclude config.ini and any log or temp files
-    excluded_files = {"config.ini", "dgs.ini", "dgsfix_dinput8.log", "DINPUT8.dll"}
+    # Exclude config.ini, env_option.ini and any log or temp or backup files
+    excluded_files = {"config.ini", "env_option.ini", "dgs.ini", "dgsfix_dinput8.log", "DINPUT8.dll"}
     for excl in list(patch._original_files.keys()):
-        if excl in excluded_files or excl.endswith(".bak"):
+        if excl in excluded_files or excl.endswith(".bak") or excl.endswith(".bak_stable"):
             del patch._original_files[excl]
     for excl in list(patch._destination_files.keys()):
-        if excl in excluded_files or excl.endswith(".bak"):
+        if excl in excluded_files or excl.endswith(".bak") or excl.endswith(".bak_stable"):
             del patch._destination_files[excl]
 
     print("Writing AAPatch file (computing bsdiffs)...")

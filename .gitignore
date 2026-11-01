@@ -27,6 +27,8 @@ tools/*.png
 tools/*.bin
 tools/*.dds
 tools/*.tex
+tools/*.cs
+tools/*.ps1
 tools/exported_dds/
 tools/exported_png/
 tools/patched_png/
