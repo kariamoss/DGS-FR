@@ -99,7 +99,7 @@ jobs:
           cp ./luma.zip ./release/
           curl -fL --retry 3 -o ./release/patch_dgs1.aapatch https://github.com/AAI-fr/DGS-FR/releases/download/v1.1.1/patch_dgs1.aapatch
           curl -fL --retry 3 -o ./release/patch_dgs2.aapatch https://github.com/AAI-fr/DGS-FR/releases/download/v1.1.1/patch_dgs2.aapatch
-          curl -fL --retry 3 -o ./release/patch_steam.aapatch https://github.com/AAI-fr/DGS-FR/releases/download/v1.1.1/patch_steam.aapatch
+          cat ./release_patches/patch_steam.aapatch.001 ./release_patches/patch_steam.aapatch.002 > ./release/patch_steam.aapatch
           curl -fL --retry 3 -o ./release/patch_switch.aapatch https://github.com/AAI-fr/DGS-FR/releases/download/v1.1.1/patch_switch.aapatch
 
       - name: GitHub Release

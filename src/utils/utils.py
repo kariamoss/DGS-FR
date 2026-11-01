@@ -1,5 +1,8 @@
 from xxhash import xxh32_digest
-from PySide6.QtCore import QCoreApplication
+try:
+    from PySide6.QtCore import QCoreApplication
+except ImportError:
+    QCoreApplication = None
 from pathlib import Path
 import subprocess
 import platform
@@ -21,7 +24,8 @@ def write_file_data(filepath : str, data : bytes):
 
 def uprint(text : str):
     print(text)
-    QCoreApplication.processEvents()
+    if QCoreApplication:
+        QCoreApplication.processEvents()
 
 def run_cli(command : list, stdout):
     if platform.system() == 'Windows':

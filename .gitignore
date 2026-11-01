@@ -23,3 +23,12 @@ analyse/*.py
 analyse/**/*.txt
 analyse/trans_ep3/split_act5.*
 tools/*.txt
+tools/*.png
+tools/*.bin
+tools/*.dds
+tools/*.tex
+tools/exported_dds/
+tools/exported_png/
+tools/patched_png/
+tools/repacked_dds/
+tools/get-pip.py
