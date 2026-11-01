@@ -1,100 +1,115 @@
-# The Chronicles of Ace Attorney: A Great Era
-Traduction française/Patch FR de Dai Gyakuten Saiban (The Great Ace Attorney Chronicles) pour la Nintendo 3DS, Steam et la Nintendo Switch. Pour toute question, problème, ou simplement pour discuter du jeu, rejoignez [le Discord](https://discord.gg/bye98cMs8S).
+# The Chronicles of Ace Attorney: A Great Era — Édition Complète
+
+[![Fork](https://img.shields.io/badge/fork-kariamoss%2FDGS--FR-blue.svg)](https://github.com/kariamoss/DGS-FR)
+[![Version](https://img.shields.io/badge/version-2.0.0--complète-green.svg)](https://github.com/kariamoss/DGS-FR/releases)
+[![Français](https://img.shields.io/badge/langue-100%25%20Fran%C3%A7ais-brightgreen.svg)](#contenu-du-patch)
+
+Patch de fan-traduction française intégrale pour **The Great Ace Attorney Chronicles** (*Dai Gyakuten Saiban 1 & 2*).
+
+> [!NOTE]
+> **À propos de ce dépôt** : Ce projet est un fork étendu du patch originel réalisé par l'équipe **AAI-fr**.  
+> Alors que la fan-traduction initiale s'arrêtait à l'Épisode 2 du second volet, cette version apporte la **traduction pure intégrale à 100 % des Épisodes 3, 4 et 5 de The Great Ace Attorney 2: Resolve**, ainsi qu'une révision et harmonisation globale de l'ensemble des deux jeux.
+>
+> Pour toute question ou échange sur le projet original, rejoignez [le Discord de l'équipe d'origine](https://discord.gg/bye98cMs8S).
 
 ![Titre](titre.png)
 
+---
+
+## Sommaire
+- [Contenu du patch](#contenu-du-patch)
+  - [The Great Ace Attorney Adventures (DGS1)](#the-great-ace-attorney-adventures-dgs1)
+  - [The Great Ace Attorney 2: Resolve (DGS2)](#the-great-ace-attorney-2-resolve-dgs2)
+  - [Harmonisation linguistique et immersion](#harmonisation-linguistique-et-immersion)
+- [Patcher le jeu](#patcher-le-jeu)
+  - [Steam (PC)](#steam-pc)
+  - [Nintendo Switch](#nintendo-switch)
+  - [Nintendo 3DS](#nintendo-3ds)
+- [Doublage](#doublage)
+- [Bugs et problèmes connus / résolus](#bugs-et-problèmes-connus--résolus)
+- [Crédits](#crédits)
+
+---
+
 ## Contenu du patch
-### 3DS :
-- Premier jeu entièrement traduit.
-- DLC du premier jeu traduits, à l'exception des sous-titres des vidéos.
-- Deux premières affaires du second jeu traduites.
-### HD (Steam, Switch) :
-- Premier jeu entièrement traduit.
-- Deux premières affaires du second jeu traduites.
-- Contenu spécial entièrement traduit.
+
+### The Great Ace Attorney Adventures (DGS1)
+* **Jeu complet 100 % en français** (Affaires 1 à 5).
+* DLCs et Contenu Spécial entièrement traduits.
+* **Revue et harmonisation globale** :
+  * Harmonisation stricte du titre officiel du procureur : **« Le Faucheur d'Old Bailey »** (élimination des incohérences grammaticales).
+  * Relecture générale, fluidification des répliques et élimination des anachronismes.
+
+### The Great Ace Attorney 2: Resolve (DGS2)
+* **Jeu complet 100 % en français (Affaires 1 à 5 — Intégrale terminée !)**
+  * **Affaires 1 & 2** : Relecture minutieuse, ajustement des intonations, correction de formulations qui pouvaient induire en erreur et rétablissement d'éléments cruciaux pour la logique des déductions.
+  * **Affaire 3 — NOUVEAU** :
+    * Traduction intégrale en français.
+    * Correction d'une anomalie du patch d'origine où des dialogues de tribunal apparaissaient en japonais non sous-titré.
+  * **Affaire 4 — NOUVEAU** : Traduction intégrale en français (enquête et procès).
+  * **Affaire 5 — NOUVEAU** : Traduction intégrale en français menant l'aventure jusqu'à son dénouement final.
+* Contenu spécial et galeries 100 % traduits.
+
+### Harmonisation linguistique et immersion
+Pour une fidélité optimale à l'ambiance et au contexte historique de l'œuvre :
+* **Cadre victorien britannique** : Standardisation soignée des formules de politesse anglaises (`Mr`, `Mrs`, `Miss`, `Lord`) selon les usages de l'époque.
+* **Cadre japonais (Ère Meiji)** : Préservation des suffixes honorifiques traditionnels (`-sama`, `-san`) lorsque les personnages japonais s'adressent entre eux, respectant ainsi leurs liens et nuances culturelles.
+
+---
+
 ## Patcher le jeu
-Vous pouvez retrouver le dernier patch [juste ici](https://github.com/AAI-fr/DGS-FR/releases/latest).
-Récupérez le patcheur de votre système d'exploitation (Si vous êtes sur macOS, lisez également [ceci](#patcher-sur-macos). Si vous êtes sur Steam Deck, qui fonctionne sous Linux, utilisez patcheur_ubuntu) ainsi que le fichier .aapatch de la version que vous souhaitez patcher. Lancez le patcheur, sélectionnez le patch, regardez les instructions ci-dessous, et suivez les indications du patcheur.
 
-À noter que le patcheur nécessite des versions de systèmes d'exploitations récentes. Nous essaierons de travailler sur une meilleure compatibilité dans le futur. En cas de problème, n'hésitez pas à nous contacter.
-
-## Instructions
-### Nintendo 3DS :
+### Steam (PC)
 #### Prérequis :
-- Une Nintendo 3DS hackée.
-- Les ROM japonaises déchiffrées (.3ds ou .cia).
-    - Dai Gyakuten Saiban 1 (DGS1) : l'ID du jeu est 000400000014AD00, l'ID des DLC est 0004008C0014AD00
-    - Dai Gyakuten Saiban 2 (DGS2) : l'ID du jeu est 00040000001AE200
+* Le jeu installé via Steam.
+* Si vous êtes sur Windows et avez installé le jeu sans choisir un emplacement, il devrait déjà être reconnu par le patcheur.
+* Une fois le patch terminé, vous pouvez simplement lancer le jeu, qui sera en français.
 
-Une fois les patchs terminés (les patchs des deux jeux se font séparemment), vous devriez voir les ROMs patchées au format .cia dans le même dossier que le patcheur. Mettez-les sur la carte SD de votre 3DS et installez-les avec FBI.
-
-**IMPORTANT** : pour être certain que les DLCs fonctionnent correctement, veuillez suivre [ce guide](docs/DLC.md).
-
-Note : les ROMs patchées ont un ID unique, donc elles ne risquent pas de rentrer en conflit avec d'autres versions du jeu.
-
-### Steam :
+### Nintendo Switch
 #### Prérequis :
-- Le jeu installé. Si vous êtes sur Windows et avez installé le jeu sans choisir un emplacement, il devrait déjà être reconnu.
+* Une Nintendo Switch hackée.
+* Les clefs de déchiffrement du firmware (`prod.keys`).
+* Une ROM du jeu (.nsp), que ce soit la version japonaise ou la version internationale.
+* Une fois le patch terminé, copiez le dossier `010036e00fb20000` généré dans `atmosphere/contents/` sur votre carte SD (ou `0100d7f00fb1a000` pour la version japonaise).
 
-Une fois le patch terminé, vous pouvez simplement lancer le jeu, qui sera en français.
-
-### Nintendo Switch :
+### Nintendo 3DS
 #### Prérequis :
-- Une Nintendo Switch hackée.
-- Les clefs de déchiffrements du firmware de la Switch (fichier souvent appelé prod.keys).
-- Une ROM du jeu (.nsp), que ce soit la version japonaise ou la version internationale. (Note : la version japonaise n'a été que très peu testée).
+* Une console Nintendo 3DS hackée (Luma3DS).
+* Les ROMs japonaises déchiffrées (.3ds ou .cia) des deux jeux.
+* Une fois les patchs terminés, installez les fichiers .cia générés avec FBI sur votre carte SD.
+* Pour le bon fonctionnement des DLCs sur 3DS, consultez [ce guide](docs/DLC.md).
 
-Une fois le patch terminé, vous trouverez un dossier 010036e00fb20000 dans le même dossier que le patcheur. Copiez-le dans le dossier atmosphere/contents de votre carte SD. Si vous jouez avec la version japonaise, renommez le dossier en 0100d7f00fb1a000.
+---
 
 ## Doublage
 
 Il n'y a pas de doublage français en jeu, mais nous avons implémenté un doublage dit "immersif", qui utilise les voix japonaises et anglaises selon la situation. La seule exception est quelques interjections dans l'affaire 1 du premier jeu qui sont toujours en anglais à cause de limitations techniques.
 
-## Bugs et problèmes connus
+---
 
-### Patcher sur macOS
+## Bugs et problèmes connus / résolus
 
-Si en essayant de patcher une ROM sur macOS, vous obtenez l'erreur `[Errno 30] Read-only file system: 'log.txt'`, suivez ces étapes :
+* **Résolu (DGS2 Épisode 3)** : Les dialogues de tribunal qui étaient restés en japonais non sous-titré dans le patch d'origine sont désormais intégralement en français.
+* **Résolu (Genre du Faucheur)** : Harmonisation grammaticale masculine complète sur les deux jeux.
+* **Steam Deck (Linux)** : Le patcheur fonctionne sous Linux via `patcheur_ubuntu`.
 
-- Extrayez le .app du .zip et déplacez-le vers un autre dossier que Downloads/Téléchargements (déplacer est nécessaire)
-- Clic droit sur patcheur_macos.app -> Nouveau terminal au dossier
+---
 
-Dans le terminal : 
-- Exécutez `xattr -d -r com.apple.quarantine .` (cela permet d'enlever des restictions ajoutées aux fichiers téléchargés hors du store)
-- Exécutez `./Contents/macos/patcheur`. (pour lancer le patcheur)
-- Une fois le patch effectué, vous pourrez retrouver les fichiers patchés avec un clic droit sur patcheur_macos.app -> Afficher le contenu du paquet
-
-### 3DS
-
-- Dans certains cas, le texte de l'historique disparaît en partie. Si nécessaire, sauvegarder puis charger la partie fait réapparaître le texte.
-
-- Certains textes défilent très lentement lors des déductions.
-
-### Steam
-
-- Les distinctions (succès Steam) obtenues ne sont pas (et ne peuvent pas être) traduites. Cela ne s'applique pas à la version Switch qui implémente les distinctions directement dans le jeu. Vous pouvez tout de même retrouver vos distinctions traduites en français dans le Contenu Spécial.
-
-## Ressources
-
-- [Explication des choix des noms](https://docs.google.com/spreadsheets/d/17xuThHw2dATl0nCYI5y2KZrS78ThjMX_Wy3tVSjlaDA)
-- [Disponibilité/Traduction des DLCs](https://docs.google.com/spreadsheets/d/1A3w-ZXv6BsreML0PQjoAvidsJ8duzZNggSaUwhaKDZY)
 ## Crédits
 
-**Chef de projet** : Choky
+### Équipe du projet original (AAI-fr)
+* **Chef de projet** : Choky
+* **Traduction** : Choky, N0vatique
+* **Romhack, programmation, outils** : Aclios, Benji99
+* **Graphismes** : Alexane B., Jau, Kikoro, N0vatique, Tolita, Tox, Aclios, Choky
+* **Tests et relectures** : Alexandre Ad, Alexane B., Aude-Amélie T., Aurel_Hunty, Joe Monsters, Gunchap, Ned, Alexis TGF, Mellma, Ronano, Aclios, N0vatique, Mondher, Magaster, Hunty, Monkey D Subaru, Octi, Perfect Link
+* **Doublage additionnel** : Kirill Morunov
+* **Jaquettes et manuels** : Anthiflo, Tolita
+* **Remerciements** : Scarlet Study pour les outils et spécifications des formats de Capcom, Ace Attorney Worldwide, Mr.LeoNov.
 
-**Traduction** : Choky, N0vatique
-
-**Romhack, programmation, outils** : Aclios, Benji99
-
-**Graphismes** : Alexane B., Jau, Kikoro, N0vatique, Tolita, Tox, Aclios, Choky
-
-**Tests et relectures** : Alexandre Ad, Alexane B., Aude-Amélie T.,
-Aurel_Hunty, Joe Monsters, Gunchap, Ned, Alexis TGF, Mellma,
-Ronano, Aclios, N0vatique, Mondher, Magaster, Hunty, Monkey D Subaru,
-Octi, Perfect Link
-
-**Doublage additionnel** : Kirill Morunov
-
-**Jaquettes et manuels** : Anthiflo, Tolita
-
-**Remerciements** : Scarlet Study pour le travail effectué sur les formats du jeu, Ace Attorney Worldwide, Mr.LeoNov
+### Contributions de cette édition intégrale (Fork [kariamoss](https://github.com/kariamoss/DGS-FR))
+* **Traduction pure intégrale de DGS2** : Traduction et localisation française complète des Épisodes 3, 4 et 5 (tribunal, enquête, Danse des Déductions, pièces à conviction).
+* **Assainissement de l'Épisode 3** : Remplacement des dialogues japonais non traduits par les scripts français.
+* **Harmonisation linguistique globale** : Revue des titres et adresses victoriennes en Angleterre, et maintien des honorifiques japonais pour les personnages du Japon.
+* **Améliorations qualitatives** : Ajustement des intonations, clarification de formulations ambiguës et rétablissement d'éléments cruciaux pour la logique de progression.
+* **Outils & Romhack** : Développement d'un pipeline d'extraction, réinjection et recompilation des archives de jeu.
