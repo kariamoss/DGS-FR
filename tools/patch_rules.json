@@ -1,0 +1,51 @@
+[
+  {
+    "Arc": "sce00_eng.arc",
+    "Entry": "GO\\script\\output\\_sce00_c000_0001_eng",
+    "Target": "regard implorant",
+    "Replacement": "regards noirs",
+    "Desc": "Contresens greffier (glares)"
+  },
+  {
+    "Arc": "sce00_eng.arc",
+    "Entry": "GO\\script\\output\\_sce00_c013_0000_eng",
+    "Target": "professeur, OK ?",
+    "Replacement": "professeur. Rien de plus.",
+    "Desc": "Anachronisme Jezaille Brett (OK ?)"
+  },
+  {
+    "Arc": "sce00_eng.arc",
+    "Entry": "GO\\script\\output\\_sce00_c012_0004_eng",
+    "Target": "Ah, deary me",
+    "Replacement": "Ah, mon Dieu",
+    "Desc": "Anglicisme résiduel Brett (deary me)"
+  },
+  {
+    "Arc": "sce00_eng.arc",
+    "Entry": "GO\\script\\output\\_sce00_c016_0000_eng",
+    "Target": "ce truc dont\r\nvous parliez",
+    "Replacement": "cette affaire de juridiction dont\r\nvous parliez",
+    "Desc": "Registre familier Ryunosuke"
+  },
+  {
+    "Arc": "sce00_eng.arc",
+    "Entry": "GO\\script\\output\\_sce00_c016_0000_eng",
+    "Target": "ça ne devrait pas être facile d'invoquer",
+    "Replacement": "ils ne peuvent tout de même pas invoquer",
+    "Desc": "Calque lourd extraterritorialité"
+  },
+  {
+    "Arc": "sce02_eng.arc",
+    "Entry": "GO\\script\\output\\_sce02_c100_0000_eng",
+    "Target": "Dieu de la Mort",
+    "Replacement": "Faucheuse d'Old Bailey",
+    "Desc": "Titre Lord Drake Van Peers (Faucheuse d'Old Bailey)"
+  },
+  {
+    "Arc": "sce03_eng.arc",
+    "Entry": "GO\\script\\output\\_sce03_bg0202_3d_check_0_eng",
+    "Target": "combien ça doit être désespérant",
+    "Replacement": "combien cela doit être angoissant",
+    "Desc": "Registre d'angoisse de Sôseki"
+  }
+]
