@@ -1,7 +1,7 @@
 # The Chronicles of Ace Attorney: A Great Era — Édition Complète
 
 [![Fork](https://img.shields.io/badge/fork-kariamoss%2FDGS--FR-blue.svg)](https://github.com/kariamoss/DGS-FR)
-[![Version](https://img.shields.io/badge/version-2.0.0--complète-green.svg)](https://github.com/kariamoss/DGS-FR/releases)
+[![Version](https://img.shields.io/badge/version-2.0.1--complète-green.svg)](https://github.com/kariamoss/DGS-FR/releases)
 [![Français](https://img.shields.io/badge/langue-100%25%20Fran%C3%A7ais-brightgreen.svg)](#contenu-du-patch)
 
 Patch de fan-traduction française intégrale pour **The Great Ace Attorney Chronicles** (*Dai Gyakuten Saiban 1 & 2*).
@@ -38,7 +38,8 @@ Patch de fan-traduction française intégrale pour **The Great Ace Attorney Chro
 * DLCs et Contenu Spécial entièrement traduits.
 * **Revue et harmonisation globale** :
   * Harmonisation stricte du titre officiel du procureur : **« Le Faucheur d'Old Bailey »** (élimination des incohérences grammaticales).
-  * Relecture générale, fluidification des répliques et élimination des anachronismes.
+  * Adoption du titre canonique français d'Arthur Conan Doyle : **« Le Ruban moucheté »**.
+  * Relecture générale, fluidification des répliques, élimination des anachronismes et d'anglicismes résiduels.
 
 ### The Great Ace Attorney 2: Resolve (DGS2)
 * **Jeu complet 100 % en français (Affaires 1 à 5 — Intégrale terminée !)**
@@ -54,6 +55,8 @@ Patch de fan-traduction française intégrale pour **The Great Ace Attorney Chro
 Pour une fidélité optimale à l'ambiance et au contexte historique de l'œuvre :
 * **Cadre victorien britannique** : Standardisation soignée des formules de politesse anglaises (`Mr`, `Mrs`, `Miss`, `Lord`) selon les usages de l'époque.
 * **Cadre japonais (Ère Meiji)** : Préservation des suffixes honorifiques traditionnels (`-sama`, `-san`) lorsque les personnages japonais s'adressent entre eux, respectant ainsi leurs liens et nuances culturelles.
+* **Transcription occidentale naturelle** : Remplacement des caractères kanjis et furiganas par leur transcription phonétique en alphabet latin (`chômiryô`, `Yûno`, `Hikari`, `koban`), pour une lecture limpide et fluide dans la police principale du jeu.
+* **Interface & Danse des Déductions** : Correction graphique et grammaticale de l'écran de conclusion de la Danse des Déductions (« Déduction parfaite ») avec typographie harmonisée.
 
 ---
 
@@ -91,7 +94,9 @@ Il n'y a pas de doublage français en jeu, mais nous avons implémenté un doubl
 
 * **Résolu (DGS2 Épisode 3)** : Les dialogues de tribunal qui étaient restés en japonais non sous-titré dans le patch d'origine sont désormais intégralement en français.
 * **Résolu (Genre du Faucheur)** : Harmonisation grammaticale masculine complète sur les deux jeux.
-* **Steam Deck (Linux)** : Le patcheur fonctionne sous Linux via `patcheur_ubuntu`.
+* **Résolu (Interface Danse des Déductions)** : Accord grammatical féminin (« Déduction parfaite ») avec graphisme harmonisé.
+* **Résolu (Lisibilité des termes japonais)** : Remplacement des kanjis minuscules et furiganas par une translittération occidentale claire et lisible.
+* **Steam Deck (Linux)** : Le patcheur fonctionne sous Linux via `patcheur_linux_steam_deck`.
 
 ---
 

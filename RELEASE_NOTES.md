@@ -1,8 +1,8 @@
 # Notes de Version : The Chronicles of Ace Attorney (Édition Complète)
 
-## Version 2.0.0 — Édition Complète Française (DGS1 + DGS2 100 % FR)
+## Version 2.0.1 — Édition Complète Française (DGS1 + DGS2 100 % FR)
 
-Cette mise à jour majeure marque l'achèvement complet de la fan-traduction française de la duologie **The Great Ace Attorney Chronicles**.
+Cette mise à jour marque l'achèvement complet de la fan-traduction française de la duologie **The Great Ace Attorney Chronicles**, enrichie d'une révision linguistique et graphique approfondie.
 
 ### Nouveautés majeures
 
@@ -20,7 +20,10 @@ Cette mise à jour majeure marque l'achèvement complet de la fan-traduction fra
   * Respect des usages victoriens en Angleterre (`Mr`, `Mrs`, `Miss`, `Lord`).
   * Préservation des suffixes honorifiques traditionnels entre personnages japonais (`-sama`, `-san`).
 * **Drake Van Peers** : Harmonisation stricte de son titre en **« Le Faucheur d'Old Bailey »** sur l'ensemble des deux jeux.
-* **Amélioration de la clarté** : Relecture globale, ajustement des intonations, correction de formulations qui pouvaient induire en erreur et rétablissement d'éléments cruciaux pour la logique des déductions.
+* **Fidélité littéraire** : Adoption du titre canonique français d'Arthur Conan Doyle : **« Le Ruban moucheté »**.
+* **Transcription occidentale naturelle** : Remplacement des kanjis et furiganas par une translittération occidentale fluide (`chômiryô`, `Yûno`, `Hikari`, `koban`), offrant un confort de lecture optimal dans la typographie principale du jeu.
+* **Interface & Danse des Déductions** : Correction graphique et grammaticale de l'écran de conclusion (« Déduction parfaite ») avec typographie harmonisée.
+* **Amélioration de la clarté** : Relecture globale, élimination d'anglicismes résiduels, ajustement des intonations, correction de formulations qui pouvaient induire en erreur et rétablissement d'éléments cruciaux pour la logique des déductions.
 
 ---
 
