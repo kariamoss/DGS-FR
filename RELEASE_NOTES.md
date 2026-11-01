@@ -4,17 +4,23 @@
 
 Cette version mineure apporte des ajustements stylistiques, littéraires et visuels :
 
-* **Fidélité littéraire** :
-  * Harmonisation de l'expression en **« Le Ruban moucheté »** dans les Épisodes 2 et 4 du premier jeu (en hommage à l'œuvre canonique d'Arthur Conan Doyle).
+* **Harmonisation complète du Faucheur d'Old Bailey** :
+  * Remplacement systématique de l'ensemble des occurrences de « Dieu de la Mort » par son titre officiel harmonisé : **« le Faucheur »** / **« le Faucheur d'Old Bailey »** sur toute la duologie.
+* **Lisibilité et clarté des lieux** :
+  * Épuration du terme **« London »** par le retrait des annotations rubis jaunes superflues (*« Londres »*), pour un confort de lecture optimal.
+* **Fidélité littéraire (Arthur Conan Doyle)** :
+  * Harmonisation intégrale en **« Le Ruban moucheté »** dans les dialogues, les titres de chapitres du menu, les slots de sauvegarde et les cinématiques d'introduction.
+* **Disparition des reliquats d'anglais sous rubis** :
+  * Remplacement de dizaines de rubies hybrides par leur traduction française directe et naturelle dans le corps du texte (ex. *« dans les cuisines »*, *« la diligence »*, *« l'armoire »*, *« les moteurs »*, *« l'Exposition Universelle »*).
 * **Interface & Danse des Déductions** :
   * Correction graphique et grammaticale de la texture de conclusion de la Danse des Déductions : **« Déduction parfaite »** (au lieu de *« Déduction parfait »*).
 * **Dialogues & Monologues intérieurs** :
-  * Ajustement de réplique dans l'Épisode 2 du premier jeu (*« la douleur de ces griffures »*).
-  * Correction des pensées intérieures de Ryûnosuke afin d'éliminer les formulations anglaises résiduelles (*« jusqu'à l'armoire »*, *« d'assaisonnement »*).
-* **Lisibilité des termes d'origine** :
-  * Remplacement des caractères kanjis au sein des dialogues par leur équivalent alphabétique occidental / français (ex. *diamants*, *kabuki*, *manteau*, *russe*), garantissant une lecture fluide et intégrée à la police principale.
+  * Ajustement de répliques (*« la douleur de ces griffures »*, pensées intérieures de Ryûnosuke en français).
+  * Correction des espacements parasites et doubles espaces dans les scènes d'enquête et de tribunal.
+* **Occidentalisation des kanjis** :
+  * Remplacement des caractères kanjis au sein des dialogues par leur transcription occidentale / française (ex. *diamants*, *kabuki*, *manteau*, *russe*), intégrée à la police principale.
 * **Stabilité** :
-  * Reconstruction stricte des archives de scripts avec intégrité totale des balises et compatibilité native complète avec le moteur de jeu.
+  * Intégrité totale des balises et compatibilité native complète avec le moteur de jeu.
 
 ---
 
