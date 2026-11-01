@@ -85,12 +85,16 @@ jobs:
 
       - name: Rassemblement des bundles
         run: |
-          mkdir release
+          mkdir -p release
           cp ./artifacts/patcheur_linux_steam_deck/* ./release/
           cp ./artifacts/patcheur_windows/* ./release/
           cp ./artifacts/patcheur_macos/* ./release/
           cp ./manuels_jaquettes.zip ./release/
           cp ./luma.zip ./release/
+          curl -fL --retry 3 -o ./release/patch_dgs1.aapatch https://github.com/AAI-fr/DGS-FR/releases/download/v1.1.1/patch_dgs1.aapatch
+          curl -fL --retry 3 -o ./release/patch_dgs2.aapatch https://github.com/AAI-fr/DGS-FR/releases/download/v1.1.1/patch_dgs2.aapatch
+          curl -fL --retry 3 -o ./release/patch_steam.aapatch https://github.com/AAI-fr/DGS-FR/releases/download/v1.1.1/patch_steam.aapatch
+          curl -fL --retry 3 -o ./release/patch_switch.aapatch https://github.com/AAI-fr/DGS-FR/releases/download/v1.1.1/patch_switch.aapatch
 
       - name: GitHub Release
         uses: softprops/action-gh-release@v2
