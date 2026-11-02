@@ -79,6 +79,17 @@ def transform_ruby(match):
             lead_space = ' ' if rb.startswith(' ') else ''
             trail_space = ' ' if rb.endswith(' ') else ''
             return lead_space + rt_clean + trail_space
+
+    # 5. French text in RB with English furigana in RT -> keep French text (rb) only!
+    eng_rt_indicators = {
+        'the', 'a', 'an', 'to', 'of', 'in', 'and', 'with', 'for', 'at', 'from', 'by',
+        'big', 'chance', 'seat', 'seats', 'coach', 'coachman', 'derby', 'smoke', 'lock',
+        'young', 'lady', 'horse', 'very', 'strange', 'rules', 'rule'
+    }
+    rt_words = set(re.findall(r'[a-zA-Z]+', rt_clean.lower()))
+    if rt_words.intersection(eng_rt_indicators) and rb_lower not in {'wûnoz', 'yûno'}:
+        if 'imperial police' not in rt_clean.lower():
+            return rb
             
     return full
 
