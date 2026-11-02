@@ -14,9 +14,12 @@ Cette version mineure apporte des ajustements stylistiques, littéraires et visu
   * Remplacement de dizaines de rubies hybrides par leur traduction française directe et naturelle dans le corps du texte (ex. *« dans les cuisines »*, *« la diligence »*, *« l'armoire »*, *« les moteurs »*, *« l'Exposition Universelle »*).
 * **Interface & Danse des Déductions** :
   * Correction graphique et grammaticale de la texture de conclusion de la Danse des Déductions : **« Déduction parfaite »** (au lieu de *« Déduction parfait »*).
-* **Dialogues & Monologues intérieurs** :
+* **Dialogues, monologues intérieurs & espacements** :
   * Ajustement de répliques (*« la douleur de ces griffures »*, pensées intérieures de Ryûnosuke en français).
-  * Correction des espacements parasites et doubles espaces dans les scènes d'enquête et de tribunal.
+  * Correction systématique des espacements agglutinés devant balises de style et de mise en forme (ex. *« la Crystal Tower »*, *« cette banquette »*, *« qu'un kimono »*, *« toute l'Europe »*).
+  * Suppression des espaces parasites précédant la ponctuation (*« toute l'Europe. »*).
+* **Finalisation des textes de DGS2 (Épisodes 3 et 4)** :
+  * Traduction intégrale des dialogues et séquences restantes en anglais dans DGS2 Épisode 3 (enquête au musée de cire, Grande Déduction, répliques de procès et dépositions du Jour 2) et des inspections de décor de l'Épisode 4.
 * **Occidentalisation des kanjis** :
   * Remplacement des caractères kanjis au sein des dialogues par leur transcription occidentale / française (ex. *diamants*, *kabuki*, *manteau*, *russe*), intégrée à la police principale.
 * **Stabilité** :

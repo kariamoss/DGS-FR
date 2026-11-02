@@ -135,6 +135,25 @@ def patch_string_content(text, entry_name=""):
     text = text.replace("<E516 23>russe<E519> .", "<E516 23>russe<E519>.")
     text = text.replace("de Saô ,", "de Sôseki,")
     
+    # 5. Fix spacing typos before and after formatting tags
+    text = text.replace("la<E507 a b>Crystal Tower", "la <E507 a b>Crystal Tower")
+    text = text.replace("cette<E516 56>banquette", "cette <E516 56>banquette")
+    text = text.replace("qu'un<E516 56>kimono", "qu'un <E516 56>kimono")
+    text = re.sub(r'\b([a-zA-ZÀ-ÿ]{2,})(<E5[01][67][^>]*>)', r'\1 \2', text)
+    text = re.sub(r'(<E519>)([a-zA-ZÀ-ÿ]{2,})', r'\1 \2', text)
+    
+    # Strip dummy rubies with blank RT
+    text = re.sub(r'<RUBY><RB>(.*?)</RB><RT>\s*(?:<COL[^>]*>)?\s*(?:</COL>)?\s*</RT></RUBY>', r'\1', text, flags=re.DOTALL)
+
+    # Clean the double ruby for London World Fair in sce02
+    text = re.sub(r'<E516 211><RUBY><RB>\s*pour la London\s*</RB><RT>.*?</RT></RUBY><E519>\s*<E516 160><RUBY><RB>\s*World Fair\s*</RB><RT>.*?</RT></RUBY><E519>',
+                  r"pour l'Exposition Universelle de London", text, flags=re.DOTALL)
+    
+    # London harmonization
+    text = text.replace("dans Londres", "dans London")
+    text = text.replace("surnomme <E003 8><E516 211>Londres", "surnomme <E003 8><E516 211>London")
+    text = text.replace("surnomme Londres", "surnomme London")
+    
     return text, (text != orig_text)
 
 def patch_gmd_bytes(gmd_bytes, entry_name=""):
