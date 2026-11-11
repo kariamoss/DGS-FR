@@ -1,0 +1,2347 @@
+{
+  "generated_at": "2026-11-11 17:32:14",
+  "applied": true,
+  "divergent_strings_resolved": 180,
+  "records": [
+    {
+      "gmd_key": "BB/script/output/_macro00_eng",
+      "index": 0,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "BB/sce00_eng.arc",
+      "chosen_preview": "... Maintenant, ça suffit ! Au nom du Grand Tribunal Impérial, j'affirme qu'il n'y a pas lieu de prolonger ce procès. Le",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro00_eng.gmd",
+          "preview": "... Maintenant, ça suffit ! Au nom du Grand Tribunal Impérial, j'affirme qu'il n'y a pas lieu de prolonger ce procès. Le"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro00_eng",
+      "index": 17,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "BB/sce00_eng.arc",
+      "chosen_preview": "C'est donc ici... que l'on met l' encre , hein ? Oui. On trempe la pointe du stylo dans un encrier, et on remplit le rés",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro00_eng.gmd",
+          "preview": "C'est donc ici... que l'on met l' 洋墨 , hein ? Oui. On trempe la pointe du stylo dans un encrier, et on remplit le réserv"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro01_eng",
+      "index": 13,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "BB/sce01_eng.arc",
+      "chosen_preview": "Bien. Je pense que nous avons examiné tout ce qu'on pouvait remarquer ici. Et si pour finir on retournait à la prison af",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro01_eng.gmd",
+          "preview": "Bien. Je pense que nous avons examiné tout ce qu'on pouvait remarquer ici. Et si pour finir on retournait à la prison af"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro01_eng",
+      "index": 67,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "BB/sce01_eng.arc",
+      "chosen_preview": "C'est ici qu'est brodé le nom de l'avocat à qui appartient ce brassard. Et le propriètaire de ce brassard d'avocat, c'es",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro01_eng.gmd",
+          "preview": "C'est ici qu'est brodé le nom de l'avocat à qui appartient ce brassard. Et le propriètaire de ce brassard d'avocat, c'es"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro01_eng",
+      "index": 68,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "BB/sce01_eng.arc",
+      "chosen_preview": "Ah ! J'ai déjà vu un truc comme ça ! C'est ce que vous appelez des \"kanji\", hein ?! C'est ça. Ce qui est brodé ici, c'es",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro01_eng.gmd",
+          "preview": "Ah ! J'ai déjà vu un truc comme ça ! C'est ce que vous appelez des \"kanji\", hein ?! C'est ça. Ce qui est brodé ici, c'es"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro01_eng",
+      "index": 69,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "BB/sce01_eng.arc",
+      "chosen_preview": "Ici, ce qui est brodé, c'est le nom de l'avocat à qui appartient ce brassard. En l'occurrence... ... Norasompéï Kiyô . Q",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro01_eng.gmd",
+          "preview": "Ici, ce qui est brodé, c'est le nom de l'avocat à qui appartient ce brassard. En l'occurrence... ... 伸存閉 器用 . Quand un j"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 13,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro02_eng.gmd",
+      "chosen_preview": "Bien, restons-en là ! Apparemment, les débats ont bien assez duré. N-Non... ! A-Attendez ! L'exposé de la défense n'est ",
+      "rejected": [
+        {
+          "container": "BB/sce02_eng.arc",
+          "preview": "Merci, Maître, cela suffira. Mais, mais, Votre Honneur, attendez ! La défense est encore en train d'établir son argument"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 14,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "Cette dernière déclaration semble pourtant être en contradiction avec les pièces à conviction ! C'est votre tâche, Maîtr",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "Dans cette déclaration, à l'instant, je pense qu'il y a une contradiction quelque part ! Ahem... Avant toute chose, comm"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 15,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro02_eng.gmd",
+      "chosen_preview": "Ah... En effet, ça semble tiré par les cheveux, je suppose, hein ? Oui... Veuillez ne parler que quand vous savez où, et",
+      "rejected": [
+        {
+          "container": "BB/sce02_eng.arc",
+          "preview": "... Il y a quelque chose qui cloche, pourtant. Vous ne trouvez pas ? Ce que je trouve, c'est que tout cet échange a été "
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 16,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "La défense se doit de contester cette dernière affirmation, Votre Honneur ! Et moi, je me dois de rejeter votre objectio",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "La défense émet une vive objection à la déclaration qui vient d'être faite ! La Cour rejette vivement cette vive objecti"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 17,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro02_eng.gmd",
+      "chosen_preview": "La défense... mérite une pénalité pour l'objection abusive qu'elle vient d'émettre. Vous m'en voyez soulagé... Maintenan",
+      "rejected": [
+        {
+          "container": "BB/sce02_eng.arc",
+          "preview": "La défense...se doit d'accepter la pénalité infligée. Ravi de l'entendre. Et vous feriez bien d'y réfléchir à nouveau, h"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 18,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "Cette dernière déclaration paraît pourtant bien étrange, vous ne trouvez pas ? Aimeriez-vous méditer sur ce qui vous par",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "Cette déclaration, juste à l'instant, est un peu étrange, à un moment... ! Si vous le pensez, vous devriez retourner au "
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 19,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "...Mais je mettrais bien quatre mois avant de pouvoir apporter une réponse à la cour. Rest assured, we should be happy t",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "Mais ce voyage de retour risque de prendre beaucoup de temps, je pense... Bien sûr, nous poursuivrons ici sans vous avan"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 20,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "Ces deux déclarations sont en totale contradiction l'une avec l'autre ! Alors, monsieur le président du jury ? ... Ah, u",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "ただ今の2つの《主張》は、 致命的に“contradiction”している ! いかがですか... 陪審長さんッ ! ... 『Sherlock Holmes』の 新刊が来月、発売ですか... ... V-Votre Honneur ! 陪"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 21,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "(Argh... On dirait bien que je fais fausse route. Je ferais mieux d'y réfléchir à nouveau.)",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "(ううう... どうやら、 見当違いだったみたいだ... )"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 22,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "These are the Scales of Justice. C'est un symbole de la défense, n'est-ce pas ? Yes, that's right. The scales are a symb",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "これは... 《天秤》ですね。 avocatの“印”なのでしょうか。 ... はい。そのとおりです。 法における《天秤》は、“何者も平等に 正邪をはかる”という意味があります。 かたよったココロで法廷に立つことを いましめているのでございま"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 23,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "Le nom de l'avocat est brodé à l'intérieur ici, regardez. ‘Kazuma Asogi’...This was his band, of course. Il tenait tant ",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "ここに、avocatの“名前”が 縫いとられています。 ... この《腕章》の持ち主。 『Norasompéï Kiyô 伸存閉 器用 Kiyô』... 器用さまは、Grand Empire Britanniqueへの留学に、 かなり強く、"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 24,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 25,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 26,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro02_eng.gmd",
+      "chosen_preview": "(Il n'y a... rien d'anormal dans cette zone.)",
+      "rejected": [
+        {
+          "container": "BB/sce02_eng.arc",
+          "preview": "(Rien de particulier à noter...)"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 27,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro02_eng.gmd",
+      "chosen_preview": "Il n'y a rien d'anormal dans cette zone.",
+      "rejected": [
+        {
+          "container": "BB/sce02_eng.arc",
+          "preview": "Je ne trouve rien d'anormal."
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 28,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 29,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 30,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 31,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 32,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 33,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 34,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 35,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "If I may, Mr Lune! Ah! You like one of a balloons, eh? Prego, prego. Ten shillings for one! No no, I was going to ask yo",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "... よろしいでしょうか。 マルマッチさん。 お ! このフーセンですね ? 1コ10 shillingsです ! いやいや ! 今の《証言》を聞いて、 気になることはありましたか ? .................. そりゃね。ワシ"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 36,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "Maître Gotts, avez-vous quelque chose à ajouter ? ......... Quelque chose qui vous aurait frappé dans ce que vous venez ",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "... いいですか、ゴッツくん ! .................. 今の《証言》を聞いていて、 なにか気になることは... イチバン気にナルの、ヒトの名前、 覚えないヒトがいるコト。 え。 Wilhelm Gottsreich Sig"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 37,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "Mademoiselle Lestrade ! Eh? Blimey, wot's up wiv you? Cette dernière déposition vous a-t-elle paru curieuse d'une façon ",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "... よろしいですか ? Ginaさん ! Qu'est-ce qu'il y a, Nick ? 今の《証言》... なにか、 気になることはありましたか ? .................. じゃあ、逆に聞くけど。 Yûnoこそ、"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 38,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "Monsieur Drebber ! Quelque chose ne va pas ? ......... Monsieur Drebber ! ......... Il semblerait que sa seule réponse s",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "... よろしいですか ! Drebberさん。 ...... ...... ... Drebberさん ! ...... ...... ... どうやら。クネクネ動いて クチを閉ざすつもりのようでございます。 ... クネクネは必要ない気"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 39,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "Dr Sithe ! Quoi ? Vous étiez manifestement perdue dans vos pensées ! ......... Vos cheveux japonais d'un noir de jais. P",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "... よろしいですか ! Docteur Tahl。 なんでしょうか。 今。なにか“考えごと”を していたのではありませんか ! ............... その、ニッポン人の黒い髪。 え。 もしかしたら。そのアタマの中には、 まっ黒"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 40,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 41,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 42,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 43,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 44,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 45,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 46,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 47,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 48,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 49,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 50,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 51,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 52,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 53,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 54,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 55,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 56,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 57,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 58,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 59,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 60,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 61,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 62,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 63,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 64,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 65,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 66,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 67,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 69,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 70,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 71,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 72,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 73,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 74,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 75,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 76,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 77,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 78,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 79,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 80,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 81,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 82,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 83,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 84,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 85,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 87,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 89,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 91,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 92,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 93,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 94,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 95,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 96,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 97,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 98,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 99,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 100,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "Every article on the front page is news about the Great Exhibition. Public experiments to demonstrate brand-new scientif",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "どこもかしこも、第一面は London万博の記事でいっぱいだ。 新しい科学技術の公開実験やら、 世界の国の文化の展覧会やら。 来るべき未来世紀への 期待と希望に満ちた書きっぷりだ。 ゼヒ... 今度、みんなで 遊びに行きたいトコロだ。"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 101,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "« Le Faucheur attaqué »... It's the kingpins of the criminal underworld generally managing to escape conviction in the R",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "... 《le Faucheur、襲撃される》... か。 《le Faucheur》の法廷でverdict coupableを 逃れるのは、“大悪党”ばかり... その“手下”たちが、彼を狙うのも これが最初ではないらしい。 ... しか"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 102,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "It looks like layers of thick canvas with a thick rubber lining of sorts. Je n'ai jamais rien vu de tel auparavant. Mais",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "ぶ厚い“帆布”を重ねて、 ぶ厚い“護謨”で裏打ちされている。 ... こんなシロモノ、 ぼくは見たコトがないけど... M. Holmesんのように、 あえて《スイリ》してみるならば。 この厚さ。絶対に濡れたくないヒトの “雨合羽”の一部な"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 103,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "Ah, there's some sort of lever here... What the– What is this?! It, it looks like a cross between a bow and a gun! .....",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "... ここに、小さな《引き具》の ようなものがあるな... うおおおおッ ! なな。なんだこれはッ ! まるで、《弓》と《猟銃》を 組み合わせたような... ......... ......... (おそらく。その使い道も 見てのとおり."
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 104,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "Cette rainure, ici...doit être l'endroit où l'on charge les flèches, j'imagine. J'avais donc bien raison, c'est une sort",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "この、“ミゾ”... どうやら ここに《矢》を設置するみたいだ。 やはり。これは... 自動的に 矢を射るための器械のようだな。 弓を射るとき、3回のうち2回は 弦で耳を打つぼくにピッタリだな。 .................. (.."
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 105,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "It looks like you wind this around in order to draw the bowstring back and create tension. On doit pouvoir décocher des ",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "... どうやら、これで《弦》を 巻き上げて、矢を射るみたいだ。 この感じだと、かなりの“張力”で 矢を発射するみたいだ。 おそらく... Japonの弓とは比較に ならない精度と破壊力があるのだろう。 うううん... mon 知らないトコ"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 106,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "There's no question considering the unusual shape of the handle... This is the screwdriver that was poking through the f",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "この、特徴のあるカタチ。 やはり... 間違いない。 あの《実験装置》の床の 金網に引っかかっていたものだ。 なんというか。《A》のカタチを しているように見えるけど... (“アンドルー”の《A》なのは 『言わずもがな』だな... )"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro02_eng",
+      "index": 107,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce02_eng.arc",
+      "chosen_preview": "This...is blood. Mr Asman's, no doubt. C'est tout le problème quand on examine l'arme d'un crime...",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro02_eng.gmd",
+          "preview": "これは... 血痕だ。もちろん、 M. Baddemannのものだろう。 これだから、殺人affaireの“凶器”は あまり見たくないんだよな..."
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 8,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": "Bien, restons-en là ! En mon nom, et au nom de la Cour, je pense qu'il est temps de prononcer le jugement. Comme il s'ag",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "Cela suffit ! J'estime avoir entendu bien assez de preuves pour me forger une opinion impartiale. Puisqu'il s'agit d'un "
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 9,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": "La déclaration du témoin, à l'instant, est en contradiction avec cette pièce à conviction ! Oui... C'est indéniable ! Hm",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "La dernière déclaration du témoin est clairement en contradiction avec cette pièce à conviction ! Oui ! Incontestablemen"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 10,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": "(Ooooh... Je ferais mieux de bien réfléchir encore une fois... )",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "(Ouh... Il est temps de revoir ma copie...)"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 11,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "Cette dernière déclaration était contradictoire sur bien des points, comme vous allez le voir ! Sur bien des points, dit",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "Je pense que cette toute dernière déclaration présente des tas de contradictions variées ! Oh ? \"Des tas\" de contradicti"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 12,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "(Ouh... Je me suis un peu mélangé les pinceaux. Sur bien des points, d'ailleurs.)",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "(Oooooh... J'ai des tas de raisons d'avoir honte de mes bêtises... !)"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 13,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "Votre Honneur ! Il y a clairement matière à douter de cette dernière déclaration ! Je regrette, Maître, mais je ne vois ",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "Votre Honneur ! Cette déclaration, à l'instant, est clairement suspecte ! Hm... Malheureusement pour vous, non, je ne le"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 14,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": "(Alors que ce juge se sert d'un tribunal pour faire ses sermons comme des prêches... )",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "(Dit l'homme qui distribue gaiement les pénalités...)"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 15,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": "(Il n'y a... rien d'anormal dans cette zone.)",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "(Rien de particulier à noter...)"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 16,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": "Il n'y a rien d'anormal dans cette zone.",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "Je ne trouve rien d'anormal."
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 17,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": "Attendez un peu... ! Que pensez-vous de ceci, Mlle Vénus ? Eh bien, je dirais que... ça coûte 600 pence ! Hein ?! C'est ",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "Alors, Mlle Venus ?! Qu'avez-vous à dire ? J'dis qu'ça f'ra six cents pennies. Pardon ? C'est c'que j'débite dans la rue"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 18,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": "Hé là, M. Le Papoteur ! Vous avez quelque chose à nous dire ? Hé là, M. Hugh Boone ! Vous avez quelque chose à nous dire",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "M. Ragot ! Avez-vous quelque chose à dire ? M. Boone ! Avez-vous quelque chose à dire ? Il s'trouve que oui ! Vous tombe"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 19,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "M. Sandwich ! Auriez-vous de quoi nous mettre sous la dent ? Un s-sage philosophe a dit un jour que les h-hommes ne sont",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "Que pensez-vous de cette déclaration, M. Sandwich ? Un jour, un grand philosophe a dit que... \"L-Les hommes ne sont r-ri"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 20,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "M. de Rousseau ! Quelque chose ne va pas ? J'étais en train de réfléchir à quelque chose. À propos du témoignage ? Une p",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "Vous voyez quelque chose à redire, M. d'Utalan ?! Je ne faisais guère plus que réfléchir à une petite chose. Se pourrait"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 21,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": "Ahem, désolé... Mais attendez de retourner dans votre cellule avant de fomenter vos plans.",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "...Ayez l'obligeance de discuter de vos futures activités criminelles une fois de retour dans votre cellule."
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 22,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": "Ahem, désolé... Mais attendez de retourner dans votre cellule avant de fomenter vos plans.",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "...Ayez l'obligeance de discuter de vos futures activités criminelles une fois de retour dans votre cellule."
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 23,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "M. de Rossi ! Avez-vous quelque chose à dire ? Che ? Quoi ? On aurait dit que vous pensiez à quelque chose... tout en av",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "Y voyez-vous quelque chose à redire, M. D'Etuffò ?! Ma che ? Che cosi fà ?! À l'instant, vous sembliez penser à quelque "
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 24,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": "Hmm... Bon, OK, ça suffira comme ça.",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "...Sans commentaire."
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 25,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": "Hmm... Bon, OK, ça suffira comme ça.",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "...Sans commentaire."
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 88,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "Ah ! Il y a des marques noires ici, regardez. Oui, on dirait...une sorte de traces de brûlure. Se pourrait-il que la bal",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "Ah... Juste là, il y a une sorte de résidu de couleur noire ! Oui...Ces traces noires ressemblent à une brûlure ou de la"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 90,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": "aurait donc servi de \"時限装置\"... pour détonner les pétards, hein ? Dommage que c'était afin de commettre un crime, car c'e",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "La bougie servait donc de détonateur à retardement pour allumer les pétards... C'est une idée fort ingénieuse... bien qu"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 91,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "Regardez cette tache sombre ici. Pensez-vous... ? Oui, j'en ai bien peur. Je crains que ce ne soit du sang. Ouh, je sava",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "Cette tache sombre, là. Est-ce que ce serait... ? Oui, très certainement. Je pense en effet que c'est du sang. Du sang.."
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 92,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "Regardez, il y a quelque chose à l'intérieur ! Oh, voyons voir... Il semble que ce soit un passeport...l'autorisant à vo",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "On dirait... qu'il y a quelque chose dans cette 鞄 ! Hm, voyons, ça, c'est... ... un 旅券 ... apparemment. L'inspecteur Gre"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 93,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "(Gregson s'est rendu en France la veille du jour où son corps a été découvert... ?)",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "(L'inspecteur Gregson se serait rendu en 仏蘭西 la veille de l'affaire... ?)"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 94,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": "Le 31 octobre... Ce 旅券 est daté de la veille du crime. L'inspecteur Gregson l'avait avec lui afin de se rendre en 仏蘭西 . ",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "Le 31 octobre... Ce passeport date donc de la veille du jour où le corps de Gregson a été découvert. Il avait besoin de "
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 95,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "Vous voyez ça ? Quelque chose est coincé sur le côté de la malle. Ça brille. On dirait un éclat de métal d'une certaine ",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "Hm, sur le côté de cette 鞄 ... il y a quelque chose qui brille. Voyons, c'est... apparemment une espèce de fragment méta"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 96,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "(Regardons à l'intérieur...)",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "(Et si nous regardions à l'intérieur de cette 鞄 , plutôt...... ?)"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 98,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "Avez-vous vu cette énorme entaille sur le côté de la malle ici ? Elle a traversé le cuir et entaillé le métal en dessous",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "Eh bien, là... le moins qu'on puisse dire, c'est que ça fait une énorme entaille. Le cuir a été totalement transpercé, e"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 99,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "Le professeur Mikotoba a une calligraphie magnifique, n'est-ce pas ? « Ce jeune homme vêtu de noir n'est absolument pas ",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "L'écriture du 亜見山教授 en 英文字 occidental est vraiment très belle. \"Ce jeune homme habillé en noir n'est pas un individu lou"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 100,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "Oh...on dirait une sorte de billet de bateau à vapeur. « SS Grouse Cabine de première classe 001 » « Départ de Yokohama ",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "Oh ! Mais c'est... un 乗船券 , on dirait bien ! \"Voyage à bord du Fetborev, 壱等船室 , cabine n°1.\" \"Départ de 横濱 : 11 septembr"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 101,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": "Eh bien, pauvre mignonne figurine... Sa tête a vraiment été malmenée, hein ? Je n'irais pas forcément jusqu'à dire \"mign",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "Le casque de ce charmant policier semble un peu défraîchi. Je ne suis pas convaincu par le mot « charmant », mais oui, v"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 102,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": "Eh bien, pauvre mignonne figurine... Sa tête a vraiment été malmenée, hein ? Je n'irais pas forcément jusqu'à dire \"mign",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "Le casque de ce charmant policier semble un peu défraîchi. I'm not convinced about the ‘charming’ part, but yes, you're "
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 103,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "C'est donc la petite clé servant à remonter la montre de poche de l'inspecteur. C'était un mystère au début. Pourquoi un",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "Voici donc la clé qui sert à remonter la montre de gousset. Je me demandais ourquoi en avoir fait un mini policier. C'es"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 104,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": "J'ai toujours été curieux de savoir à quoi ressemblait une perruque \"en-dessous\"... Être curieux de \"ce qui se cache en-",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "Je me suis toujours demandé à quoi ressemblait le dessous d'un postiche. Cela ne me surprend pas du tout, M. Naruhodo. V"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 105,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "C'est donc le type de revolver standard fourni aux membres de l'appareil judiciaire. Oui. Et quand j'ai demandé si des r",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "Ce type d'arme est donc le modèle \"standard\" remis aux forces de l'ordre, hein ? D'ailleurs... j'ai essayé de me renseig"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 106,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "Il y a des détails sur tout un tas d'affaires remontant à des années ici, n'est-ce pas ? Ce papier d'il y a dix ans a ja",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "Assurément, c'est tout un tas de documents et d'archives sur des affaires durant des années. Ce 捜査報告書 datant d'il y a 10"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 107,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": ".................. Mais c'est... ! M. Nick ! R-Re-... Regardez, là ! Ah, oui, cette espèce de trace, là. Quand on y rega",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "......... Oh. Qu'est-ce que c'est... ? M. Naruhodo ! Regardez ! Ah oui. C'est une sorte de tache. En fait... ...on dirai"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 108,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": ".................. Vous pensez à quelque chose ? Vous semblez fixer le bout de la mèche de ces pétards... Ah, non, c'est",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "......... Vous avez une idée, M. Naruhodo ? Vous fixez le bout de la mèche des pétards. Pardon. C'est juste que c'est le"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 109,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": "Tiens... Là, on dirait un peu le trou d'une serrure, non ? Très probablement. Je pense que c'est le trou pour remonter l",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "Ah... Il y a un minuscule trou de serrure ici. Vous voyez ? Oh oui. C'est probablement pour le remontoir servant à remon"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 110,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": "C'est ici que la \"clé\" en forme de policier s'insère pour remonter le mécanisme. Dix ans ainsi passés... à tous les jour",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "C'est donc ici qu'entre la clé de la figurine de policier pour remonter la montre. La remonter chaque jour que Dieu fait"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 111,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "Le verre du cadran est vraiment très fissuré, regardez. Quel dommage, alors que l'inspecteur en prenait si grand soin. J",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "Le 硝子 sur l'avant... est décidément dans un sale état. Quel dommage... ça semblait être un objet important et traité ave"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 112,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro03_eng.gmd",
+      "chosen_preview": "Depuis ce petit trou, il y a comme une espèce de petite pointe qui dépasse... Je pense qu'il y avait sûrement là une sor",
+      "rejected": [
+        {
+          "container": "BB/sce03_eng.arc",
+          "preview": "Il y a une minuscule tige qui dépasse de ce petit trou ici, regardez. J'imagine qu'il devait y avoir un petit bouton ou "
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 113,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "Eh bien, je suppose qu'on devrait regarder à quoi ressemble ce carnet d'inspecteur à l'intérieur...",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "Et si... nous regardions à l'intérieur de ces papiers d'identité ?"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 114,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "Oui, ça a vraiment l'air faux, n'est-ce pas ? Par curiosité, quel nom est indiqué ? Sans doute un nom inventé de toutes ",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "Effectivement... Cet objet donne l'impression d'être un faux, tu n'es pas d'accord ? Soit dit en passant, quel est le no"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro03_eng",
+      "index": 115,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce03_eng.arc",
+      "chosen_preview": "Cet insigne de Scotland Yard m'a l'air authentique. Et les détails du département et du matricule sont tous exacts eux a",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro03_eng.gmd",
+          "preview": "Hm, ce 記章 de Scotland Yard... semble assurément authentique. De plus, le poste d'affectation, et le matricule... comme t"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 6,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce04_eng.arc",
+      "chosen_preview": "Nous avons perdu assez de temps ! Il est clair à mes yeux que prolonger les débats sur cette affaire ne mènera à rien. D",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro04_eng.gmd",
+          "preview": "Bon... Maintenant, ça suffit ! Il apparaît clair pour ce tribunal qu'il y a matière suffisante à rendre un verdict. Drak"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 7,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce04_eng.arc",
+      "chosen_preview": "Nous avons perdu assez de temps ! Il est clair à mes yeux que prolonger les débats sur cette affaire ne mènera à rien. D",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro04_eng.gmd",
+          "preview": "Bon... Maintenant, ça suffit ! Il apparaît clair pour ce tribunal qu'il y a matière suffisante à rendre un verdict. Drak"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 8,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce04_eng.arc",
+      "chosen_preview": "Nous avons perdu assez de temps ! Il est clair à mes yeux que prolonger les débats sur cette affaire ne mènera à rien. D",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro04_eng.gmd",
+          "preview": "Bon... Maintenant, ça suffit ! Il apparaît clair pour ce tribunal qu'il y a matière suffisante à rendre un verdict. Drak"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 9,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce04_eng.arc",
+      "chosen_preview": "Au vu des éléments apportés devant cette cour, je déclare par la présente l'accusé, Drake Van Peers... L'affaire est clo",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro04_eng.gmd",
+          "preview": "Je vais ainsi rendre mon ultime verdict contre l'accusé, Drake Van Peers, qui est déclaré... Bien...Sur ce, je déclare q"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 10,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro04_eng.gmd",
+      "chosen_preview": "Bon... Maintenant, ça suffit. Ce procès a révélé tout ce qui était possible. Pour la sécurité de London... et pour la ju",
+      "rejected": [
+        {
+          "container": "BB/sce04_eng.arc",
+          "preview": "... Assez ! Aucune autre discussion n'est requise. Pour la préservation de l'ordre public à Londres, et pour le triomphe"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 12,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro04_eng.gmd",
+      "chosen_preview": "Et... hop ! Est-ce que c'était cette preuve ?! Ahem... Si vous présentez un objet bizarre, même avec un visage souriant,",
+      "rejected": [
+        {
+          "container": "BB/sce04_eng.arc",
+          "preview": "La preuve...la voici ! ...Vous me laissez perplexe, Maître, à vous montrer si satisfait de vous malgré cette réponse des"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 13,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce04_eng.arc",
+      "chosen_preview": "Eh bien... il faut un génie certain, selon moi, pour fournir une réponse aussi complètement fausse. Le genre de génie do",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro04_eng.gmd",
+          "preview": "Hmm... C'est totalement faux. Mais je ressens des capacités intellectuelles prodigieuses ! OK, pas besoin d'être un géni"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 14,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro04_eng.gmd",
+      "chosen_preview": "La déclaration du témoin, à l'instant... comporte clairement une contradiction ! Pour un tribunal du Grand Empire Britan",
+      "rejected": [
+        {
+          "container": "BB/sce04_eng.arc",
+          "preview": "La dernière déposition du témoin...présente une contradiction fondamentale ! Pas une seule contradiction qu'un tribunal "
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 15,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro04_eng.gmd",
+      "chosen_preview": "(Euh...Est-ce normal qu'un procès à huis clos prenne une connotation si terrifiante... ?)",
+      "rejected": [
+        {
+          "container": "BB/sce04_eng.arc",
+          "preview": "(... Devrais-je me demander si je sortirai vivant de cette salle d'audience ?)"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 16,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce04_eng.arc",
+      "chosen_preview": "Cette dernière déclaration... m'a paru quelque peu douteuse. Qu'en pensez-vous, Votre Honneur ? Je n'y vois aucune contr",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro04_eng.gmd",
+          "preview": "Cette déclaration, à l'instant... qu'en pensez-vous, Votre Honneur ?! Je n'y vois aucune contradiction. Et vous... qu'en"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 17,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce04_eng.arc",
+      "chosen_preview": "(Voulez-vous donc que je remplisse la Manche de mes larmes ?)",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro04_eng.gmd",
+          "preview": "(Je devrais surtout verser un océan de larmes...)"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 18,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce04_eng.arc",
+      "chosen_preview": "Votre Honneur ! En ma qualité d'avocat de la défense, je dois m'opposer à cette dernière déclaration ! Et en ma qualité ",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro04_eng.gmd",
+          "preview": "Votre Honneur ! Face à cette déclaration, la défense doit émettre une objection ! Pour ma part, en tant que juge, je doi"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 19,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce04_eng.arc",
+      "chosen_preview": "(... Avocat désigné par un lord juge en chef pas si lointain, si ma mémoire est bonne.)",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro04_eng.gmd",
+          "preview": "(Alors que... le procureur qui plaide ici est lui aussi un Asiatique venu d'Orient, hein...)"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 20,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro04_eng.gmd",
+      "chosen_preview": "(Je veux bien examiner, mais... il n'y a rien d'anormal dans cette zone.)",
+      "rejected": [
+        {
+          "container": "BB/sce04_eng.arc",
+          "preview": "(Rien de bien notable par ici, ma foi.)"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 21,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro04_eng.gmd",
+      "chosen_preview": "(Je veux bien examiner, mais... il n'y a rien d'anormal dans cette zone.)",
+      "rejected": [
+        {
+          "container": "BB/sce04_eng.arc",
+          "preview": "(Rien de particulier à signaler...)"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 22,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro04_eng.gmd",
+      "chosen_preview": "Il n'y a rien de particulier ici.",
+      "rejected": [
+        {
+          "container": "BB/sce04_eng.arc",
+          "preview": "Je ne trouve rien d'anormal."
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 23,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro04_eng.gmd",
+      "chosen_preview": "Alors... qu'en dites-vous, monsieur le procureur Van Peers ?! La déclaration du témoin à l'instant aurait-elle quelque c",
+      "rejected": [
+        {
+          "container": "BB/sce04_eng.arc",
+          "preview": "Lord Van Peers ! Laissez-moi deviner : y a-t-il quelque chose dans la dernière déposition du témoin qui me contrarie ? E"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 24,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro04_eng.gmd",
+      "chosen_preview": "(Et ce serait... un Faucheur qui donne des leçons sur les humains, hein ?)",
+      "rejected": [
+        {
+          "container": "BB/sce04_eng.arc",
+          "preview": "(... Les sonder... ou les faucher ?)"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 25,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/script/output/_macro04_eng.gmd",
+      "chosen_preview": "(Et ce serait... un Faucheur qui donne des leçons sur les humains, hein ?)",
+      "rejected": [
+        {
+          "container": "BB/sce04_eng.arc",
+          "preview": "(... Les sonder... ou les faucher ?)"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 26,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce04_eng.arc",
+      "chosen_preview": "Quelque chose vous préoccupe, directeur Caidin ? Hein ? Vous aviez l'air d'être perdu dans vos pensées à l'instant. Ah, ",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro04_eng.gmd",
+          "preview": "... よろしいですか。 Jerry M. le directeur Postey ! ... なんですかな ? 今...なにか、考えごとを しているように見えたのですが... ああ。私がいないあいだに、 囚人が脱獄しないか、シンパイで。 "
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 27,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce04_eng.arc",
+      "chosen_preview": "Monsieur Vigil ! Quelque chose ne va pas ? ......... Oh non ! Vous... vous n'avez tout de même pas encore perdu la mémoi",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro04_eng.gmd",
+          "preview": "Mme Liayさん。 ... よろしいでしょうか ? ...... ............ ... ま。まさか... ! また、記憶を失っているのでは... いえいえ ! ちょっと ボンヤリしていただけです ! ... まぎらわしいので"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 28,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce04_eng.arc",
+      "chosen_preview": "La pointe de Karuma... C'est donc ainsi qu'elle a été brisée. Kazuma manie le sabre à la perfection. Je n'arrive pas à c",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro04_eng.gmd",
+          "preview": "Ah... La pointe de la lame mythique 狩魔 ... C'est donc ainsi qu'elle fut brisée... 器用 est un manieur de sabre sans égal.."
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_macro04_eng",
+      "index": 29,
+      "selection_mode": "per_string",
+      "chosen_from": "BB/sce04_eng.arc",
+      "chosen_preview": "Karuma, la noble lame... Elle est d'une telle beauté que je pourrais la contempler des heures durant.",
+      "rejected": [
+        {
+          "container": "BB/script/output/_macro04_eng.gmd",
+          "preview": "Ah... La lame mythique 狩魔 ... Je pourrais passer des lustres à l'admirer."
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_sce04_c100_0000_eng",
+      "index": 6,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "BB/sce00_eng.arc",
+      "chosen_preview": "3 novembre, 9h14 Tribunal de Old Bailey - Salle des accusés (Eh ben comme ça... Ça y est, c'est le grand jour, hein.) (A",
+      "rejected": [
+        {
+          "container": "BB/sce04_eng.arc",
+          "preview": "3 novembre, 9 h 14 Old Bailey, antichambre des accusés (Ça y est...l'heure est enfin venue.) (Aujourd'hui...nous ferons "
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_sce04_c100_0000_eng",
+      "index": 7,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "BB/sce00_eng.arc",
+      "chosen_preview": "(Amimo... me semble assurément étrange, elle n'est pas dans son état normal.) (Bien évidemment, ce n'est pas sans raison",
+      "rejected": [
+        {
+          "container": "BB/sce04_eng.arc",
+          "preview": "(Susato n'est pas du tout dans son assiette habituelle.) (Mais ce n'est guère surprenant, j'imagine.) (Elle vient d'appr"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_sce04_c100_0000_eng",
+      "index": 8,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "BB/sce00_eng.arc",
+      "chosen_preview": "Au fait... ... depuis tout à l'heure, je me demande pour quelle raison flotte un parfum de thé luxueux... Oh... I-Iris !",
+      "rejected": [
+        {
+          "container": "BB/sce04_eng.arc",
+          "preview": "Dites-moi un peu... ...pourquoi donc humé-je ici l'arôme de feuilles de thé de grand cru ? Oh ! Iris ! Quand es-tu arriv"
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_sce04_c100_0000_eng",
+      "index": 9,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "BB/sce00_eng.arc",
+      "chosen_preview": "Si jamais dans le procès d'aujourd'hui... vous n'avez plus rien \"sous la main\", alors... ... essaie de tirer les oreille",
+      "rejected": [
+        {
+          "container": "BB/sce04_eng.arc",
+          "preview": "Si jamais vous vous retrouvez à court d'idées pendant le procès aujourd'hui... ... tirez simplement sur les oreilles de "
+        }
+      ]
+    },
+    {
+      "gmd_key": "BB/script/output/_sce04_c100_0000_eng",
+      "index": 10,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "BB/sce00_eng.arc",
+      "chosen_preview": "Hein... ?! Lui... tirer les oreilles ? Exactement ! C'est une façon de faire venir la chance. Je suis sûre... que ça te ",
+      "rejected": [
+        {
+          "container": "BB/sce04_eng.arc",
+          "preview": "Quoi... ? Tirer sur ses oreilles ? C'est ça ! Ça porte chance. ... Et je crois que vous allez en avoir besoin ! Le porte"
+        }
+      ]
+    },
+    {
+      "gmd_key": "GO/script/output/_macro00_eng",
+      "index": 13,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "GO/sce00_eng.arc",
+      "chosen_preview": "C'est assez incroyable qu'un koban si précieux se soit retrouvé sous un morceau de viande. Surtout que les objets datant",
+      "rejected": [
+        {
+          "container": "GO/script/output/_macro00_eng.gmd",
+          "preview": "C'est assez incroyable qu'un 小判 si précieux se soit retrouvé sous un morceau de viande. Surtout que les objets datant de"
+        }
+      ]
+    },
+    {
+      "gmd_key": "GO/script/output/_macro00_eng",
+      "index": 14,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "GO/sce00_eng.arc",
+      "chosen_preview": "HEEEEEEEEEEEEEIIIIIIIIIIIIIIIIN ?! M-M-Mais... M-Mais q-qu'est-ce... ? Qu'est-ce que c'est que ce truc ?! Ma foi... Ça m",
+      "rejected": [
+        {
+          "container": "GO/script/output/_macro00_eng.gmd",
+          "preview": "HEEEEEEEEEEEEEIIIIIIIIIIIIIIIIN ?! M-M-Mais... M-Mais q-qu'est-ce... ? Qu'est-ce que c'est que ce truc ?! Ma foi... Ça m"
+        }
+      ]
+    },
+    {
+      "gmd_key": "GO/script/output/_macro00_eng",
+      "index": 23,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "GO/sce00_eng.arc",
+      "chosen_preview": "... Sur la couverture du rapport, c'est écrit Clinique Yakakané . La clinique Yakakané, hm... Brrr. \"Clinique\", \"hôpital",
+      "rejected": [
+        {
+          "container": "GO/script/output/_macro00_eng.gmd",
+          "preview": "... Sur la couverture du rapport, c'est écrit 輩金 診療所 . La clinique Yakakané, hm... Brrr. \"Clinique\", \"hôpital\", ou \"cabi"
+        }
+      ]
+    },
+    {
+      "gmd_key": "GO/script/output/_macro02_eng",
+      "index": 25,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "GO/sce02_eng.arc",
+      "chosen_preview": "Ces banquettes semblent confortables, mais elles sont bien plus dures qu'il n'y paraît. S'il y avait deux gentlemen assi",
+      "rejected": [
+        {
+          "container": "GO/script/output/_macro02_eng.gmd",
+          "preview": "Ces banquettes semblent confortables, mais elles sont bien plus dures qu'il n'y paraît. S'il y avait deux gentlemen assi"
+        }
+      ]
+    },
+    {
+      "gmd_key": "GO/script/output/_macro02_eng",
+      "index": 26,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "GO/sce02_eng.arc",
+      "chosen_preview": "(On dirait... que sur cette banquette se trouve une sorte de poignée...)",
+      "rejected": [
+        {
+          "container": "GO/script/output/_macro02_eng.gmd",
+          "preview": "(On dirait... que sur cette 座席 se trouve une sorte de poignée...)"
+        }
+      ]
+    },
+    {
+      "gmd_key": "GO/script/output/_macro02_eng",
+      "index": 32,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "GO/sce02_eng.arc",
+      "chosen_preview": "C'est une affiche publicitairepour l'Exposition Universelle de London qui aura lieu dans six mois. On y voit notamment l",
+      "rejected": [
+        {
+          "container": "GO/script/output/_macro02_eng.gmd",
+          "preview": "C'est une affiche publicitairepour l'Exposition Universelle de London qui aura lieu dans six mois. On y voit notamment l"
+        }
+      ]
+    },
+    {
+      "gmd_key": "msgCommon/UI_eng",
+      "index": 0,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "msg_cmn_eng.arc",
+      "chosen_preview": "Un nouveau lieu est disponible.",
+      "rejected": [
+        {
+          "container": "BB/msg_title_eng.arc",
+          "preview": "A new location has been added."
+        }
+      ]
+    },
+    {
+      "gmd_key": "msgCommon/UI_eng",
+      "index": 1,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "msg_cmn_eng.arc",
+      "chosen_preview": "Converser",
+      "rejected": [
+        {
+          "container": "BB/msg_title_eng.arc",
+          "preview": "Converse"
+        }
+      ]
+    },
+    {
+      "gmd_key": "msgCommon/UI_eng",
+      "index": 2,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "msg_cmn_eng.arc",
+      "chosen_preview": "Examiner",
+      "rejected": [
+        {
+          "container": "BB/msg_title_eng.arc",
+          "preview": "Examine"
+        }
+      ]
+    },
+    {
+      "gmd_key": "msgCommon/UI_eng",
+      "index": 3,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "msg_cmn_eng.arc",
+      "chosen_preview": "Se déplacer",
+      "rejected": [
+        {
+          "container": "BB/msg_title_eng.arc",
+          "preview": "Move"
+        }
+      ]
+    },
+    {
+      "gmd_key": "msgCommon/UI_eng",
+      "index": 4,
+      "selection_mode": "cohesive_file",
+      "chosen_from": "msg_cmn_eng.arc",
+      "chosen_preview": "Présenter",
+      "rejected": [
+        {
+          "container": "BB/msg_title_eng.arc",
+          "preview": "Present"
+        }
+      ]
+    }
+  ]
+}

@@ -34,3 +34,7 @@ tools/exported_png/
 tools/patched_png/
 tools/repacked_dds/
 tools/get-pip.py
+__pycache__/
+analyse/cache/
+analyse/backlog/*.tmp
+scratch/
