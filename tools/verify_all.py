@@ -26,11 +26,12 @@ def _check_tag_balance(text: str) -> list[str]:
         ("<RB>", "</RB>"),
         ("<RT>", "</RT>"),
     ]
-    for op, cl in pairs:
-        c_op = text.count(op)
-        c_cl = text.count(cl)
-        if c_op != c_cl:
-            errs.append(f"unbalanced {op}({c_op})/{cl}({c_cl})")
+    for p_idx, page in enumerate(text.split("<PAGE>")):
+        for op, cl in pairs:
+            c_op = page.count(op)
+            c_cl = page.count(cl)
+            if c_op != c_cl:
+                errs.append(f"p{p_idx} unbalanced {op}({c_op})/{cl}({c_cl})")
     return errs
 
 

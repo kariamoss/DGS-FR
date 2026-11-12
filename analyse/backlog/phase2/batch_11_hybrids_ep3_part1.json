@@ -1,0 +1,4272 @@
+[
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_bg0303_0_check_eng",
+    "index": 9,
+    "total_pages": 9,
+    "pages": [
+      {
+        "page": 4,
+        "kind": "orig_short",
+        "speaker": "id:110",
+        "prev_fr": "Des c-créatures de l'espace ar-arrivant dans des objets volants ronds... p-p-pour envahir la Terre !",
+        "next_fr": "J-Je suppose que les créatures des a-autres planètes sont f-forcément intriguées par l'E-Exposition Universelle...",
+        "orig_clean": "What?",
+        "en_clean": "What?",
+        "prefix": "\r\n<E800 318><E041 110 5><E333><E025 2>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "What?",
+        "fr_masked": "Quoi ?"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_bg0304_1_check_eng",
+    "index": 14,
+    "total_pages": 17,
+    "pages": [
+      {
+        "page": 3,
+        "kind": "orig_short",
+        "speaker": "Drake Van Peers",
+        "prev_fr": "Euh... Mlle Susato...",
+        "next_fr": "C'est... une pelle, n'est-ce pas ?",
+        "orig_clean": "Yes?",
+        "en_clean": "Yes?",
+        "prefix": "\r\n<E800 256><E041 9 2><E025 2>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "Yes?",
+        "fr_masked": "Oui ?"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_bg1300_1_check_eng",
+    "index": 5,
+    "total_pages": 8,
+    "pages": [
+      {
+        "page": 2,
+        "kind": "orig_short",
+        "speaker": "阿美藻",
+        "prev_fr": "Il ne semble pas très convenable que M. Sholmes ait glissé l'argent dans sa propre poche, n'est-ce pas ?",
+        "next_fr": "Ah ! Nous pourrions demander à Gina de le récupérer pour nous. Grâce à ses talents particuliers.",
+        "orig_clean": "No...",
+        "en_clean": "No...",
+        "prefix": "\r\n<E800 370><E563><E800 373><E148 3 68 0 5><E800 374><E144 3><E800 376><E041 3 2><E025 3>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "No...",
+        "fr_masked": "Non..."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c001_0050_eng",
+    "index": 4,
+    "total_pages": 23,
+    "pages": [
+      {
+        "page": 8,
+        "kind": "orig_short",
+        "speaker": "Sandwich",
+        "prev_fr": "...!",
+        "next_fr": "A, a lawyer, you say?",
+        "orig_clean": "A LAWYER!",
+        "en_clean": "A LAWYER!",
+        "prefix": "\r\n<E800 124><E616><E800 127><E164 68 78 1 2 5 0 3 1><E800 128><E139 68><E800 130><E041 68 68><E025 1>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E085 2 20>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "A LAWYER![[T0]]",
+        "fr_masked": "UN AVOCAT ![[T0]]"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c002_0000_eng",
+    "index": 2,
+    "total_pages": 60,
+    "pages": [
+      {
+        "page": 20,
+        "kind": "orig_short",
+        "speaker": "Gina Lestrade",
+        "prev_fr": "Ah!",
+        "next_fr": "Tobias Gregson, an inspector at Scotland Yard.",
+        "orig_clean": "Your Ladyshiiip!",
+        "en_clean": "Your Ladyshiiip!",
+        "prefix": "\r\n<E800 206><E085 2 0><E800 208><E136 7 83 20><E800 209><E117 7 8><E800 211><E041 7 9><E025 1><E346>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "Your Ladyshiiip!",
+        "fr_masked": "Votre Seigneuriie !"
+      },
+      {
+        "page": 33,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "Watch it, sunshine!",
+        "next_fr": "Yer a lawyer, ain't ya? Ya could stand to carry a bit more copper around in yer pockets, Mr Narra-'Oddo!",
+        "orig_clean": "S-Sorry...",
+        "en_clean": "S-Sorry...",
+        "prefix": "\r\n<E800 263><E041 1 0><E338><E341><E025 4>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 10>",
+          "<E025 3>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "S-[[T0]][[T1]]Sorry...",
+        "fr_masked": "D-[[T0]][[T1]]Désolé..."
+      },
+      {
+        "page": 55,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "Wot's yer problem, eh, 'Oddo?!",
+        "next_fr": "Inspector?! (That badge is homemade, surely...)",
+        "orig_clean": "In...",
+        "en_clean": "In...",
+        "prefix": "\r\n<E800 348><E041 1 0><E025 2>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "In...",
+        "fr_masked": "Ins..."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c002_0000_eng",
+    "index": 4,
+    "total_pages": 6,
+    "pages": [
+      {
+        "page": 2,
+        "kind": "orig_short",
+        "speaker": "id:122",
+        "prev_fr": "Qu'est-ce que vous voulez dire par là ?",
+        "next_fr": "(This...)",
+        "orig_clean": "Right...sir.",
+        "en_clean": "Right...sir.",
+        "prefix": "\r\n<E800 397><E145 122 67><E800 398><E041 122 6><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E025 7>",
+          "<E003 12>",
+          "<E025 3>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Right[[T0]]...[[T1]][[T2]]sir.",
+        "fr_masked": "Bien[[T0]]...[[T1]][[T2]] monsieur."
+      },
+      {
+        "page": 3,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "Right...sir.",
+        "next_fr": "(This raises a LOT of questions!)",
+        "orig_clean": "(This...)",
+        "en_clean": "(This...)",
+        "prefix": "\r\n<E800 399><E563><E800 402><E047 7 0><E003 10><E141 7 8><E144 7><E003 40><E800 404><E041 1 0><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E007>",
+          "<E025 7>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "[[T0]](This[[T1]]...)",
+        "fr_masked": "[[T0]](Ça[[T1]]...)"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c002_0030_eng",
+    "index": 6,
+    "total_pages": 13,
+    "pages": [
+      {
+        "page": 4,
+        "kind": "orig_short",
+        "speaker": "id:110",
+        "prev_fr": "Il ne serait pas l'heure de lever le camp ? Or rather...it IS about time you were leavin'!",
+        "next_fr": "Oh dear. Poor Gregsy.",
+        "orig_clean": "That lot?",
+        "en_clean": "That lot?",
+        "prefix": "\r\n<E800 91><E563><E800 94><E141 7 5><E800 95><E144 7><E800 96><E148 110 72 0 5><E800 97><E144 110><E800 99><E041 110 5><E025 2>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "That lot?",
+        "fr_masked": "Ces gens-là ?"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c002_0030_eng",
+    "index": 8,
+    "total_pages": 25,
+    "pages": [
+      {
+        "page": 18,
+        "kind": "orig_short",
+        "speaker": "id:110",
+        "prev_fr": "What? At, at this popular London attraction?",
+        "next_fr": "Madame Tusspells...?",
+        "orig_clean": "Yes!",
+        "en_clean": "Yes!",
+        "prefix": "\r\n<E800 264><E563><E800 266><E145 110 77><E800 267><E139 110><E800 269><E041 110 5><E025 2><E341>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "Yes!",
+        "fr_masked": "Oui !"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c003_0020_eng",
+    "index": 2,
+    "total_pages": 34,
+    "pages": [
+      {
+        "page": 8,
+        "kind": "orig_short",
+        "speaker": "－－－－－－",
+        "prev_fr": ".........",
+        "next_fr": "(Not again!)",
+        "orig_clean": "Greetings...",
+        "en_clean": "Greetings...",
+        "prefix": "\r\n<E800 92><E041 0 50><E025 3><E239>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "Greetings...",
+        "fr_masked": "Salutations..."
+      },
+      {
+        "page": 14,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "Greetings...",
+        "next_fr": "...Is that significant somehow?",
+        "orig_clean": "(Not again!)",
+        "en_clean": "(Not again!)",
+        "prefix": "\r\n<E800 126><E041 1 0><E025 1>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E007>",
+          "<E606>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "[[T0]][[T1]](Not again!)",
+        "fr_masked": "[[T0]][[T1]](Pas encore !)"
+      },
+      {
+        "page": 20,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "I'm a ‘madame’ in name only. It adds a certain...je ne sais quoi.",
+        "next_fr": "She sounds deadly serious.",
+        "orig_clean": "Right...",
+        "en_clean": "Right...",
+        "prefix": "\r\n<E800 150><E041 1 0><E025 4>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "Right...",
+        "fr_masked": "Je vois..."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c003_0070_eng",
+    "index": 11,
+    "total_pages": 12,
+    "pages": [
+      {
+        "page": 6,
+        "kind": "orig_short",
+        "speaker": "阿美藻",
+        "prev_fr": "‘Have the money ready by noon on 23rd October.’",
+        "next_fr": "Yes! It's a ransom note!",
+        "orig_clean": "WHAT?!",
+        "en_clean": "WHAT?!",
+        "prefix": "\r\n<E800 284><E041 4 5><E045><E025 1>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "WHAT?!",
+        "fr_masked": "QUOI ?!"
+      },
+      {
+        "page": 10,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "Yes! It's a ransom note!",
+        "next_fr": "",
+        "orig_clean": "Exactly!",
+        "en_clean": "Exactly!",
+        "prefix": "\r\n<E800 288><E041 1 0><E003 5><E025 2>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "Exactly!",
+        "fr_masked": "Exactement !"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c003_0070_eng",
+    "index": 32,
+    "total_pages": 11,
+    "pages": [
+      {
+        "page": 5,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "Mr Naruhodo...",
+        "next_fr": "",
+        "orig_clean": "Yes?",
+        "en_clean": "Yes?",
+        "prefix": "\r\n<E800 975><E149 1 0 8><E800 976><E172 1 4 -163 10 3 1><E800 977><E492 1 -163 10 3><E800 978><E041 1 0><E025 2>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "Yes?",
+        "fr_masked": "Oui ?"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c003_0080_eng",
+    "index": 22,
+    "total_pages": 10,
+    "pages": [
+      {
+        "page": 6,
+        "kind": "orig_short",
+        "speaker": "阿美藻",
+        "prev_fr": "...It must be a twitch!",
+        "next_fr": "",
+        "orig_clean": "Or twitch!",
+        "en_clean": "Or twitch!",
+        "prefix": "\r\n<E800 747><E041 4 5><E346><E025 1>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "Or twitch!",
+        "fr_masked": "Ni de tics !"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c101_0030_eng",
+    "index": 17,
+    "total_pages": 46,
+    "pages": [
+      {
+        "page": 42,
+        "kind": "orig_short",
+        "speaker": "Gina Lestrade",
+        "prev_fr": "Inspecteur, éclairez la cour, je vous prie.",
+        "next_fr": "(Où veulent-ils en venir ?)",
+        "orig_clean": "Yes, sir!",
+        "en_clean": "Yes, sir!",
+        "prefix": "\r\n<E800 1335><E563><E800 1339><E147 7 79><E800 1340><E130 11 0><E800 1341><E131><E800 1343><E041 7 9><E025 1><E335>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "Yes, sir!",
+        "fr_masked": "Oui, monsieur !"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c101_0040_eng",
+    "index": 3,
+    "total_pages": 34,
+    "pages": [
+      {
+        "page": 10,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "(... nous basons notre raisonnement sur le postulat qu'elle a réellement eu lieu.)",
+        "next_fr": ".........",
+        "orig_clean": "My Lord!",
+        "en_clean": "My Lord!",
+        "prefix": "\r\n<E800 295><E563><E800 297><E145 1 7><E800 298><E144 1><E800 300><E041 1 0><E025 1>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "My Lord!",
+        "fr_masked": "Votre Honneur !"
+      },
+      {
+        "page": 21,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "...About what?!",
+        "next_fr": "Wha... WHAAAAAAAAAT?!",
+        "orig_clean": "What?",
+        "en_clean": "What?",
+        "prefix": "\r\n<E800 423><E147 1 4><E800 424><E130 1 1><E800 425><E131><E800 427><E041 1 0><E025 3><E333>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "What?",
+        "fr_masked": "Quoi ?"
+      },
+      {
+        "page": 24,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "What?",
+        "next_fr": "Hmmm...",
+        "orig_clean": "Wha... WHAAAAAAAAAT?!",
+        "en_clean": "Wha... WHAAAAAAAAAT?!",
+        "prefix": "\r\n<E800 447><E563><E800 451><E147 1 4><E800 452><E130 1 0><E800 453><E131><E800 455><E092 6><E800 457><E041 1 0><E025 3><E341>",
+        "suffix": "<E024>",
+        "tags": [
+          "<E003 16>",
+          "<E025 1>",
+          "<E145 1 3>",
+          "<E356>",
+          "<E345>",
+          "<E139 1>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Wha...[[T0]]\n[[T1]][[T2]][[T3]]WHAAAAAAAAAT?![[T4]][[T5]]",
+        "fr_masked": "Qu...[[T0]]\n[[T1]][[T2]][[T3]]QUOOOOOOOOOOI ?![[T4]][[T5]]"
+      },
+      {
+        "page": 29,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "Hmmm...",
+        "next_fr": "In the name of Apollo, I will, My Lord!",
+        "orig_clean": "(Scientists...)",
+        "en_clean": "(Scientists...)",
+        "prefix": "\r\n<E800 507><E563><E800 509><E145 1 4><E800 510><E003 40><E800 512><E041 1 0><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E007>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "[[T0]](Scientists...)",
+        "fr_masked": "[[T0]](Ces scientifiques...)"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c102_0030_eng",
+    "index": 5,
+    "total_pages": 47,
+    "pages": [
+      {
+        "page": 10,
+        "kind": "orig_short",
+        "speaker": "Sandwich",
+        "prev_fr": "Ah!",
+        "next_fr": "The Society's noticed an increase in bogus public demonstrations in the field of science recently.",
+        "orig_clean": "C-Conspirators?",
+        "en_clean": "C-Conspirators?",
+        "prefix": "\r\n<E800 214><E563><E800 217><E147 68 72><E800 218><E130 15 1><E800 219><E131><E800 221><E041 68 68><E334><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>",
+          "<E025 2>",
+          "<E342>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "C-[[T0]][[T1]][[T2]]Conspirators?",
+        "fr_masked": "C-[[T0]][[T1]][[T2]]Conspirateurs ?"
+      },
+      {
+        "page": 32,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "Yes, Lord van Zieks?",
+        "next_fr": "Now, my learned friend...",
+        "orig_clean": "Eyewitnesses?",
+        "en_clean": "Eyewitnesses?",
+        "prefix": "\r\n<E800 403><E563><E800 406><E147 1 7><E800 407><E130 1 0><E800 408><E131><E800 410><E041 1 0><E025 3><E333>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "Eyewitnesses?",
+        "fr_masked": "Des témoins oculaires ?"
+      },
+      {
+        "page": 38,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "Now, my learned friend...",
+        "next_fr": "...As you wish, My Lord.",
+        "orig_clean": "Oh! ...Yes?",
+        "en_clean": "Oh! ...Yes?",
+        "prefix": "\r\n<E800 440><E563><E800 443><E147 1 64><E800 444><E130 1 0><E800 445><E131><E800 447><E041 1 0><E025 1>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 8>",
+          "<E025 1>",
+          "<E145 1 65>",
+          "<E003 5>",
+          "<E335>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Oh![[T0]] [[T1]][[T2]][[T3]][[T4]]...Yes?",
+        "fr_masked": "Oh ![[T0]] [[T1]][[T2]][[T3]][[T4]]... Oui ?"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c103_0000_eng",
+    "index": 2,
+    "total_pages": 47,
+    "pages": [
+      {
+        "page": 37,
+        "kind": "orig_short",
+        "speaker": "id:84",
+        "prev_fr": "......... Alright, Professor, I understand.",
+        "next_fr": "(It all hinges on that demonstration.)",
+        "orig_clean": "Counsel! Defendant!",
+        "en_clean": "Counsel! Defendant!",
+        "prefix": "\r\n<E800 212><E563><E800 213><E003 20><E800 215><E145 84 81><E800 216><E145 85 81><E800 217><E171 68 0 0 2 2><E800 219><E041 84 22><E025 1><E346>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 12>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Counsel![[T0]] Defendant!",
+        "fr_masked": "La défense ![[T0]] L'accusé !"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c104_0030_eng",
+    "index": 15,
+    "total_pages": 11,
+    "pages": [
+      {
+        "page": 2,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "Est-ce vous qui avez donné l'ordre d'éloigner la foule ?",
+        "next_fr": "(Poor Inspector Gregson...)",
+        "orig_clean": "...Right.",
+        "en_clean": "...Right.",
+        "prefix": "\r\n<E800 822><E563><E800 825><E147 1 0><E800 826><E130 1 1><E800 827><E131><E800 829><E041 1 0><E025 4>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "...Right.",
+        "fr_masked": "... En effet."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c104_0040_eng",
+    "index": 2,
+    "total_pages": 42,
+    "pages": [
+      {
+        "page": 15,
+        "kind": "orig_short",
+        "speaker": "id:120",
+        "prev_fr": "Eh?!",
+        "next_fr": "La cinèse instantanée a bien eu lieu ! Mais après l'explosion sur l'estrade...",
+        "orig_clean": "NOOOOOOOOO!",
+        "en_clean": "NOOOOOOOOO!",
+        "prefix": "\r\n<E800 152><E147 120 64><E800 153><E130 17 1><E800 154><E131><E800 156><E145 120 68><E800 158><E041 120 86><E025 2><E356>",
+        "suffix": "<E024>",
+        "tags": [
+          "<E003 10>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "NOOOOOOOOO![[T0]]",
+        "fr_masked": "NOOOOOOOOON ![[T0]]"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c105_0000_eng",
+    "index": 2,
+    "total_pages": 7,
+    "pages": [
+      {
+        "page": 1,
+        "kind": "en_multi",
+        "speaker": "id:120",
+        "prev_fr": "– Les ballons de Signor Lune –",
+        "next_fr": "",
+        "orig_clean": "As I said, Balthazar Lune is no liar! Every balloon I had in the sky landed safely!",
+        "en_clean": "Je le répète, Balthazar Lune n'est pas un menteur ! Every balloon I had in the sky landed safely!",
+        "prefix": "\r\n<E800 48><E563><E800 50><E194 1><E800 51><E085 0 6><E800 54><E130 17 0><E800 55><E131><E800 57><E164 120 70 1 2 9 0 2 1><E800 58><E139 120><E800 60><E041 120 86><E025 1>",
+        "suffix": "",
+        "tags": [
+          "<E049>",
+          "<E003 8>",
+          "<E049>",
+          "<E003 12>",
+          "<E048>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Je le répète, [[T0]][[T1]]Balthazar Lune n'est pas un menteur ![[T2]][[T3]]\nEvery balloon I had in the sky landed safely![[T4]]",
+        "fr_masked": "Je le répète, [[T0]][[T1]]Balthazar Lune n'est pas un menteur ![[T2]][[T3]]\nTous mes ballons en vol ont atterri sans encombre ![[T4]]"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c105_0010_eng",
+    "index": 4,
+    "total_pages": 2,
+    "pages": [
+      {
+        "page": 0,
+        "kind": "en_multi",
+        "speaker": "",
+        "prev_fr": "",
+        "next_fr": "",
+        "orig_clean": "As I said, Balthazar Lune is no liar! Every balloon I had in the sky landed safely!",
+        "en_clean": "Comme je l'ai dit, Balthazar Lune n'est pas un menteur ! Every balloon I had in the sky landed safely!",
+        "prefix": "<RDFG 28457><E800 107><E147 121 64><E800 108><E147 122 64><E800 109><E130 17 2><E800 110><E131><E800 112><E551 1 1><E070 0 4 0><E071><E800 114><E280 0><E800 115><E282><E800 117><E145 120 70><E800 119><E260 120 86><E025 2><E008>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "Comme je l'ai dit, Balthazar Lune n'est pas un menteur !\nEvery balloon I had in the sky landed safely!",
+        "fr_masked": "Comme je l'ai dit, Balthazar Lune n'est pas un menteur !\nTous mes ballons en vol ont atterri sans encombre !"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c106_0000_eng",
+    "index": 2,
+    "total_pages": 41,
+    "pages": [
+      {
+        "page": 22,
+        "kind": "orig_short",
+        "speaker": "Iris Watson",
+        "prev_fr": "Barok!",
+        "next_fr": ".........",
+        "orig_clean": "Yes?",
+        "en_clean": "Yes?",
+        "prefix": "\r\n<E800 242><E563><E800 245><E147 6 12><E800 246><E130 4 0><E800 247><E131><E800 248><E003 5><E800 250><E145 6 3><E800 251><E118 6 0.6><E800 252><E003 10><E800 254><E041 6 7><E025 3><E330>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "Yes?",
+        "fr_masked": "Oui ?"
+      },
+      {
+        "page": 29,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "Here's to my learned Nipponese friend...",
+        "next_fr": "...!",
+        "orig_clean": "Wha...?!",
+        "en_clean": "Wha...?!",
+        "prefix": "\r\n<E800 308><E563><E800 311><E147 1 2><E800 312><E130 1 0><E800 313><E131><E800 315><E041 1 0><E335><E025 2>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "Wha...?!",
+        "fr_masked": "Qu... ?!"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c107_0000_eng",
+    "index": 2,
+    "total_pages": 46,
+    "pages": [
+      {
+        "page": 3,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "...Mr Naruhodo...",
+        "next_fr": "Naturally!",
+        "orig_clean": "Ah! Y-Yes?",
+        "en_clean": "Ah! Y-Yes?",
+        "prefix": "\r\n<E800 77><E041 1 0><E334><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 12>",
+          "<E003 8>",
+          "<E025 1>",
+          "<E338>",
+          "<E341>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Ah![[T0]] Y-[[T1]][[T2]][[T3]][[T4]]Yes?",
+        "fr_masked": "Ah ![[T0]] O-[[T1]][[T2]][[T3]][[T4]]Oui ?"
+      },
+      {
+        "page": 10,
+        "kind": "orig_short",
+        "speaker": "Sandwich",
+        "prev_fr": "Ah! Y-Yes?",
+        "next_fr": "I had complete faith in it!",
+        "orig_clean": "Naturally!",
+        "en_clean": "Naturally!",
+        "prefix": "\r\n<E800 115><E563><E800 117><E086 5 31><E800 118><E342><E800 119><E145 68 76><E800 120><E117 68 5><E800 121><E003 12><E800 123><E615><E800 124><E041 68 68><E338><E341><E025 1>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "Naturally!",
+        "fr_masked": "Naturellement !"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c200_0000_eng",
+    "index": 2,
+    "total_pages": 27,
+    "pages": [
+      {
+        "page": 3,
+        "kind": "en_contr",
+        "speaker": "日火吏",
+        "prev_fr": "Et cela fait près de six mois, n'est-ce pas ? ... C'est bien long pour que tout reste si...familier.",
+        "next_fr": "... Mais cela fait bien six mois, c'est vrai.",
+        "orig_clean": "I didn't know when you might return, and I wanted everything to be as you'd left it.",
+        "en_clean": "J'ignorais quand tu reviendrais, and I wanted tout to be as you'd left it.",
+        "prefix": "\r\n<E800 92><E145 3 64><E800 93><E041 1 0><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "J'ignorais quand tu reviendrais,[[T0]] and I wanted\ntout to be as you'd left it.",
+        "fr_masked": "J'ignorais quand tu reviendrais,[[T0]] et je voulais\nque tout reste comme tu l'avais laissé."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c200_0020_eng",
+    "index": 2,
+    "total_pages": 20,
+    "pages": [
+      {
+        "page": 3,
+        "kind": "en_contr",
+        "speaker": "日火吏",
+        "prev_fr": "J'ai mémorisé chaque détail de l'affaire !",
+        "next_fr": "Je pense que notre première étape devrait être to investigate this Mr Drebber.",
+        "orig_clean": "So...you're fully abreast of the situation already, Miss Susato. I'd expected nothing less, to be honest.",
+        "en_clean": "Alors...you're fully abreast of the situation already, Miss Susato. Je n'en attendais pas moins, pour être franc.",
+        "prefix": "\r\n<E800 62><E041 1 0><E342><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 8>",
+          "<E145 3 64>",
+          "<E149 3 0 0>",
+          "<E117 3 20>",
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Alors...[[T0]][[T1]][[T2]][[T3]]you're fully abreast of the situation already,\nMiss Susato.[[T4]] Je n'en attendais pas moins, pour être franc.",
+        "fr_masked": "Alors...[[T0]][[T1]][[T2]][[T3]] vous êtes déjà bien au fait de la situation,\nmademoiselle Susato.[[T4]] Je n'en attendais pas moins, pour être franc."
+      },
+      {
+        "page": 4,
+        "kind": "en_multi",
+        "speaker": "阿美藻",
+        "prev_fr": "Alors...you're fully abreast of the situation already, Miss Susato. Je n'en attendais pas moins, pour être franc.",
+        "next_fr": "The engineer responsible for building the elaborate machine qui a servi à accomplir cette supercherie extraordinaire.",
+        "orig_clean": "I would think our first port of call should be to investigate this Mr Drebber.",
+        "en_clean": "Je pense que notre première étape devrait être to investigate this Mr Drebber.",
+        "prefix": "\r\n<E800 63><E563><E800 65><E145 3 68><E800 66><E003 15><E800 68><E041 3 2><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Je pense que notre première étape devrait être[[T0]] to investigate\nthis Mr Drebber.",
+        "fr_masked": "Je pense que notre première étape devrait être[[T0]]\nd'enquêter sur ce M. Drebber."
+      },
+      {
+        "page": 5,
+        "kind": "en_multi",
+        "speaker": "阿美藻",
+        "prev_fr": "Je pense que notre première étape devrait être to investigate this Mr Drebber.",
+        "next_fr": "Oui, une sorte d'illusionniste d'après ce qu'on dit, well known in the fields of science and magic.",
+        "orig_clean": "The engineer responsible for building the elaborate machine that was used to effect this extraordinary trick.",
+        "en_clean": "The engineer responsible for building the elaborate machine qui a servi à accomplir cette supercherie extraordinaire.",
+        "prefix": "\r\n<E800 69><E145 3 83><E800 70><E041 3 2><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "The engineer responsible for building the elaborate\nmachine[[T0]] qui a servi à accomplir cette supercherie extraordinaire.",
+        "fr_masked": "L'ingénieur chargé de construire cette machine complexe[[T0]]\nqui a servi à accomplir cette supercherie extraordinaire."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c201_0010_eng",
+    "index": 2,
+    "total_pages": 30,
+    "pages": [
+      {
+        "page": 12,
+        "kind": "en_multi",
+        "speaker": "器用",
+        "prev_fr": "Rien de tout cela n'est de votre responsabilité. The government is entirely to blame for having been taken in.",
+        "next_fr": "(C'est devenu de la ferraille, à présent ?)",
+        "orig_clean": "The special dispensation that prevents investigation at the scene will be annulled later today.",
+        "en_clean": "The special dispensation that prevents investigation at the scene sera révoquée dans le courant de la journée.",
+        "prefix": "\r\n<E800 119><E563><E800 121><E145 14 68><E800 122><E003 20><E800 124><E041 14 13><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "The special dispensation that prevents investigation at the\nscene[[T0]] sera révoquée dans le courant de la journée.",
+        "fr_masked": "La dispense spéciale qui empêche toute enquête sur les\nlieux[[T0]] sera révoquée dans le courant de la journée."
+      },
+      {
+        "page": 27,
+        "kind": "en_multi",
+        "speaker": "器用",
+        "prev_fr": "À présent, que me valait votre visite ?",
+        "next_fr": "(Il n'est donc plus quite so spectacularly late any more...)",
+        "orig_clean": "I can give you...seven minutes and thirty-nine seconds of my time.",
+        "en_clean": "Je peux vous accorder...seven minutes and thirty-nine seconds of my time.",
+        "prefix": "\r\n<E800 191><E145 14 75><E800 192><E041 14 13><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 10>",
+          "<E025 2>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Je peux vous accorder...[[T0]][[T1]][[T2]]seven minutes and thirty-nine seconds of\nmy time.",
+        "fr_masked": "Je peux vous accorder...[[T0]][[T1]][[T2]] sept minutes et trente-neuf\nsecondes de mon temps."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c201_0020_eng",
+    "index": 2,
+    "total_pages": 17,
+    "pages": [
+      {
+        "page": 8,
+        "kind": "en_contr",
+        "speaker": "器用",
+        "prev_fr": "...Well the special dispensation legally preventing investigation of the machine est en cours de révocation.",
+        "next_fr": "Merci !",
+        "orig_clean": "But I suppose until then, there's no harm in you looking at the wreckage, as long as you touch nothing.",
+        "en_clean": "Mais je présume que d'ici là, there's no harm in you looking at the wreckage, tant que vous ne touchez à rien.",
+        "prefix": "\r\n<E800 68><E041 14 13><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 4>",
+          "<E164 14 70 1 2 42 0 0 1>",
+          "<E139 14>",
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Mais je présume que d'ici là,[[T0]][[T1]] [[T2]][[T3]]there's no harm in you looking at\nthe wreckage,[[T4]] tant que vous ne touchez à rien.",
+        "fr_masked": "Mais je présume que d'ici là,[[T0]][[T1]] [[T2]][[T3]]rien ne vous empêche d'observer\nles décombres,[[T4]] tant que vous ne touchez à rien."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c201_0030_eng",
+    "index": 2,
+    "total_pages": 8,
+    "pages": [
+      {
+        "page": 6,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "Quelle touriste aguerrie vous êtes devenue, mademoiselle Susato.",
+        "next_fr": "",
+        "orig_clean": "(We could just have a little look around...being careful not to upset any restless souls...)",
+        "en_clean": "(Nous pourrions jeter un coup d'œil discret...being careful not to upset any restless souls...)",
+        "prefix": "\r\n<E800 64><E041 1 0><E341><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E007>",
+          "<E003 10>",
+          "<E025 3>",
+          "<E341>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "[[T0]](Nous pourrions jeter un coup d'œil discret...[[T1]][[T2]][[T3]]being careful not\nto upset any restless souls...)",
+        "fr_masked": "[[T0]](Nous pourrions jeter un coup d'œil discret...[[T1]][[T2]][[T3]] en veillant à\nne troubler aucune âme tourmentée...)"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c201_0060_eng",
+    "index": 2,
+    "total_pages": 36,
+    "pages": [
+      {
+        "page": 19,
+        "kind": "en_multi",
+        "speaker": "Sandwich",
+        "prev_fr": "Oh ! Ha ha, vous, hum...vous voulez dire ceci ? Oh ciel, quelle honte...",
+        "next_fr": "Oh ! Serait-ce une nouvelle hypothèse scientifique ?",
+        "orig_clean": "I, I was suddenly struck by an idea, you see, and I simply had to write it down. The wall was all I had to hand.",
+        "en_clean": "J'ai, j'ai été soudain frappé par une illumination, voyez-vous, and I simply had to write it down. Le mur était tout ce qui était sous ma main.",
+        "prefix": "\r\n<E800 183><E563><E800 185><E086 5 31><E800 186><E145 68 72><E800 187><E117 68 8><E800 188><E003 10><E800 190><E041 68 68><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 8>",
+          "<E003 6>",
+          "<E003 10>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "J'ai,[[T0]] j'ai été soudain frappé par une illumination, voyez-vous,[[T1]] and I simply\nhad to write it down.[[T2]] Le mur était tout ce qui était sous ma main.",
+        "fr_masked": "J'ai,[[T0]] j'ai eu une illumination soudaine, voyez-vous,[[T1]] et je devais\nla noter.[[T2]] Le mur était tout ce que j'avais sous la main."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c201_0070_eng",
+    "index": 2,
+    "total_pages": 55,
+    "pages": [
+      {
+        "page": 6,
+        "kind": "en_multi",
+        "speaker": "－－－－－－",
+        "prev_fr": "J'ai l'impression qu'il nous a fallu deux heures just to make our way through the crowds to this point.",
+        "next_fr": "Oh ! Inspecteur Gregson ! Toujours à pied d'œuvre, à ce que je vois !",
+        "orig_clean": "...There you are. I had a feelin' you lot would show your mugs before long.",
+        "en_clean": "... Vous voilà enfin. I had a feelin' you lot would show your mugs before long.",
+        "prefix": "\r\n<E800 90><E563><E800 91><E003 10><E800 93><E145 3 67><E800 94><E092 4><E800 96><E041 0 51><E330><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 20>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "... Vous voilà enfin.[[T0]] I had a feelin' you lot would show your\nmugs before long.",
+        "fr_masked": "... Vous voilà enfin.[[T0]] J'me doutais bien qu'vous finiriez\npar ramener vos trombines."
+      },
+      {
+        "page": 12,
+        "kind": "en_contr",
+        "speaker": "日火吏",
+        "prev_fr": "Oh ! Mais je vous remercie, Inspecteur. Quelle délicate attention.",
+        "next_fr": "Comme vous vous en doutez, we were hoping to investigate the scene some more.",
+        "orig_clean": "(He might be a bit rough around the edges, but he's still a proper English gentleman at heart...I suppose.)",
+        "en_clean": "(Il a beau être un peu bourru, but he's still a proper English gentleman at heart...je suppose.)",
+        "prefix": "\r\n<E800 128><E563><E800 131><E141 3 5><E800 132><E144 3><E800 133><E148 7 65 0 5><E800 134><E144 7><E800 136><E041 1 0><E341><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E007>",
+          "<E003 4>",
+          "<E003 8>",
+          "<E025 3>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "[[T0]](Il a beau être un peu bourru,[[T1]] but he's still a\nproper English gentleman at heart...[[T2]][[T3]]je suppose.)",
+        "fr_masked": "[[T0]](Il a beau être un peu bourru,[[T1]] il reste un véritable\ngentleman anglais dans l'âme...[[T2]][[T3]] je suppose.)"
+      },
+      {
+        "page": 25,
+        "kind": "en_contr",
+        "speaker": "日火吏",
+        "prev_fr": "Oh non ! Vraiment ?",
+        "next_fr": "Où allez-vous être affecté, alors ? Nous viendrons voir comment vous vous en sortez.",
+        "orig_clean": "That's, that's a bit sudden, isn't it? I had no idea.",
+        "en_clean": "C'est, that's a bit sudden, n'est-ce pas ? Je n'en savais rien.",
+        "prefix": "\r\n<E800 204><E041 1 0><E025 1><E331><E342>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 12>",
+          "<E025 2>",
+          "<E003 10>",
+          "<E341>",
+          "<E025 3>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "C'est,[[T0]] [[T1]]that's a bit sudden, n'est-ce pas ?[[T2]]\n[[T3]][[T4]]Je n'en savais rien.",
+        "fr_masked": "C'est,[[T0]] [[T1]]c'est un peu soudain, n'est-ce pas ?[[T2]]\n[[T3]][[T4]]Je n'en savais rien."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c201_0080_eng",
+    "index": 2,
+    "total_pages": 14,
+    "pages": [
+      {
+        "page": 10,
+        "kind": "en_multi",
+        "speaker": "阿美藻",
+        "prev_fr": "À plus tard !",
+        "next_fr": "Oui, je l'espère aussi.",
+        "orig_clean": "I do hope the scent of that oil leads them to that swindler's workshop.",
+        "en_clean": "J'espère de tout cœur que l'odeur de cette huile leads them to that swindler's workshop.",
+        "prefix": "\r\n<E800 94><E563><E800 98><E076 122 76 0><E003 10><E141 122 8><E141 76 8><E144 76><E003 40><E800 101><E153 122><E800 102><E153 76><E800 104><E091 1 30 5><E800 107><E148 3 87 0 5><E800 108><E144 3><E800 109><E003 10><E800 111><E041 3 2><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "J'espère de tout cœur que l'odeur de cette huile[[T0]] leads them to that swindler's\nworkshop.",
+        "fr_masked": "J'espère de tout cœur que l'odeur de cette huile[[T0]] les mènera\njusqu'à l'atelier de cet escroc."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c201_0090_eng",
+    "index": 2,
+    "total_pages": 20,
+    "pages": [
+      {
+        "page": 4,
+        "kind": "en_multi",
+        "speaker": "阿美藻",
+        "prev_fr": "Oui, c'est exact. Ou plutôt c'ÉTAIT cette machine. Elle est dans un piteux état pour le moment...",
+        "next_fr": "Non non non ! Le docteur s'est fait berner lui aussi. Il n'était au courant de rien.",
+        "orig_clean": "What extraordinary lengths Professor Harebrayne went to in order to obtain the research grant.",
+        "en_clean": "What extraordinary lengths Professor Harebrayne went to pour obtenir cette bourse de recherche.",
+        "prefix": "\r\n<E800 77><E563><E800 79><E145 3 79><E800 80><E117 3 30><E800 81><E003 15><E800 83><E041 3 2><E025 2><E341>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "What extraordinary lengths Professor Harebrayne went\nto[[T0]] pour obtenir cette bourse de recherche.",
+        "fr_masked": "Que d'efforts extraordinaires le professeur Harebrayne a\ndéployés[[T0]] pour obtenir cette bourse de recherche."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c201_0125_eng",
+    "index": 2,
+    "total_pages": 9,
+    "pages": [
+      {
+        "page": 6,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "... nulle trace de M. Sholmes nulle part.",
+        "next_fr": "",
+        "orig_clean": "That's strange. He should be here investigating the abduction of the waxwork...",
+        "en_clean": "C'est étrange. Il devrait être ici investigating the abduction of the waxwork...",
+        "prefix": "\r\n<E800 85><E041 1 0><E025 3><E341>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 10>",
+          "<E025 2>",
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "C'est étrange.[[T0]] [[T1]]Il devrait être ici[[T2]] investigating the\nabduction of the waxwork...",
+        "fr_masked": "C'est étrange.[[T0]] [[T1]]Il devrait être ici[[T2]] à enquêter sur\nl'enlèvement de la statue de cire..."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c201_0130_eng",
+    "index": 2,
+    "total_pages": 16,
+    "pages": [
+      {
+        "page": 1,
+        "kind": "en_multi",
+        "speaker": "阿美藻",
+        "prev_fr": "23 octobre Exposition spéciale de Madame Pétrie",
+        "next_fr": "Mademoiselle Susato !",
+        "orig_clean": "Oh dear... I, I felt a shiver run down my spine as soon as we walked in here.",
+        "en_clean": "Oh ciel... I, j'ai senti un frisson glacial le long de mon échine dès as we walked in here.",
+        "prefix": "\r\n<E800 82><E563><E800 84><E003 5><E800 86><E074 0 6><E800 87><E075><E800 89><E003 35><E800 91><E549 30 0 90 3><E800 92><E485 220 90 3><E800 93><E131><E800 95><E003 10><E800 97><E148 3 67 2 7><E800 98><E171 3 2 0 2 0><E800 99><E144 3><E800 100><E003 5><E800 101><E086 2 36><E800 102><E003 30><E800 104><E615><E800 105><E041 3 2><E025 3><E341><E338>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 10>",
+          "<E049>",
+          "<E145 3 88>",
+          "<E003 8>",
+          "<E341>",
+          "<E342>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Oh ciel...[[T0]][[T1]] I,[[T2]] [[T3]][[T4]][[T5]]j'ai senti un frisson glacial le long de mon échine dès [[T6]]as\nwe walked in here.",
+        "fr_masked": "Oh ciel...[[T0]][[T1]] je,[[T2]] [[T3]][[T4]][[T5]]j'ai senti un frisson glacial le long de mon échine\ndès l'instant [[T6]]où nous sommes entrés ici."
+      },
+      {
+        "page": 7,
+        "kind": "en_contr",
+        "speaker": "日火吏",
+        "prev_fr": "En fait, maintenant que j'y regarde de plus près...",
+        "next_fr": "Le toupet de ce grand détective escroc is far more terrifying than anything else in this place!",
+        "orig_clean": "...we've paid good money to see an exhibit that's clearly incomplete...!",
+        "en_clean": "... nous avons payé pour voir an exhibit that's clearly incomplete...!",
+        "prefix": "\r\n<E800 124><E563><E800 127><E549 30 2 50 3><E800 128><E485 140 50 3><E800 129><E131><E800 131><E041 1 0><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 8>",
+          "<E330>",
+          "<E006>",
+          "<E005>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "... nous avons payé pour voir[[T0]] [[T1]]an exhibit that's clearly\n[[T2]]incomplete[[T3]]...!",
+        "fr_masked": "... nous avons payé cher pour voir[[T0]] [[T1]]une exposition manifestement\n[[T2]]incomplète[[T3]]... !"
+      },
+      {
+        "page": 12,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "(...Mr Sholmes heavily implied there'd be a clue about the engineer in here, n'est-ce pas ? Mais où... ?)",
+        "next_fr": "Oui, nous, nous en aurons pour notre argent !",
+        "orig_clean": "Since we've paid five shillings, let's do five shillings' worth of investigation, shall we?",
+        "en_clean": "Puisque nous avons payé cinq shillings, let's do five shillings' worth of investigation, d'accord ?",
+        "prefix": "\r\n<E800 143><E041 1 0><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 4>",
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Puisque nous avons payé cinq shillings,[[T0]] let's do five shillings'\nworth of investigation,[[T1]] d'accord ?",
+        "fr_masked": "Puisque nous avons payé cinq shillings,[[T0]] menons une enquête\nà la hauteur de cinq shillings,[[T1]] d'accord ?"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c202_0000_eng",
+    "index": 2,
+    "total_pages": 32,
+    "pages": [
+      {
+        "page": 11,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "Bonjour, inspecteur. (Il a l'air bien renfrogné...)",
+        "next_fr": "Alors, inspecteur...avez-vous une trace de l'ingénieur ?",
+        "orig_clean": "(He looks like he's eating a lemon, not a bag of fish and chips...)",
+        "en_clean": "(On dirait qu'il mord dans un citron, not a bag of fish and chips...)",
+        "prefix": "\r\n<E800 134><E041 1 0><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E007>",
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "[[T0]](On dirait qu'il mord dans un citron,[[T1]] not a bag of fish and\nchips...)",
+        "fr_masked": "[[T0]](On dirait qu'il mord dans un citron,[[T1]] et non dans un\npaquet de fish and chips...)"
+      },
+      {
+        "page": 15,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "Oh...quel dommage.",
+        "next_fr": "D'après ce que Gina m'a dit, we only found it thanks to a clue that you lot turned up.",
+        "orig_clean": "Well, thank you for letting us know about this place and giving us the chance to investigate.",
+        "en_clean": "Eh bien, merci de nous avoir prévenus au sujet de cet endroit and giving us the chance to investigate.",
+        "prefix": "\r\n<E800 167><E563><E800 170><E141 3 5><E800 171><E144 3><E800 172><E148 7 64 0 5><E800 173><E144 7><E800 175><E041 1 0><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 10>",
+          "<E338>",
+          "<E341>",
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Eh bien,[[T0]] [[T1]][[T2]]merci de nous avoir prévenus au sujet de cet endroit[[T3]] and\ngiving us the chance to investigate.",
+        "fr_masked": "Eh bien,[[T0]] [[T1]][[T2]]merci de nous avoir prévenus au sujet de cet endroit[[T3]] et de\nnous avoir laissé la possibilité d'enquêter."
+      },
+      {
+        "page": 19,
+        "kind": "en_contr",
+        "speaker": "Gina Lestrade",
+        "prev_fr": "... Merci.",
+        "next_fr": "Encore eux...",
+        "orig_clean": "Anyway, if you're hopin' to snoop around in here, I'd get crackin'.",
+        "en_clean": "Bref, si vous voulez fouiner un peu par ici, I'd get crackin'.",
+        "prefix": "\r\n<E800 184><E563><E800 186><E145 7 65><E800 187><E003 15><E800 189><E041 7 9><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 8>",
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Bref,[[T0]][[T1]] si vous voulez fouiner un peu par ici,[[T2]] I'd get\ncrackin'.",
+        "fr_masked": "Bref,[[T0]][[T1]] si vous voulez fouiner un peu par ici,[[T2]]\nne traînez pas."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c202_0050_eng",
+    "index": 3,
+    "total_pages": 24,
+    "pages": [
+      {
+        "page": 9,
+        "kind": "bad_corr",
+        "speaker": "Sherlock Holmes",
+        "prev_fr": "Une foest, de plus, I can draw two conclusions from the scene we see before us. La première...",
+        "next_fr": "Oh ! Maest, comment avez-vous... ?",
+        "orig_clean": "...is that the inverted nature of the furniture in this room is the work of Drebber himself.",
+        "en_clean": "... est que la dest,position inversée du mobilier dans cette pièce est l'œuvre de Drebber lui-même.",
+        "prefix": "\r\n<E800 82><E041 2 1><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E006>",
+          "<E005>",
+          "<E049>",
+          "<E003 5>",
+          "<E164 2 71 1 2 7 0 0 1>",
+          "<E139 2>",
+          "<E006>",
+          "<E005>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "... est que [[T0]]la dest,position inversée[[T1]] du mobilier dans cette pièce[[T2]][[T3]]\n[[T4]][[T5]]est l'œuvre de [[T6]]Drebber lui-même[[T7]].",
+        "fr_masked": "... est que [[T0]]la disposition inversée[[T1]] du mobilier dans cette pièce[[T2]][[T3]]\n[[T4]][[T5]]est l'œuvre de [[T6]]Drebber lui-même[[T7]]."
+      },
+      {
+        "page": 12,
+        "kind": "en_multi",
+        "speaker": "Sherlock Holmes",
+        "prev_fr": "Et la seconde conclusion...",
+        "next_fr": "De grâce, M. Holmes ! Vous devez tout nous expliquer !",
+        "orig_clean": "...is that the small device on the floor there is without question completely genuine.",
+        "en_clean": "... est que the small device on the floor there est, without question totalement authentique.",
+        "prefix": "\r\n<E800 102><E141 2 0><E800 103><E549 41 3 0 0><E800 105><E041 2 1><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 8>",
+          "<E003 8>",
+          "<E003 12>",
+          "<E330>",
+          "<E006>",
+          "<E005>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "... est que the small device on the floor there[[T0]] est,[[T1]] without\nquestion[[T2]] [[T3]]totalement [[T4]]authentique[[T5]].",
+        "fr_masked": "... est que le petit appareil posé au sol[[T0]] est,[[T1]] sans\nconteste,[[T2]] [[T3]]totalement [[T4]]authentique[[T5]]."
+      },
+      {
+        "page": 15,
+        "kind": "en_multi",
+        "speaker": "Sherlock Holmes",
+        "prev_fr": "... Ce sera un plaisir.",
+        "next_fr": ".........",
+        "orig_clean": "After all, it is a great detective's civic duty to teach Scotland Yard the finer points of the trade.",
+        "en_clean": "Après tout, it est, a great detective's civic duty to teach Scotland Yard les subtilités du métier.",
+        "prefix": "\r\n<E800 121><E563><E800 123><E164 2 80 1 2 7 0 0 1><E800 124><E139 2><E800 126><E041 2 1><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 8>",
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Après tout,[[T0]] it est, a great detective's civic duty to teach\nScotland Yard[[T1]] les subtilités du métier.",
+        "fr_masked": "Après tout,[[T0]] il est du devoir civique d'un grand détective\nd'enseigner à Scotland Yard[[T1]] les subtilités du métier."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c202_0060_eng",
+    "index": 2,
+    "total_pages": 3,
+    "pages": [
+      {
+        "page": 1,
+        "kind": "en_multi",
+        "speaker": "Sherlock Holmes",
+        "prev_fr": "Alors...pouvons-nous commencer ?",
+        "next_fr": "",
+        "orig_clean": "Once again, Herlock Sholmes is proud to present...his ‘Logic and Reasoning Spectacular’!",
+        "en_clean": "Une fois de plus, Sherlock Holmes est fier de vous présenter...his ‘Logic and Reasoning Spectacular’!",
+        "prefix": "\r\n<E800 59><E563><E800 61><E164 2 79 1 2 8 0 1 1><E800 62><E139 2><E800 64><E041 2 1><E025 1>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 12>",
+          "<E003 14>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Une fois de plus,[[T0]] Sherlock Holmes est fier de vous présenter...[[T1]]his\n‘Logic and Reasoning Spectacular’!",
+        "fr_masked": "Une fois de plus,[[T0]] Sherlock Holmes est fier de vous présenter...[[T1]]\nson « Festival de la Logique et de la Déduction » !"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c202_0060_eng",
+    "index": 5,
+    "total_pages": 10,
+    "pages": [
+      {
+        "page": 2,
+        "kind": "en_multi",
+        "speaker": "Sherlock Holmes",
+        "prev_fr": "Je comprends fort bien votre scepticisme, mademoiselle Susato. Moi aussi, je suis d'abord resté incrédule.",
+        "next_fr": "Mais, mais alors pourquoi y a-t-il une horloge dessus ?",
+        "orig_clean": "An anti-gravity device...almost identical to one that featured in a dream of mine only the other day, in fact.",
+        "en_clean": "Un appareil anti-gravité...almost identical to one that featured in a dream of mine il y a quelques jours à peine, en fait.",
+        "prefix": "\r\n<E800 361><E563><E800 363><E086 2 26><E800 364><E490 3 91.000000 0.000000 2307.000000 10 2><E800 365><E490 2 60.835968 0.000000 2190.123535 10 2><E800 366><E462 -19.414940 93.637756 2124.094971 10 2><E800 367><E464 73.196945 19.012619 2269.520996 10 2><E800 368><E466 43 10 2><E800 369><E485 70 10 2><E800 370><E131><E800 371><E003 10><E800 373><E041 2 1><E046><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E006>",
+          "<E005>",
+          "<E003 10>",
+          "<E003 4>",
+          "<E003 2>",
+          "<E146 3 88>",
+          "<E149 3 5 3>",
+          "<E580 2 283 27 187>",
+          "<E003 15>",
+          "<E581 0>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "[[T0]]Un appareil anti-gravité[[T1]]...[[T2]]almost identical to one that\nfeatured in a dream of mine[[T3]] il y a quelques jours à peine, en fait.[[T4]][[T5]][[T6]][[T7]][[T8]][[T9]]",
+        "fr_masked": "[[T0]]Un appareil anti-gravité[[T1]]...[[T2]] presque identique à celui qui est\napparu dans un de mes rêves[[T3]] il y a quelques jours à peine, en fait.[[T4]][[T5]][[T6]][[T7]][[T8]][[T9]]"
+      },
+      {
+        "page": 5,
+        "kind": "en_multi",
+        "speaker": "Sherlock Holmes",
+        "prev_fr": "Mais, mais alors pourquoi y a-t-il une horloge dessus ?",
+        "next_fr": "Oui, the reason why everything in here has been turned upside-down n'est autre que l'appareil anti-gravité!",
+        "orig_clean": "There was clearly a requirement for the engineer to be able to restore normal gravity automatically.",
+        "en_clean": "L'ingénieur avait manifestement besoin to be able to restore normal gravity automatically.",
+        "prefix": "\r\n<E800 431><E563><E800 433><E156 2 0 0><E800 434><E526 2 5><E800 435><E527 51.196945 95.012619 2157.520996 20 3><E800 436><E528 1.000000 5.000000 20 3><E800 437><E467 332.385284 8.000008 249.438904 20 3><E800 438><E464 92.092972 121.045914 2198.437012 20 3><E800 439><E466 45 20 3><E800 440><E485 100 20 3><E800 441><E157 130 0 0><E800 442><E147 2 66><E800 443><E490 2 -72.164032 3.000000 2098.123535 20 3><E800 444><E492 2 752 0 3><E800 445><E145 3 77><E800 446><E149 3 1 3><E800 447><E172 3 -20 -148 20 3 10><E800 448><E490 3 51.000000 6.000000 2249.000000 20 3><E800 449><E492 3 -130 20 3><E800 450><E131><E800 452><E041 2 1><E333><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "L'ingénieur avait manifestement besoin[[T0]] to be\nable to restore normal gravity automatically.",
+        "fr_masked": "L'ingénieur avait manifestement besoin[[T0]] de pouvoir\nrétablir la gravité normale automatiquement."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c202_0060_eng",
+    "index": 10,
+    "total_pages": 14,
+    "pages": [
+      {
+        "page": 3,
+        "kind": "en_multi",
+        "speaker": "Sherlock Holmes",
+        "prev_fr": "Ah...",
+        "next_fr": "Mais le plafond est très haut, M. Holmes.",
+        "orig_clean": "By inverting the gravity in here, Drebber was able to ‘fall’ conveniently to the ceiling...",
+        "en_clean": "En inversant la gravité ici présente, Drebber was able to ‘fall’ conveniently to the ceiling...",
+        "prefix": "\r\n<E800 746><E563><E800 748><E146 2 110><E800 749><E490 2 149.835968 -7.000000 2001.123535 15 2><E800 750><E492 2 -462 15 2><E800 751><E003 23><E800 753><E358><E800 754><E630 0 10><E800 755><E065 2 0><E800 756><E154 2 0><E800 757><E490 2 20.000000 12.000000 -291.000000 0 0><E800 758><E492 2 -102 0 0><E800 759><E631 3><E800 761><E003 25><E800 763><E145 2 74><E800 764><E492 2 -175 40 3><E800 765><E118 2 0.9><E800 766><E085 1 42><E800 767><E483 180 80 1><E800 769><E490 2 32.000000 19.000000 -291.000000 80 3><E800 770><E462 188.686066 309.771698 1905.757324 80 3><E800 771><E464 174.610779 300.500977 2136.781006 80 3><E800 772><E003 15><E800 773><E145 3 67><E800 774><E492 3 -195 0 0><E800 775><E003 25><E800 776><E492 2 -163 40 2><E800 777><E003 20><E800 778><E156 2 1 20><E800 779><E131><E800 780><E343><E800 781><E118 2 1><E800 783><E041 2 1><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "En inversant la gravité ici présente,[[T0]] Drebber was able to ‘fall’\nconveniently to the ceiling...",
+        "fr_masked": "En inversant la gravité ici présente,[[T0]] Drebber a pu « tomber »\nfort commodément jusqu'au plafond..."
+      },
+      {
+        "page": 6,
+        "kind": "en_contr",
+        "speaker": "阿美藻",
+        "prev_fr": "Mais le plafond est très haut, M. Holmes.",
+        "next_fr": "Hm, « chuter vers le haut » est un concept fascinant a rather interesting concept, I feel.",
+        "orig_clean": "If the gravity reversal was sudden, wouldn't Mr Drebber have fallen up to the ceiling rather violently?",
+        "en_clean": "Si l'inversion de la gravité a été soudaine, wouldn't Mr Drebber have fallen up to the ceiling rather violently?",
+        "prefix": "\r\n<E800 802><E041 3 2><E043><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Si l'inversion de la gravité a été soudaine,[[T0]] wouldn't Mr Drebber\nhave fallen up to the ceiling rather violently?",
+        "fr_masked": "Si l'inversion de la gravité a été soudaine,[[T0]] M. Drebber\nn'aurait-il pas chuté vers le plafond assez violemment ?"
+      },
+      {
+        "page": 7,
+        "kind": "en_multi",
+        "speaker": "Sherlock Holmes",
+        "prev_fr": "Si l'inversion de la gravité a été soudaine, wouldn't Mr Drebber have fallen up to the ceiling rather violently?",
+        "next_fr": "Mais l'homme était acculé sans nulle part où fuir, so escape through the skylight was his only option.",
+        "orig_clean": "Hm, ‘falling up’ is both scientifically and philosophically a rather interesting concept, I feel.",
+        "en_clean": "Hm, « chuter vers le haut » est un concept fascinant a rather interesting concept, I feel.",
+        "prefix": "\r\n<E800 803><E563><E800 807><E483 -180 0 0><E800 808><E003 5><E800 810><E086 2 16><E800 811><E490 3 135.000000 2 2049.000000 20 1><E800 812><E492 3 -195 20 1><E800 813><E462 108.751495 155.695282 1743.937256 20 1><E800 814><E464 52.970901 121.807068 2151.126709 20 1><E800 815><E466 38 20 1><E800 816><E483 0 20 1><E800 817><E003 10><E800 819><E156 2 0 0><E800 820><E154 2 54><E800 821><E490 2 63.970901 0.000000 1910.126709 0 0><E800 822><E492 2 105 0 0><E800 823><E131><E800 824><E086 2 19><E800 825><E070 2 0 1><E800 826><E065 0 0><E800 827><E462 95.751495 155.695282 1743.937256 800 2><E800 828><E464 60.970901 121.807068 2151.126709 800 2><E800 829><E070 0 3 1><E800 830><E071><E800 831><E003 5><E800 833><E041 2 1><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 8>",
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Hm,[[T0]] « chuter vers le haut » est un concept fascinant[[T1]] a\nrather interesting concept, I feel.",
+        "fr_masked": "Hm,[[T0]] « chuter vers le haut » est un concept fascinant,[[T1]] tant\nsur le plan scientifique que philosophique, à mon sens."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c202_0060_eng",
+    "index": 13,
+    "total_pages": 2,
+    "pages": [
+      {
+        "page": 0,
+        "kind": "en_multi",
+        "speaker": "Sherlock Holmes",
+        "prev_fr": "",
+        "next_fr": "",
+        "orig_clean": "Thus concludes Herlock Sholmes's great deduction...of this topsy-turvy puzzle!",
+        "en_clean": "Ainsi s'achève la grande déduction de Sherlock Holmes...of this topsy-turvy puzzle!",
+        "prefix": "<RDFG 30929><E800 946><E608 1><E800 949><E585 1 5><E800 950><E587 1 5 21><E800 953><E586><E800 954><E003 45><E800 957><E585 1 4><E800 958><E587 1 5 21><E800 961><E586><E800 964><MCRS 16 2 6><E800 105><E070 0 2 1><E800 106><E071><E800 109><E003 20><E800 110><E085 6 6><E800 111><E003 20><E800 112><E145 2 71><E800 113><E490 2 -245.164063 5 -38.876373 10 2><E800 114><E492 2 -285 10 2><E800 115><E524 12><E800 116><E139 2><MCRE 16 2 6><E800 966><E041 2 1><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Ainsi s'achève la grande déduction de Sherlock Holmes...[[T0]]of this\ntopsy-turvy puzzle!",
+        "fr_masked": "Ainsi s'achève la grande déduction de Sherlock Holmes...[[T0]] sur\ncette énigme sens dessus dessous !"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c202_0070_eng",
+    "index": 3,
+    "total_pages": 33,
+    "pages": [
+      {
+        "page": 28,
+        "kind": "en_multi",
+        "speaker": "阿美藻",
+        "prev_fr": "(Cet argument tourne en rond comme les anneaux de la corde...)",
+        "next_fr": "Je suis convaincue qu'avec quelques menues rectifications, the great detective's great deduction will lead us to la vérité!",
+        "orig_clean": "I think perhaps we might need to give Mr Sholmes the usual little helping hand.",
+        "en_clean": "Je crois que nous devrions donner à M. Holmes the usual little helping hand.",
+        "prefix": "\r\n<E800 212><E563><E800 215><E141 2 5><E800 216><E144 2><E800 217><E148 3 84 0 5><E800 218><E149 3 0 1><E800 219><E144 3><E800 221><E041 3 2><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Je crois que nous devrions donner à M. Holmes[[T0]] the\nusual little helping hand.",
+        "fr_masked": "Je crois que nous devrions donner à M. Holmes[[T0]] notre\nhabituel petit coup de pouce."
+      },
+      {
+        "page": 31,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "Oui, vous avez raison.",
+        "next_fr": "",
+        "orig_clean": "And we must do it quickly, before Enoch Drebber gets too far away!",
+        "en_clean": "Et nous devons faire vite, before Enoch Drebber gets too far away!",
+        "prefix": "\r\n<E800 226><E563><E800 227><E003 7><E800 231><E041 1 0><E239><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 8>",
+          "<E160 3>",
+          "<E149 3 4 4>",
+          "<E341>",
+          "<E025 1>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Et nous devons faire vite,[[T0]] [[T1]][[T2]][[T3]][[T4]]before Enoch Drebber gets\ntoo far away!",
+        "fr_masked": "Et nous devons faire vite,[[T0]] [[T1]][[T2]][[T3]][[T4]]avant qu'Enoch Drebber ne\ns'éloigne trop !"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c202_0080_eng",
+    "index": 8,
+    "total_pages": 7,
+    "pages": [
+      {
+        "page": 0,
+        "kind": "en_contr",
+        "speaker": "日火吏",
+        "prev_fr": "",
+        "next_fr": "Ah ! Regardez ça !",
+        "orig_clean": "Well well! I wasn't expecting to find a pretty bunch of flowers in here, that's for sure.",
+        "en_clean": "Tiens, tiens ! I wasn't expecting to find a pretty bunch of flowers in here, c'est certain.",
+        "prefix": "<RDFG 31077><E800 176><E556 1 15 3><E800 177><E131><E800 178><E572 0><E800 179><E467 77.281792 15.010727 91.805122 15 3><E800 180><E464 71.131020 64.431839 2469.543457 15 3><E800 181><E572 2><E800 182><E131><E800 185><E637 1 2><E800 186><E640><E800 188><E041 1 0><E333><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 10>",
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Tiens, tiens ![[T0]] I wasn't expecting to find a pretty bunch of\nflowers in here,[[T1]] c'est certain.",
+        "fr_masked": "Tiens, tiens ![[T0]] Je ne m'attendais pas à trouver un si joli\nbouquet de fleurs ici,[[T1]] c'est certain."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c202_0080_eng",
+    "index": 13,
+    "total_pages": 5,
+    "pages": [
+      {
+        "page": 3,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "« Lorsque vous avez éliminé l'impossible, whatever remains doit être la vérité. »",
+        "next_fr": "",
+        "orig_clean": "Because all the upside-down furniture in the room is clearly screaming that it happened.",
+        "en_clean": "Car tout le mobilier renversé dans cette pièce is clearly screaming that it happened.",
+        "prefix": "\r\n<E800 379><E563><E800 381><E164 1 56 1 2 5 0 2 1><E800 382><E139 1><E800 384><E041 1 0><E025 1>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 10>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Car tout le mobilier renversé dans cette pièce[[T0]] is\nclearly screaming that it happened.",
+        "fr_masked": "Car tout le mobilier renversé dans cette pièce[[T0]] crie\nlittéralement que cela s'est bien produit."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c202_0080_eng",
+    "index": 14,
+    "total_pages": 10,
+    "pages": [
+      {
+        "page": 1,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "",
+        "next_fr": "M. Naruhodo, je vous conjure d'observer plus attentivement.",
+        "orig_clean": "Unlike every other piece of furniture in the room, this safe is not upside-down.",
+        "en_clean": "Contrairement à tous les autres meubles de la pièce, this safe is not upside-down.",
+        "prefix": "\r\n<E800 328><E563><E800 329><E003 20><E800 332><E141 1 0><E800 333><E141 2 0><E800 334><E144 2><E800 337><E070 2 1 1><E800 338><E071><E800 341><E444 124 0 8><E800 344><E157 130 0 0><E800 345><E157 131 0 0><E800 346><E157 132 0 0><E800 347><E157 133 0 0><E800 348><E157 95 0 0><E800 351><E148 1 54 60 0><E800 357><E070 0 2 1><E800 358><E071><E800 359><E003 15><E800 362><E280 0><E800 363><E279><E800 364><E282><E800 367><E144 1><MCRE 2 130 12><E800 401><E041 1 0><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Contrairement à tous les autres meubles de la pièce,[[T0]] this\nsafe is not upside-down.",
+        "fr_masked": "Contrairement à tous les autres meubles de la pièce,[[T0]]\nce coffre-fort n'est pas à l'envers."
+      },
+      {
+        "page": 5,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "Comme vous le voyez, les pieds du coffre sont solidement boulonnés au sol, l'épargnant de tout effet de gravité.",
+        "next_fr": "Une bonne déduction ne tient pas qu'à un fil !",
+        "orig_clean": "Oh! So it is...",
+        "en_clean": "Oh ! Donc it is...",
+        "prefix": "\r\n<E800 413><E563><E800 415><E145 1 66><E800 416><E149 1 0 0><E800 417><E173 1 1 15 2><E800 418><E492 1 -143 15 2><E800 419><E003 15><E800 421><E041 1 0><E025 2><E334>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 8>",
+          "<E025 3>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Oh ![[T0]][[T1]] [[T2]]Donc it is...",
+        "fr_masked": "Oh ![[T0]][[T1]] [[T2]]En effet..."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c202_0080_eng",
+    "index": 16,
+    "total_pages": 24,
+    "pages": [
+      {
+        "page": 7,
+        "kind": "en_multi",
+        "speaker": "Sherlock Holmes",
+        "prev_fr": "Vous tentiez d'impressionner votre assistante, peut-être ?",
+        "next_fr": "Et c'est l'exception qui confirme la règle.",
+        "orig_clean": "...this unassuming, slender vase is standing keenly to attention.",
+        "en_clean": "... ce frêle et modeste slender vase is standing keenly to attention.",
+        "prefix": "\r\n<E800 678><E563><E800 680><E118 2 1.2><E800 681><E145 2 71><E800 682><E492 2 425 15 2><E800 683><E139 2><E800 684><E118 2 1><E800 686><E086 2 4><E800 687><E462 192.017944 139.707672 2314.703613 15 3><E800 688><E464 -128.312958 -44.654205 2531.008789 15 3><E800 689><E485 140 15 3><E800 690><E131><E800 691><E086 2 20><E800 692><E523 65.883438 73.612663 2406.399902 0.300000 0.300000 7><E800 693><E524 10><E800 694><E525><E800 695><E156 2 1 0><E800 696><E003 5><E800 698><E041 2 1><E330><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "... ce frêle et modeste[[T0]] slender vase is standing keenly to\nattention.",
+        "fr_masked": "... ce frêle et modeste[[T0]] vase se tient fièrement\nau garde-à-vous."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c202_0085_eng",
+    "index": 16,
+    "total_pages": 27,
+    "pages": [
+      {
+        "page": 8,
+        "kind": "en_multi",
+        "speaker": "阿美藻",
+        "prev_fr": "Ah toute proche !",
+        "next_fr": "... se trouvait la seconde cage à oiseaux. La clé de voûte of the whole instantaneous kinesis deception...",
+        "orig_clean": "It was a piece of a green balloon's envelope that Mr Naruhodo and Iris found at the scene!",
+        "en_clean": "C'est un morceau d'enveloppe de ballon vert that Mr Naruhodo and Iris found at the scene toute proche !",
+        "prefix": "\r\n<E800 632><E060 0 70 1 0><E800 633><E041 3 2><E025 2><E331>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E006>",
+          "<E005>",
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "C'est un morceau d'enveloppe de [[T0]]ballon vert[[T1]][[T2]] that\nMr Naruhodo and Iris found at the scene toute proche !",
+        "fr_masked": "C'est un morceau d'enveloppe de [[T0]]ballon vert[[T1]][[T2]] que\nM. Naruhodo et Iris ont trouvé sur les lieux !"
+      },
+      {
+        "page": 10,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "C'est un morceau d'enveloppe de ballon vert that Mr Naruhodo and Iris found at the scene toute proche !",
+        "next_fr": "Ah toute proche !",
+        "orig_clean": "...was the second birdcage. The crux of the whole instantaneous kinesis deception...",
+        "en_clean": "... se trouvait la seconde cage à oiseaux. La clé de voûte of the whole instantaneous kinesis deception...",
+        "prefix": "\r\n<E800 651><E563><E800 653><E462 14.126442 149.760239 1940.968506 30 3><E800 654><E464 39.382843 205.587479 2274.831055 30 3><E800 655><E492 1 -209 30 3><E800 656><E003 5><E800 657><E085 1 42><E800 658><E156 1 1 10><E800 659><E072 1 2><E800 660><E073><E800 661><E444 56 2 0><E800 662><E131><E800 664><E003 10><E800 665><E304 57 0><E800 666><E086 2 20><E800 667><E523 -13.044338 225.587479 2240.165283 0.450000 0.450000 7><E800 668><E524 10><E800 669><E525><E800 670><E072 0 0><E800 671><E073><E800 673><E041 1 0><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 8>",
+          "<E006>",
+          "<E005>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "... se trouvait la seconde cage à oiseaux.[[T0]] [[T1]]La clé de voûte[[T2]] of the whole\ninstantaneous kinesis deception...",
+        "fr_masked": "... se trouvait la seconde cage à oiseaux.[[T0]] [[T1]]La clé de voûte[[T2]] de toute\ncette supercherie de cinèse instantanée..."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c202_0100_eng",
+    "index": 2,
+    "total_pages": 14,
+    "pages": [
+      {
+        "page": 2,
+        "kind": "orig_short",
+        "speaker": "阿美藻",
+        "prev_fr": "",
+        "next_fr": "You mean...Mr Drebber?",
+        "orig_clean": "The architect?",
+        "en_clean": "The architect?",
+        "prefix": "\r\n<E800 81><E563><E800 83><E447 50 50 2><E800 84><E086 2 4><E800 85><E527 93.344269 140.122437 2114.732666 10 2><E800 86><E490 3 60.000000 12.000000 2089.000000 10 2><E800 87><E490 1 146.000000 12.000000 2085.000000 10 2><E800 88><E490 2 79.835968 0.000000 2192.123535 10 2><E800 89><E462 109.508629 150.366943 1963.920654 10 2><E800 90><E464 100.118584 142.540665 2551.716797 10 2><E800 91><E466 55 10 2><E800 92><E131><E800 94><E041 3 2><E025 2>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "The architect?",
+        "fr_masked": "L'architecte ?"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c202_0140_eng",
+    "index": 2,
+    "total_pages": 53,
+    "pages": [
+      {
+        "page": 20,
+        "kind": "orig_short",
+        "speaker": "id:123",
+        "prev_fr": ".........",
+        "next_fr": "(Mr Sholmes knows Dr Sithe?)",
+        "orig_clean": "Hello...Sholmes.",
+        "en_clean": "Hello...Sholmes.",
+        "prefix": "\r\n<E800 152><E563><E800 155><E141 2 5><E800 156><E144 2><E800 157><E148 123 64 0 5><E800 158><E144 123><E800 160><E145 123 70><E800 161><E003 15><E800 163><E041 123 89><E239><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 12>",
+          "<E025 3>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Hello...[[T0]][[T1]][[T2]]Sholmes.",
+        "fr_masked": "Bonjour...[[T0]][[T1]][[T2]] Sholmes."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c300_0000_eng",
+    "index": 2,
+    "total_pages": 63,
+    "pages": [
+      {
+        "page": 24,
+        "kind": "en_multi",
+        "speaker": "Sandwich",
+        "prev_fr": "Iris serait bien incapable d'aller aussi loin. Elle a le cœur trop tendre.",
+        "next_fr": "C'est moi qui mérite des éloges ici ! Pas Iris ! C'est ma victoire !",
+        "orig_clean": "Ah, I sense the spirit of a fellow scientist! One who relishes the infinite possibilities of blending tea!",
+        "en_clean": "Ah, je reconnais là l'esprit d'une consœur scientifique ! One who relishes the infinite possibilities of blending tea!",
+        "prefix": "\r\n<E800 174><E141 3 0><E800 175><E140 68 68 0 0><E800 177><E041 68 68><E333><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>",
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Ah,[[T0]] je reconnais là l'esprit d'une consœur scientifique ![[T1]] One who\nrelishes the infinite possibilities of blending tea!",
+        "fr_masked": "Ah,[[T0]] je reconnais là l'esprit d'une consœur scientifique ![[T1]] Quelqu'un\nqui savoure les possibilités infinies des mélanges de thé !"
+      },
+      {
+        "page": 53,
+        "kind": "en_multi",
+        "speaker": "Sandwich",
+        "prev_fr": "Drebber...",
+        "next_fr": "Je vous dois tellement à tous les deux !",
+        "orig_clean": "I'm still amazed that you managed to find him in just one day...",
+        "en_clean": "Je suis toujours émerveillé que vous ayez réussi à le retrouver in just one day...",
+        "prefix": "\r\n<E800 364><E563><E800 366><E145 68 65><E800 367><E139 68><E800 369><E041 68 68><E025 2><E341>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E145 3 64>",
+          "<E049>",
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Je suis toujours émerveillé [[T0]]que vous ayez réussi à le retrouver[[T1]][[T2]] in just one\nday...",
+        "fr_masked": "Je suis toujours émerveillé [[T0]]que vous ayez réussi à le retrouver[[T1]][[T2]] en une\nseule journée..."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c301_0000_eng",
+    "index": 2,
+    "total_pages": 33,
+    "pages": [
+      {
+        "page": 1,
+        "kind": "en_multi",
+        "speaker": "蚊唾",
+        "prev_fr": "24 octobre, 9 h 30 Salle d'audience de l'Old Bailey",
+        "next_fr": "Nous reprenons le procès public d'Albert Samba Lonron, here present, accusé de meurtre.",
+        "orig_clean": "In the name of Her Majesty the Queen, I hereby declare this court to be in session again.",
+        "en_clean": "Au nom de Sa Majesté la Reine, I hereby declare this court to be in session again.",
+        "prefix": "\r\n<E800 86><E563><E800 89><E086 1 21><E800 90><E129 7 20 0><E800 92><E074 0 4><E800 93><E131><E800 96><E213 0 0 1><E800 97><E232><E800 100><E147 15 0><E800 101><E130 5 1><E800 102><E131><E800 104><E085 0 1><E800 106><E041 15 15><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Au nom de Sa Majesté la Reine,[[T0]][[T1]] I hereby declare\nthis court to be in session again.",
+        "fr_masked": "Au nom de Sa Majesté la Reine,[[T0]][[T1]] je déclare\ncette audience de nouveau ouverte."
+      },
+      {
+        "page": 14,
+        "kind": "en_multi",
+        "speaker": "Iris Watson",
+        "prev_fr": "Ah, oui. Mon apprenti et assistant.",
+        "next_fr": "(Et au bon écoulement des boissons fraîches, by the look of it...)",
+        "orig_clean": "I therefore instructed my assistant to attend to ensure the smooth running of the trial.",
+        "en_clean": "J'ai par conséquent ordonné à mon assistant de m'assister to ensure the smooth running of the trial.",
+        "prefix": "\r\n<E800 192><E563><E800 196><E145 111 1><E800 197><E145 6 36><E800 203><E003 140><E800 204><E041 6 7><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "J'ai par conséquent ordonné à mon assistant de m'assister[[T0]][[T1]] to ensure the\nsmooth running of the trial.",
+        "fr_masked": "J'ai par conséquent ordonné à mon assistant d'être présent[[T0]][[T1]]\nafin d'assurer le bon déroulement du procès."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c301_0010_eng",
+    "index": 2,
+    "total_pages": 45,
+    "pages": [
+      {
+        "page": 8,
+        "kind": "en_multi",
+        "speaker": "蚊唾",
+        "prev_fr": "C'est...un scandale !",
+        "next_fr": "J'y ai lu que la machine avait volé en éclats, and the wreckage reduced to ashes in the flames.",
+        "orig_clean": "Yes, I heard this grave news yesterday. Scotland Yard submitted a report to my office in the evening.",
+        "en_clean": "Oui, j'ai appris cette fâcheuse nouvelle hier. Scotland Yard submitted a report to my office in the evening.",
+        "prefix": "\r\n<E800 90><E616><E800 93><E086 1 21><E800 94><E129 7 20 0><E800 95><E131><E800 97><E213 0 0 1><E800 98><E232><E800 101><E147 15 0><E800 102><E130 5 1><E800 103><E131><E800 105><E147 113 64><E800 106><E147 124 64><E800 107><E147 118 64><E800 109><E145 15 1><E800 110><E003 15><E800 112><E041 15 15><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>",
+          "<E049>",
+          "<E003 12>",
+          "<E025 2>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Oui,[[T0]] j'ai appris cette fâcheuse nouvelle hier.[[T1]][[T2]] [[T3]]Scotland Yard\nsubmitted a report to my office in the evening.",
+        "fr_masked": "Oui,[[T0]] j'ai appris cette fâcheuse nouvelle hier.[[T1]][[T2]] [[T3]]Scotland Yard\nm'a remis un rapport dans la soirée."
+      },
+      {
+        "page": 10,
+        "kind": "en_multi",
+        "speaker": "Iris Watson",
+        "prev_fr": "J'y ai lu que la machine avait volé en éclats, and the wreckage reduced to ashes in the flames.",
+        "next_fr": "Il montre le peu qu'il subsiste de l'appareil.",
+        "orig_clean": "I have here a photographic print of the scene, taken in the wake of the explosion.",
+        "en_clean": "J'ai ici un cliché photographique des lieux, taken in the wake of the explosion.",
+        "prefix": "\r\n<E800 120><E563><E800 123><E147 6 0><E800 124><E130 4 1><E800 125><E131><E800 128><E060 0 102 0 0><E800 130><E041 6 7><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 8>",
+          "<E025 2>",
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "J'ai ici[[T0]] [[T1]]un cliché photographique des lieux,[[T2]] taken in the\nwake of the explosion.",
+        "fr_masked": "J'ai ici[[T0]] [[T1]]un cliché photographique des lieux,[[T2]] pris à la suite\nde l'explosion."
+      },
+      {
+        "page": 22,
+        "kind": "en_multi",
+        "speaker": "Iris Watson",
+        "prev_fr": "... !",
+        "next_fr": "... l'authenticité de la machine de cinèse will remain forever in obscurity.",
+        "orig_clean": "As it stands now, with no evidence on which to draw meaningful conclusions...",
+        "en_clean": "En l'état actuel, with no evidence on which to draw meaningful conclusions...",
+        "prefix": "\r\n<E800 205><E563><E800 208><E086 1 21><E800 209><E129 7 20 0><E800 210><E131><E800 213><E147 6 0><E800 214><E130 4 1><E800 215><E131><E800 217><E145 6 7><E800 218><E139 6><E800 219><E098 1 21><E800 220><E092 0><E800 221><E144 6><E800 223><E041 6 7><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 10>",
+          "<E025 2>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "En l'état actuel,[[T0]][[T1]] [[T2]]with no evidence on which to draw\nmeaningful conclusions...",
+        "fr_masked": "En l'état actuel,[[T0]][[T1]] [[T2]]faute de preuves permettant de tirer\ndes conclusions valables..."
+      },
+      {
+        "page": 23,
+        "kind": "en_multi",
+        "speaker": "Iris Watson",
+        "prev_fr": "En l'état actuel, with no evidence on which to draw meaningful conclusions...",
+        "next_fr": "Hum, en effet... Une tournure des plus fâcheuses.",
+        "orig_clean": "...the authenticity of the kinesis machine will remain forever in obscurity.",
+        "en_clean": "... l'authenticité de la machine de cinèse will remain forever in obscurity.",
+        "prefix": "\r\n<E800 224><E041 6 7><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "... l'authenticité de la machine de cinèse[[T0]] will remain\nforever in obscurity.",
+        "fr_masked": "... l'authenticité de la machine de cinèse[[T0]] demeurera\nà jamais dans l'ombre."
+      },
+      {
+        "page": 34,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "Cependant, à l'insu du professeur...",
+        "next_fr": "Des noms, maître, je vous prie.",
+        "orig_clean": "...he was being deliberately deceived by a pair of very clever fraudsters.",
+        "en_clean": "... il a été le jouet d'une manipulation by a pair of very clever fraudsters.",
+        "prefix": "\r\n<E800 290><E145 1 1><E800 291><E041 1 0><E025 2><E330>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "... il a été le jouet d'une manipulation[[T0]] by a pair of very\nclever fraudsters.",
+        "fr_masked": "... il a été le jouet d'une manipulation[[T0]] orchestrée par deux\nescrocs particulièrement retors."
+      },
+      {
+        "page": 39,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": ".........",
+        "next_fr": "Merci, maîtres. The positions of the prosecution and defence sont désormais clairement posées.",
+        "orig_clean": "The defence intends to expose that information, thus establishing the unequivocal innocence of the defendant!",
+        "en_clean": "La défense a l'intention de faire éclater cette vérité, thus establishing the unequivocal innocence of the defendant!",
+        "prefix": "\r\n<E800 329><E563><E800 331><E164 1 8 1 2 5 0 2 1><E800 332><E139 1><E800 334><E041 1 0><E025 1>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "La défense a l'intention de faire éclater cette vérité,[[T0]] thus\nestablishing the unequivocal innocence of the defendant!",
+        "fr_masked": "La défense a l'intention de faire éclater cette vérité,[[T0]] prouvant\nainsi sans équivoque l'innocence de l'accusé !"
+      },
+      {
+        "page": 40,
+        "kind": "en_multi",
+        "speaker": "蚊唾",
+        "prev_fr": "La défense a l'intention de faire éclater cette vérité, thus establishing the unequivocal innocence of the defendant!",
+        "next_fr": "Lord Van Peers, appelez votre premier témoin, je vous prie.",
+        "orig_clean": "Thank you, Counsels. The positions of the prosecution and defence have been clearly stated.",
+        "en_clean": "Merci, maîtres. The positions of the prosecution and defence sont désormais clairement posées.",
+        "prefix": "\r\n<E800 335><E563><E800 338><E086 1 21><E800 339><E129 7 20 0><E800 340><E131><E800 343><E213 0 0 1><E800 344><E232><E800 347><E147 15 4><E800 348><E130 5 1><E800 349><E131><E800 351><E041 15 15><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 10>",
+          "<E025 2>",
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Merci, maîtres.[[T0]][[T1]] [[T2]]The positions of the prosecution\nand defence[[T3]] sont désormais clairement posées.",
+        "fr_masked": "Merci, maîtres.[[T0]][[T1]] [[T2]]Les positions de l'accusation et\nde la défense[[T3]] sont désormais clairement posées."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c301_0020_eng",
+    "index": 2,
+    "total_pages": 37,
+    "pages": [
+      {
+        "page": 2,
+        "kind": "en_multi",
+        "speaker": "Toby",
+        "prev_fr": "Nom...Enoch Drebber. Profession...",
+        "next_fr": "Vous avez vu ce monocle noir ?",
+        "orig_clean": "...hard to pin down, I would say.",
+        "en_clean": "...hard to pin down, dirais-je.",
+        "prefix": "\r\n<E800 69><E563><E800 71><E145 69 68><E800 72><E144 69><E800 74><E041 69 69><E333><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E006>",
+          "<E005>",
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "...[[T0]]hard to pin down[[T1]],[[T2]] dirais-je.",
+        "fr_masked": "... [[T0]]difficile à cerner[[T1]],[[T2]] dirais-je."
+      },
+      {
+        "page": 15,
+        "kind": "en_multi",
+        "speaker": "Iris Watson",
+        "prev_fr": "Il y a eu un terrible accident, n'est-ce pas ?",
+        "next_fr": "C'est du moins ce qu'indique notre enquête. Confirmez-vous votre implication ?",
+        "orig_clean": "It was you, Mr Drebber, who constructed the vast machine used in the experiment.",
+        "en_clean": "C'est vous, monsieur Drebber, who constructed the vast machine used in the experiment.",
+        "prefix": "\r\n<E800 171><E563><E800 174><E147 6 0><E800 175><E130 4 1><E800 176><E131><E800 178><E145 6 37><E800 179><E145 111 2><E800 180><E003 60><E800 182><E041 6 7><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>",
+          "<E049>",
+          "<E003 8>",
+          "<E025 2>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "C'est vous,[[T0]] monsieur Drebber,[[T1]][[T2]] [[T3]]who constructed the vast\nmachine used in the experiment.",
+        "fr_masked": "C'est vous,[[T0]] monsieur Drebber,[[T1]][[T2]] [[T3]]qui avez fabriqué l'imposante\nmachine utilisée lors de l'expérience."
+      },
+      {
+        "page": 31,
+        "kind": "en_multi",
+        "speaker": "Iris Watson",
+        "prev_fr": "... c'est que ce même résultat could have been produced by means of stage trickery.",
+        "next_fr": "Mais...mais...",
+        "orig_clean": "The defence merely proposed a method and demonstrated its feasibility, nothing more.",
+        "en_clean": "La défense s'est contentée de formuler une hypothèse and demonstrated its feasibility, rien de plus.",
+        "prefix": "\r\n<E800 291><E563><E800 293><E145 6 8><E800 294><E118 6 1.2><E800 295><E139 6><E800 297><E041 6 7><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 8>",
+          "<E049>",
+          "<E003 12>",
+          "<E025 3>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "La défense s'est contentée de formuler une hypothèse[[T0]] and\ndemonstrated its feasibility,[[T1]][[T2]] [[T3]]rien de plus.",
+        "fr_masked": "La défense s'est contentée de formuler une hypothèse[[T0]] et d'en\ndémontrer la faisabilité,[[T1]][[T2]] [[T3]]rien de plus."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c301_0030_eng",
+    "index": 2,
+    "total_pages": 7,
+    "pages": [
+      {
+        "page": 1,
+        "kind": "en_multi",
+        "speaker": "Toby",
+        "prev_fr": "– La machine de cinèse –",
+        "next_fr": "He provided me with the blueprints and I constructed the machine to his precise specifications. Il n'y avait nulle supercherie.",
+        "orig_clean": "I met the young professor approximately one year ago, through Mr Asman's introduction.",
+        "en_clean": "I met the young professor approximately one year ago, par l'entremise de M. Odoril.",
+        "prefix": "\r\n<E800 45><E563><E800 47><E194 1><E800 48><E085 0 5><E800 51><E130 15 1><E800 52><E131><E800 54><E041 69 69><E025 2>",
+        "suffix": "",
+        "tags": [
+          "<E006>",
+          "<E005>",
+          "<E003 8>",
+          "<E048>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "I met [[T0]]the young professor[[T1]] approximately one year ago,[[T2]]\npar l'entremise de M. Odoril.[[T3]]",
+        "fr_masked": "J'ai rencontré [[T0]]le jeune professeur[[T1]] il y a environ un an,[[T2]]\npar l'entremise de M. Odoril.[[T3]]"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c301_0030_eng",
+    "index": 3,
+    "total_pages": 27,
+    "pages": [
+      {
+        "page": 3,
+        "kind": "en_multi",
+        "speaker": "Toby",
+        "prev_fr": "That goes without saying, surely?",
+        "next_fr": "Mais aurais-je tort de prétendre...you haven't managed to establish anything along those lines?",
+        "orig_clean": "The deception cannot be achieved without substituting the original with a fake at some point in the performance.",
+        "en_clean": "The deception cannot be achieved without substituting l'original par une réplique à un moment donné du spectacle.",
+        "prefix": "\r\n<E800 97><E145 69 66><E800 98><E041 69 69><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E006>",
+          "<E005>",
+          "<E049>",
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "The deception cannot be achieved without [[T0]]substituting[[T1]][[T2]][[T3]]\nl'original par une réplique à un moment donné du spectacle.",
+        "fr_masked": "Ce leurre est impossible sans [[T0]]remplacer[[T1]][[T2]][[T3]] l'original\npar une réplique à un moment donné du spectacle."
+      },
+      {
+        "page": 4,
+        "kind": "en_contr",
+        "speaker": "Toby",
+        "prev_fr": "The deception cannot be achieved without substituting l'original par une réplique à un moment donné du spectacle.",
+        "next_fr": "Urgh...",
+        "orig_clean": "But would I be right in saying...you haven't managed to establish anything along those lines?",
+        "en_clean": "Mais aurais-je tort de prétendre...you haven't managed to establish anything along those lines?",
+        "prefix": "\r\n<E800 99><E563><E800 101><E145 69 68><E800 102><E144 69><E800 104><E041 69 69><E333><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 12>",
+          "<E006>",
+          "<E005>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Mais aurais-je tort de prétendre...[[T0]][[T1]]you haven't managed to\nestablish anything [[T2]]along those lines[[T3]]?",
+        "fr_masked": "Mais aurais-je tort de prétendre...[[T0]][[T1]] que vous n'avez rien pu\nétablir [[T2]]en ce sens[[T3]] ?"
+      },
+      {
+        "page": 23,
+        "kind": "en_multi",
+        "speaker": "Toby",
+        "prev_fr": "Though I may have sold the secrets of some deceptive wiles à de pitoyables chercheurs sans envergure par le passé.",
+        "next_fr": "Maître Naruhodo...procédez à votre contre-interrogatoire !",
+        "orig_clean": "An unfortunate accident. ...Or, of course, a deliberate act of murder carried out by misuse of the science.",
+        "en_clean": "Un regrettable accident. ... Ou alors, bien sûr, a deliberate act of murder carried out by misuse of the science.",
+        "prefix": "\r\n<E800 236><E563><E800 239><E147 69 68><E800 240><E130 15 1><E800 241><E131><E800 243><E041 69 69><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 12>",
+          "<E049>",
+          "<E003 6>",
+          "<E145 69 67>",
+          "<E144 69>",
+          "<E333>",
+          "<E025 2>",
+          "<E003 6>",
+          "<E006>",
+          "<E005>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Un regrettable accident.[[T0]][[T1]] ... Ou alors, bien sûr,[[T2]][[T3]] [[T4]][[T5]][[T6]][[T7]]a deliberate act\nof murder[[T8]] carried out by [[T9]]misuse[[T10]] of the science.",
+        "fr_masked": "Un regrettable accident.[[T0]][[T1]] ... Ou alors, bien sûr,[[T2]][[T3]] [[T4]][[T5]][[T6]][[T7]]un meurtre\ndélibéré[[T8]] commis par un [[T9]]détournement[[T10]] de la science."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c301_0040_eng",
+    "index": 10,
+    "total_pages": 12,
+    "pages": [
+      {
+        "page": 8,
+        "kind": "en_multi",
+        "speaker": "Iris Watson",
+        "prev_fr": "... Sans oublier l'excellence en matière d'escroquerie.",
+        "next_fr": "",
+        "orig_clean": "In other words, the kinesis machine was built on solid scientific principles.",
+        "en_clean": "En d'autres termes, the kinesis machine was built on solid scientific principles.",
+        "prefix": "\r\n<E800 242><E563><E800 245><E147 6 12><E800 246><E130 4 1><E800 247><E131><E800 249><E041 6 7><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 6>",
+          "<E049>",
+          "<E003 6>",
+          "<E145 6 3>",
+          "<E118 6 0.5>",
+          "<E003 13>",
+          "<E239>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "En d'autres termes,[[T0]][[T1]] the kinesis machine was built[[T2]][[T3]] [[T4]][[T5]][[T6]][[T7]]on solid\nscientific principles.",
+        "fr_masked": "En d'autres termes,[[T0]][[T1]] la machine de cinèse reposait[[T2]][[T3]] [[T4]][[T5]][[T6]][[T7]]sur de solides\nprincipes scientifiques."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c301_0040_eng",
+    "index": 14,
+    "total_pages": 18,
+    "pages": [
+      {
+        "page": 12,
+        "kind": "orig_short",
+        "speaker": "Toby",
+        "prev_fr": "Hummmmm... A trenchant, scientific analysis.",
+        "next_fr": "Tous les spectateurs présents ce jour-là l'ont vu.",
+        "orig_clean": "Oh yes.",
+        "en_clean": "Oh yes.",
+        "prefix": "\r\n<E800 718><E563><E800 721><E147 69 67><E800 722><E130 15 1><E800 723><E131><E800 725><E041 69 69><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E006>",
+          "<E005>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Oh [[T0]]yes[[T1]].",
+        "fr_masked": "Oh [[T0]]oui[[T1]]."
+      },
+      {
+        "page": 16,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "Tous les spectateurs présents ce jour-là l'ont vu.",
+        "next_fr": "",
+        "orig_clean": "(Irritatingly, yes...)",
+        "en_clean": "(Irritatingly, yes...)",
+        "prefix": "\r\n<E800 741><E041 1 0><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E007>",
+          "<E341>",
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "[[T0]][[T1]](Irritatingly,[[T2]] yes...)",
+        "fr_masked": "[[T0]][[T1]](Aussi agaçant que ce soit,[[T2]] oui...)"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c301_0040_eng",
+    "index": 25,
+    "total_pages": 50,
+    "pages": [
+      {
+        "page": 19,
+        "kind": "orig_short",
+        "speaker": "Toby",
+        "prev_fr": "Gaaaaaaa...gh!",
+        "next_fr": "But multiple witness reports claim it fell headfirst!",
+        "orig_clean": "I...well...",
+        "en_clean": "I...well...",
+        "prefix": "\r\n<E800 1171><E563><E800 1174><E147 69 71><E800 1175><E130 15 1><E800 1176><E131><E800 1178><E615><E800 1179><E041 69 69><E025 4><E338><E342>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 8>",
+          "<E145 69 72>",
+          "<E118 69 1.3>",
+          "<E144 69>",
+          "<E342>",
+          "<E025 1>",
+          "<E333>",
+          "<E006>",
+          "<E005>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "I...[[T0]][[T1]][[T2]][[T3]][[T4]][[T5]][[T6]][[T7]][[T8]]well[[T9]]...",
+        "fr_masked": "Je... [[T0]][[T1]][[T2]][[T3]][[T4]][[T5]][[T6]][[T7]][[T8]]eh bien[[T9]]..."
+      },
+      {
+        "page": 39,
+        "kind": "orig_short",
+        "speaker": "Drake Van Peers",
+        "prev_fr": ".........",
+        "next_fr": "J'ai l'impression que c'est ce qu'il cherche à me faire comprendre.",
+        "orig_clean": "Sorry?",
+        "en_clean": "Sorry?",
+        "prefix": "\r\n<E800 1311><E145 9 17><E800 1312><E172 9 10 15 16 2 0><E800 1314><E041 9 2><E025 2>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "Sorry?",
+        "fr_masked": "Pardon ?"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c302_0020_eng",
+    "index": 5,
+    "total_pages": 43,
+    "pages": [
+      {
+        "page": 34,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "Bonté divine...",
+        "next_fr": "Et pourtant...",
+        "orig_clean": "W-What?",
+        "en_clean": "W-What?",
+        "prefix": "\r\n<E800 449><E563><E800 452><E147 1 2><E800 453><E130 1 0><E800 454><E131><E800 456><E041 1 0><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 8>",
+          "<E338>",
+          "<E342>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "W-[[T0]][[T1]][[T2]]What?",
+        "fr_masked": "Q-[[T0]][[T1]][[T2]]Quoi ?"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c302_0030_eng",
+    "index": 12,
+    "total_pages": 54,
+    "pages": [
+      {
+        "page": 27,
+        "kind": "orig_short",
+        "speaker": "Iris Watson",
+        "prev_fr": "...!",
+        "next_fr": "...Mr Drebber abducted this model from Madame Tusspells.",
+        "orig_clean": "What?",
+        "en_clean": "What?",
+        "prefix": "\r\n<E800 745><E563><E800 748><E136 6 11 10><E800 749><E130 4 1><E800 750><E131><E800 751><E003 10><E800 753><E041 6 7><E025 3><E341>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "What?",
+        "fr_masked": "Quoi ?"
+      },
+      {
+        "page": 51,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "...!",
+        "next_fr": "",
+        "orig_clean": "Wait!",
+        "en_clean": "Wait!",
+        "prefix": "\r\n<E800 929><E086 1 2><E800 930><E190 0 0><E800 931><E191><E800 934><E145 1 81><E800 935><E130 1 1><E800 936><E131><E800 938><E144 1><E800 940><E041 1 0><E025 1><E335>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "Wait!",
+        "fr_masked": "Attendez !"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c303_0000_eng",
+    "index": 2,
+    "total_pages": 25,
+    "pages": [
+      {
+        "page": 16,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "(Je savais que ça arriverait.)",
+        "next_fr": "We are, My Lord.",
+        "orig_clean": "Yes, I agree.",
+        "en_clean": "Yes, I agree.",
+        "prefix": "\r\n<E800 302><E041 1 0><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E145 9 17>",
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Yes, [[T0]][[T1]]I agree.",
+        "fr_masked": "Oui, [[T0]][[T1]]je suis d'accord."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c303_0010_eng",
+    "index": 5,
+    "total_pages": 20,
+    "pages": [
+      {
+        "page": 15,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "Je ne saurais l'expliquer pour l'instant...",
+        "next_fr": "Yes, My Lord!",
+        "orig_clean": "Yes, agreed.",
+        "en_clean": "Yes, agreed.",
+        "prefix": "\r\n<E800 279><E041 1 0><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Yes,[[T0]] agreed.",
+        "fr_masked": "Oui,[[T0]] c'est entendu."
+      },
+      {
+        "page": 18,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "Yes, agreed.",
+        "next_fr": "",
+        "orig_clean": "Yes, My Lord!",
+        "en_clean": "Yes, My Lord!",
+        "prefix": "\r\n<E800 302><E563><E800 305><E147 1 64><E800 306><E130 1 1><E800 307><E131><E800 309><E145 1 73><E800 310><E139 1><E800 312><E041 1 0><E025 1><E346>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 12>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Yes,[[T0]] My Lord!",
+        "fr_masked": "Oui,[[T0]] Votre Honneur !"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c303_0020_eng",
+    "index": 27,
+    "total_pages": 13,
+    "pages": [
+      {
+        "page": 6,
+        "kind": "en_multi",
+        "speaker": "id:113",
+        "prev_fr": "C'est là que vous faites erreur.",
+        "next_fr": "Et ce sont les preuves issues de son travail that led to the arrest of the scoundrel responsible.",
+        "orig_clean": "Because it was Dr Sithe in charge of examining the bodies.",
+        "en_clean": "Car c'était la Dre Pétrie in charge of examining the bodies.",
+        "prefix": "\r\n<E800 623><E563><E800 626><E145 113 64><E800 627><E003 15><E800 629><E041 113 79><E025 2><E333>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E006>",
+          "<E005>",
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Car c'était la [[T0]]Dre Pétrie[[T1]][[T2]] in charge of examining the\nbodies.",
+        "fr_masked": "Car c'était la [[T0]]Dre Pétrie[[T1]][[T2]] qui était chargée\nd'examiner les corps."
+      },
+      {
+        "page": 7,
+        "kind": "en_multi",
+        "speaker": "id:113",
+        "prev_fr": "Car c'était la Dre Pétrie in charge of examining the bodies.",
+        "next_fr": "Oh...",
+        "orig_clean": "And it was evidence arising from her work that led to the arrest of the scoundrel responsible.",
+        "en_clean": "Et ce sont les preuves issues de son travail that led to the arrest of the scoundrel responsible.",
+        "prefix": "\r\n<E800 630><E041 113 79><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Et ce sont les preuves issues de son travail[[T0]] that led to the\narrest of the scoundrel responsible. ",
+        "fr_masked": "Et ce sont les preuves issues de son travail[[T0]] qui ont mené\nà l'arrestation du scélérat responsable."
+      },
+      {
+        "page": 10,
+        "kind": "en_contr",
+        "speaker": "id:113",
+        "prev_fr": "Oh...",
+        "next_fr": "(Je croyais que c'était à moi de « presser » les jurés, not the other way around...)",
+        "orig_clean": "The idea that she's somehow involved in this murky business is a load of old tosh.",
+        "en_clean": "The idea that she's somehow involved in this murky business est un tissu d'âneries pures et simples.",
+        "prefix": "\r\n<E800 650><E563><E800 653><E145 113 67><E800 654><E003 15><E800 656><E041 113 79><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "The idea that she's somehow involved in this murky\nbusiness[[T0]] est un tissu d'âneries pures et simples.",
+        "fr_masked": "L'idée qu'elle soit mêlée de près ou de loin à cette sombre\naffaire[[T0]] est un tissu d'âneries pures et simples."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c303_0020_eng",
+    "index": 29,
+    "total_pages": 19,
+    "pages": [
+      {
+        "page": 10,
+        "kind": "en_multi",
+        "speaker": "id:115",
+        "prev_fr": "Oui, et c'est pour cela que je dis : faire confiance à la police, you will have trouble.",
+        "next_fr": "L'idée est si saugrenue I think I will take my chances and believe the authorities on this occasion.",
+        "orig_clean": "But here you are, claiming this waxwork model was stolen to star in an illusionary spectacular.",
+        "en_clean": "Et pourtant, vous voilà, claiming this waxwork model was stolen to star in an illusionary spectacular.",
+        "prefix": "\r\n<E800 846><E563><E800 848><E147 118 64><E800 850><E536 3 161 1><E800 851><E576 118><E800 852><E577><E800 854><E145 115 68><E800 856><E041 115 81><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 8>",
+          "<E025 2>",
+          "<E341>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Et pourtant, vous voilà,[[T0]][[T1]] [[T2]][[T3]]claiming this waxwork model was\nstolen to star in an illusionary spectacular.",
+        "fr_masked": "Et pourtant, vous voilà,[[T0]][[T1]] [[T2]][[T3]]à prétendre qu'on a volé cette\nstatue de cire pour un grand spectacle d'illusion."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c303_0020_eng",
+    "index": 31,
+    "total_pages": 11,
+    "pages": [
+      {
+        "page": 9,
+        "kind": "en_multi",
+        "speaker": "Drake Van Peers",
+        "prev_fr": "I suppose we should expect nothing less than a logical argument de la part d'un membre de la Royal Society.",
+        "next_fr": "",
+        "orig_clean": "But that perhaps means his mind could be changed if we managed to present suitable evidence...",
+        "en_clean": "Cela signifie peut-être qu'il pourrait changer d'avis if we managed to present suitable evidence...",
+        "prefix": "\r\n<E800 1180><E041 9 2><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 4>",
+          "<E145 9 13>",
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Cela signifie peut-être qu'il pourrait changer d'avis[[T0]][[T1]] [[T2]][[T3]]if we\nmanaged to present suitable evidence...",
+        "fr_masked": "Cela signifie peut-être qu'il pourrait changer d'avis[[T0]][[T1]] [[T2]][[T3]]si nous\nparvenions à présenter une preuve adéquate..."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c303_0020_eng",
+    "index": 33,
+    "total_pages": 6,
+    "pages": [
+      {
+        "page": 2,
+        "kind": "en_contr",
+        "speaker": "id:124",
+        "prev_fr": "C'était déjà was abundantly clear before that brassy proclamation, je vous assure !",
+        "next_fr": "Oh là là... That proclamation was even brassier than yours, Mr Naruhodo.",
+        "orig_clean": "And why you can count on the fact that I shan't be changing my leaning!",
+        "en_clean": "Et voilà pourquoi vous pouvez être certain that I shan't be changing my leaning!",
+        "prefix": "\r\n<E800 1220><E563><E800 1222><E164 124 70 1 2 1 0 2 1><E800 1223><E139 124><E800 1225><E041 124 82><E025 1>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 12>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Et voilà pourquoi vous pouvez être certain[[T0]][[T1]] that I shan't be\nchanging my leaning!",
+        "fr_masked": "Et voilà pourquoi vous pouvez être certain[[T0]][[T1]] que je ne\nchangerai pas d'avis !"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c303_0020_eng",
+    "index": 34,
+    "total_pages": 6,
+    "pages": [
+      {
+        "page": 3,
+        "kind": "en_contr",
+        "speaker": "id:124",
+        "prev_fr": "Je dois vous avertir que par principe, it's only wise to trust men in white coats.",
+        "next_fr": "(Vous ne faites donc confiance à personne en noir? Regarder dans un miroir doit être bien pénible...)",
+        "orig_clean": "So given your jet-black outfit, I don't mind admitting to a sense of trepidation here.",
+        "en_clean": "Ainsi, au vu de votre tenue d'un noir de jais, I don't mind admitting to a sense of trepidation here.",
+        "prefix": "\r\n<E800 1261><E041 124 82><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 6>",
+          "<E145 124 73>",
+          "<E118 124 1.2>",
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Ainsi, au vu de votre tenue d'un noir de jais,[[T0]][[T1]] [[T2]][[T3]][[T4]]I don't mind admitting to a\nsense of trepidation here.",
+        "fr_masked": "Ainsi, au vu de votre tenue d'un noir de jais,[[T0]][[T1]] [[T2]][[T3]][[T4]]je vous avoue\néprouver une certaine appréhension."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c303_0020_eng",
+    "index": 37,
+    "total_pages": 16,
+    "pages": [
+      {
+        "page": 6,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "La Tour de Cris... Grand Dieu !",
+        "next_fr": "D'où proviendrait ce petit morceau...c'est bien cela ?",
+        "orig_clean": "On the day in question, the birdcage fell from above and smashed through a window of that special glass.",
+        "en_clean": "Le jour en question, la volière est tombée d'en haut and smashed through a window of that special glass.",
+        "prefix": "\r\n<E800 1442><E041 1 0><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 8>",
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Le jour en question,[[T0]][[T1]] la volière est tombée d'en haut[[T2]] and\nsmashed through a window of that special glass.",
+        "fr_masked": "Le jour en question,[[T0]][[T1]] la volière est tombée d'en haut[[T2]] et a\nfracassé une vitre faite de ce verre spécial."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c303_0020_eng",
+    "index": 38,
+    "total_pages": 9,
+    "pages": [
+      {
+        "page": 1,
+        "kind": "en_multi",
+        "speaker": "id:124",
+        "prev_fr": "Merci d'avoir reconsidéré votre position, monsieur.",
+        "next_fr": "Ah...",
+        "orig_clean": "Your words are misplaced, boy. My opinion is governed by logic and science and nothing else.",
+        "en_clean": "Vos remerciements sont malvenus, jeune homme. My opinion is governed by logic and science et rien d'autre.",
+        "prefix": "\r\n<E800 1517><E563><E800 1520><E147 124 64><E800 1521><E130 26 1><E800 1522><E131><E800 1524><E145 124 65><E800 1525><E041 124 82><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 12>",
+          "<E025 2>",
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Vos remerciements sont malvenus, jeune homme.[[T0]][[T1]] [[T2]]My opinion is governed\nby logic and science[[T3]] et rien d'autre.",
+        "fr_masked": "Vos remerciements sont malvenus, jeune homme.[[T0]][[T1]] [[T2]]Mon opinion est régie\npar la logique et la science[[T3]] et rien d'autre."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c303_0020_eng",
+    "index": 40,
+    "total_pages": 19,
+    "pages": [
+      {
+        "page": 1,
+        "kind": "en_contr",
+        "speaker": "id:118",
+        "prev_fr": "",
+        "next_fr": "Qu'est-ce qu'y a d'mal à ça ?!",
+        "orig_clean": "I'm a copper, lad. It's a copper's discretion to bend the rules sometimes, when needs must.",
+        "en_clean": "J'suis un flic, petit. It's a copper's discretion to bend the rules sometimes, quand la nécessité l'impose.",
+        "prefix": "\r\n<E800 1704><E563><E800 1707><E147 118 64><E800 1708><E130 30 1><E800 1709><E131><E800 1711><E145 118 66><E800 1712><E139 118><E800 1714><E041 118 84><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 10>",
+          "<E025 2>",
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "J'suis un flic, petit.[[T0]][[T1]] [[T2]]It's a copper's discretion to bend the\nrules sometimes,[[T3]] quand la nécessité l'impose.",
+        "fr_masked": "J'suis un flic, petit.[[T0]][[T1]] [[T2]]C'est le privilège d'un flic d'assouplir\nun peu les règles,[[T3]] quand la nécessité l'impose."
+      },
+      {
+        "page": 13,
+        "kind": "en_multi",
+        "speaker": "id:118",
+        "prev_fr": "C'est bien ça. Il y a dix ans environ. Quand j'étais encore un jeune sergent de quartier.",
+        "next_fr": "Eh bien, vous n'm'entendrez pas m'plaindre ! C'est ce dont on rêvait tous à l'époque, j'vous l'dis !",
+        "orig_clean": "And now look at her! Head of the Forensic Investigation Team. And a woman, no less.",
+        "en_clean": "Et regardez-la maintenant ! Head of the Forensic Investigation Team. Et une femme, qui plus est.",
+        "prefix": "\r\n<E800 1778><E041 118 84><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 8>",
+          "<E025 3>",
+          "<E049>",
+          "<E003 10>",
+          "<E025 2>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Et regardez-la maintenant ![[T0]][[T1]] [[T2]]Head of the Forensic Investigation\nTeam.[[T3]][[T4]] [[T5]]Et une femme, qui plus est.",
+        "fr_masked": "Et regardez-la maintenant ![[T0]][[T1]] [[T2]]À la tête de la police\nscientifique.[[T3]][[T4]] [[T5]]Et une femme, qui plus est."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c303_0020_eng",
+    "index": 43,
+    "total_pages": 16,
+    "pages": [
+      {
+        "page": 5,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "Oh ciel ! Moi ? Q-Que puis-je faire pour vous ?",
+        "next_fr": "Ce qui à son tour has revealed a connection that wasn't apparent before.",
+        "orig_clean": "It's brought to light the maiden name of the coroner, Dr Sithe.",
+        "en_clean": "Cela a mis en lumière the maiden name of the coroner, Dr Sithe.",
+        "prefix": "\r\n<E800 1985><E041 1 0><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Cela a mis en lumière[[T0]] the maiden name of the coroner,\nDr Sithe.",
+        "fr_masked": "Cela a mis en lumière[[T0]] le nom de jeune fille du médecin\nlégiste, le Dr Sithe."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c303_0020_eng",
+    "index": 45,
+    "total_pages": 10,
+    "pages": [
+      {
+        "page": 1,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "Vous sentez-vous bien, monsieur ? All colour has drained from your cheeks. Vous ressemblez vous-même à une statue de cire.",
+        "next_fr": "Hmph. Attends d'avoir mon âge, petit. You won't have any colour left to drain.",
+        "orig_clean": "I think...my lack of colour must reflect my lack of confidence...",
+        "en_clean": "Je crois que...my lack of colour must reflect my lack of confidence...",
+        "prefix": "\r\n<E800 2088><E563><E800 2091><E147 1 66><E800 2092><E130 19 1><E800 2093><E131><E800 2095><E041 1 0><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 6>",
+          "<E145 1 4>",
+          "<E003 8>",
+          "<E341>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Je crois que...[[T0]][[T1]][[T2]][[T3]][[T4]]my lack of colour must reflect my lack of\nconfidence...",
+        "fr_masked": "Je crois que...[[T0]][[T1]][[T2]][[T3]][[T4]] ma pâleur doit trahir mon manque\nd'assurance..."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c303_0020_eng",
+    "index": 46,
+    "total_pages": 26,
+    "pages": [
+      {
+        "page": 11,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "Ça alors, nom d'un chien !",
+        "next_fr": "Et il y a quelques jours, Mr Drebber very deliberately stole the waxwork of le Démon Assassin from Madame Tusspells.",
+        "orig_clean": "It appears that the Professor's autopsy was conducted by Dr Sithe ten years ago.",
+        "en_clean": "It appears that le Démon Assassin's autopsy was conducted by Dr Sithe ten years ago.",
+        "prefix": "\r\n<E800 2273><E563><E800 2276><E147 1 20><E800 2277><E130 19 1><E800 2278><E131><E800 2280><E041 1 0><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "It appears that le Démon Assassin's autopsy[[T0]] was conducted by\nDr Sithe ten years ago.",
+        "fr_masked": "Il semble que l'autopsie du Démon Assassin[[T0]] ait été pratiquée\npar le Dr Sithe il y a dix ans."
+      },
+      {
+        "page": 12,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "It appears that le Démon Assassin's autopsy was conducted by Dr Sithe ten years ago.",
+        "next_fr": "Une statue de cire qui, en fait, resemble the victim, Mr Asman, at all.",
+        "orig_clean": "And a few days ago, Mr Drebber very deliberately stole the waxwork of the Professor from Madame Tusspells.",
+        "en_clean": "Et il y a quelques jours, Mr Drebber very deliberately stole the waxwork of le Démon Assassin from Madame Tusspells.",
+        "prefix": "\r\n<E800 2281><E041 1 0><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Et il y a quelques jours,[[T0]][[T1]] Mr Drebber very deliberately stole\nthe waxwork of le Démon Assassin from Madame Tusspells.",
+        "fr_masked": "Et il y a quelques jours,[[T0]][[T1]] M. Drebber a délibérément dérobé\nla statue de cire du Démon Assassin à Madame Tusspells."
+      },
+      {
+        "page": 17,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "Absolument ! J'en suis convaincu !",
+        "next_fr": "... entre la Dre Cyriella Pétrie et M. Enoch Drebber !",
+        "orig_clean": "...is at the heart of a link that we have yet to uncover...",
+        "en_clean": "...c'est at the heart of un lien que nous n'avons pas encore percé à jour...",
+        "prefix": "\r\n<E800 2311><E041 1 0><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E006>",
+          "<E005>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "...c'est at the heart of [[T0]]un lien[[T1]] que nous n'avons pas encore percé à jour...",
+        "fr_masked": "... est au cœur d'[[T0]]un lien[[T1]] que nous n'avons pas encore percé à jour..."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c303_0020_eng",
+    "index": 47,
+    "total_pages": 23,
+    "pages": [
+      {
+        "page": 6,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "......... Oh, c'est à moi qu'vous parlez ?",
+        "next_fr": "......... Oh, c'est vrai ?",
+        "orig_clean": "...is not without supporting evidence. As the defence demonstrated to the juror sitting beside you.",
+        "en_clean": "... ne manque pas d'éléments de preuve. As the defence demonstrated to the juror sitting beside you.",
+        "prefix": "\r\n<E800 2502><E041 1 0><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "... ne manque pas d'éléments de preuve.[[T0]][[T1]] As the defence\ndemonstrated to the juror sitting beside you.",
+        "fr_masked": "... ne manque pas d'éléments de preuve.[[T0]][[T1]] Comme la défense\nl'a démontré au juré assis juste à côté de vous."
+      },
+      {
+        "page": 10,
+        "kind": "en_multi",
+        "speaker": "id:117",
+        "prev_fr": "... que vous n'avez pas tout suivi à l'argumentation ?",
+        "next_fr": "......... (Évidemment...)",
+        "orig_clean": "I don't understand much besides Colonel Cob, to be honest.",
+        "en_clean": "J'y comprends pas grand-chose en dehors du Colonel Épi, to be honest.",
+        "prefix": "\r\n<E800 2534><E147 117 68><E800 2535><E130 28 1><E800 2536><E131><E800 2541><E041 117 83><E333><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 8>",
+          "<E341>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "J'y comprends pas grand-chose en dehors du Colonel Épi,[[T0]] [[T1]]to be\nhonest.",
+        "fr_masked": "J'y comprends pas grand-chose en dehors du Colonel Épi,[[T0]] [[T1]]à vrai\ndire."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c303_0020_eng",
+    "index": 49,
+    "total_pages": 9,
+    "pages": [
+      {
+        "page": 7,
+        "kind": "en_contr",
+        "speaker": "日火吏",
+        "prev_fr": "Peut-être que si vous observiez un peu plus, we could save us all some time.",
+        "next_fr": "",
+        "orig_clean": "(Believe me, I've seen that detective observing things, and it doesn't save anyone any time.)",
+        "en_clean": "(Croyez-moi, j'ai déjà vu ce détective « observer » les choses, and it doesn't save anyone de temps à personne.)",
+        "prefix": "\r\n<E800 2797><E563><E800 2800><E147 1 4><E800 2801><E130 19 1><E800 2802><E131><E800 2804><E041 1 0><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E007>",
+          "<E003 6>",
+          "<E003 6>",
+          "<E341>",
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "[[T0]](Croyez-moi,[[T1]] j'ai déjà vu ce détective « observer » les choses,[[T2]] [[T3]]and\nit doesn't save anyone[[T4]] de temps à personne.)",
+        "fr_masked": "[[T0]](Croyez-moi,[[T1]] j'ai déjà vu ce détective « observer » les choses,[[T2]]\n[[T3]]et ça ne fait gagner[[T4]] de temps à personne.)"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c303_0020_eng",
+    "index": 53,
+    "total_pages": 10,
+    "pages": [
+      {
+        "page": 4,
+        "kind": "en_multi",
+        "speaker": "id:117",
+        "prev_fr": "Sans blague.",
+        "next_fr": "Mais alors...pourquoi le maïs ?",
+        "orig_clean": "But what I really love more than anythin' is bitin' into a fresh radish.",
+        "en_clean": "Mais c'que j'aime par-d'ssus tout, is bitin' into a fresh radish.",
+        "prefix": "\r\n<E800 3166><E563><E800 3169><E147 117 64><E800 3170><E130 28 1><E800 3171><E131><E800 3173><E041 117 83><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 8>",
+          "<E043>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Mais c'que j'aime par-d'ssus tout,[[T0]][[T1]] [[T2]]is bitin' into a\nfresh radish.",
+        "fr_masked": "Mais c'que j'aime par-d'ssus tout,[[T0]][[T1]] [[T2]]c'est croquer dans\nun bon radis frais."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c303_0030_eng",
+    "index": 2,
+    "total_pages": 34,
+    "pages": [
+      {
+        "page": 1,
+        "kind": "en_multi",
+        "speaker": "蚊唾",
+        "prev_fr": "Merci, maître, cela suffira.",
+        "next_fr": "Deux jurés votent désormais coupable. Contre quatre qui votent non coupable.",
+        "orig_clean": "As a result of the summation examination, the jury's overall leaning has changed.",
+        "en_clean": "À la suite de cette plaidoirie de sommation, the jury's overall leaning has changed.",
+        "prefix": "\r\n<E800 49><E145 15 7><E800 50><E041 15 15><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 8>",
+          "<E025 2>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "À la suite de cette plaidoirie de sommation,[[T0]][[T1]] [[T2]]the jury's\noverall leaning has changed.",
+        "fr_masked": "À la suite de cette plaidoirie de sommation,[[T0]][[T1]] [[T2]]l'avis général\ndu jury a changé."
+      },
+      {
+        "page": 24,
+        "kind": "en_multi",
+        "speaker": "蚊唾",
+        "prev_fr": "Très bien, j'y consens.",
+        "next_fr": "......... Écoutez attentivement, mon cher confrère.",
+        "orig_clean": "Make arrangements for Madame Tusspells to appear as a witness with immediate effect.",
+        "en_clean": "Make arrangements for Madame Tusspells to appear as a witness sur-le-champ.",
+        "prefix": "\r\n<E800 236><E041 15 15><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 10>",
+          "<E025 3>",
+          "<E145 15 7>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Make arrangements for Madame Tusspells to appear as a\nwitness[[T0]][[T1]] [[T2]][[T3]]sur-le-champ.",
+        "fr_masked": "Prenez vos dispositions pour que Madame Tusspells comparaisse\ncomme témoin[[T0]][[T1]] [[T2]][[T3]]sur-le-champ."
+      },
+      {
+        "page": 31,
+        "kind": "en_multi",
+        "speaker": "蚊唾",
+        "prev_fr": "L'audience est suspendue pour quarante-cinq minutes.",
+        "next_fr": "Madame Pétrie, en effet. Je m'en charge sur-le-champ, Votre Honneur.",
+        "orig_clean": "During that time, the prosecution will summon the new witness and prepare her for taking the stand.",
+        "en_clean": "Pendant cet intervalle, the prosecution will summon the new witness et la préparera à monter à la barre.",
+        "prefix": "\r\n<E800 284><E145 15 7><E800 285><E041 15 15><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 8>",
+          "<E025 2>",
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Pendant cet intervalle,[[T0]][[T1]] [[T2]]the prosecution will summon the new\nwitness[[T3]] et la préparera à monter à la barre.",
+        "fr_masked": "Pendant cet intervalle,[[T0]][[T1]] [[T2]]l'accusation convoquera le nouveau\ntémoin[[T3]] et la préparera à monter à la barre."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c304_0000_eng",
+    "index": 2,
+    "total_pages": 52,
+    "pages": [
+      {
+        "page": 19,
+        "kind": "en_multi",
+        "speaker": "Sherlock Holmes",
+        "prev_fr": "... Et voilà qu' a waxwork of the killer who took his esteemed brother's life entre aussi en scène.",
+        "next_fr": "Un coup de maître de votre part, mon cher ami, to throw that in front of the man.",
+        "orig_clean": "I imagine even the shrewd Mr Reaper failed to foresee that kick in the teeth.",
+        "en_clean": "J'imagine que même ce rusé Faucheur failed to foresee that kick in the teeth.",
+        "prefix": "\r\n<E800 146><E145 2 64><E800 147><E041 2 1><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "J'imagine que même ce rusé Faucheur[[T0]] failed to foresee\nthat kick in the teeth.",
+        "fr_masked": "J'imagine que même ce rusé Faucheur[[T0]] n'avait pas prévu\nce coup de massue."
+      },
+      {
+        "page": 34,
+        "kind": "en_multi",
+        "speaker": "id:123",
+        "prev_fr": "... Qu'y avait-il donc de si habile, je vous prie ?",
+        "next_fr": "Pourquoi supposer pareille chose ?",
+        "orig_clean": "You requested that ten-year-old autopsy report from Gregson, didn't you?",
+        "en_clean": "Vous avez réclamé that ten-year-old autopsy report from Gregson, n'est-ce pas ?",
+        "prefix": "\r\n<E800 237><E041 123 89><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 12>",
+          "<E145 123 70>",
+          "<E003 6>",
+          "<E049>",
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Vous avez réclamé[[T0]][[T1]] [[T2]][[T3]]that ten-year-old autopsy report from\nGregson,[[T4]][[T5]] n'est-ce pas ?",
+        "fr_masked": "Vous avez réclamé[[T0]][[T1]] [[T2]][[T3]]à Gregson ce rapport d'autopsie vieux\nde dix ans,[[T4]][[T5]] n'est-ce pas ?"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c305_0000_eng",
+    "index": 2,
+    "total_pages": 26,
+    "pages": [
+      {
+        "page": 1,
+        "kind": "en_multi",
+        "speaker": "蚊唾",
+        "prev_fr": "24 octobre, 12 h 40 L'Old Bailey, salle d'audience",
+        "next_fr": "Maîtres de la défense et de l'accusation, are you ready and able to continue?",
+        "orig_clean": "In the name of Her Majesty the Queen, I hereby reconvene the proceedings of this court.",
+        "en_clean": "Au nom de Sa Majesté la Reine, I hereby reconvene the proceedings of this court.",
+        "prefix": "\r\n<E800 78><E563><E800 81><E129 7 20 0><E800 82><E074 0 4><E800 83><E086 1 21><E800 84><E131><E800 86><E213 0 0 1><E800 87><E232><E800 90><E147 15 0><E800 91><E130 5 1><E800 92><E131><E800 94><E085 0 1><E800 96><E041 15 15><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Au nom de Sa Majesté la Reine,[[T0]][[T1]] I hereby\nreconvene the proceedings of this court.",
+        "fr_masked": "Au nom de Sa Majesté la Reine,[[T0]][[T1]] je déclare\nla séance de ce tribunal reprise."
+      },
+      {
+        "page": 6,
+        "kind": "en_multi",
+        "speaker": "蚊唾",
+        "prev_fr": "Comme la cour ne l'ignore point, the case under our scrutiny began with a damaging incident at the Great Exhibition.",
+        "next_fr": "Ce procès a incontestablement défié toutes les attentes.",
+        "orig_clean": "Yet we now find ourselves embroiled in the details of a convicted felon who was sent to the gallows a decade ago.",
+        "en_clean": "Et voilà que nous nous trouvons désormais embroiled in the details of a convicted felon qui fut envoyé à la potence il y a une décennie.",
+        "prefix": "\r\n<E800 130><E041 15 15><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>",
+          "<E049>",
+          "<E003 12>",
+          "<E145 15 7>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Et voilà que nous nous trouvons désormais[[T0]] embroiled in the details of a\nconvicted felon[[T1]][[T2]] [[T3]]qui fut envoyé à la potence il y a une décennie.",
+        "fr_masked": "Et voilà que nous nous trouvons désormais[[T0]] mêlés à l'affaire\nd'un condamné[[T1]][[T2]] [[T3]]qui fut envoyé à la potence il y a une décennie."
+      },
+      {
+        "page": 15,
+        "kind": "en_multi",
+        "speaker": "Iris Watson",
+        "prev_fr": "Nullement.",
+        "next_fr": "Fort bien. Faites entrer le témoin !",
+        "orig_clean": "She is in the antechamber as we speak and ready to be summoned.",
+        "en_clean": "Elle se trouve dans l'antichambre à l'instant même and ready to be summoned.",
+        "prefix": "\r\n<E800 188><E041 6 7><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Elle se trouve dans l'antichambre à l'instant même[[T0]] and ready to be\nsummoned.",
+        "fr_masked": "Elle se trouve dans l'antichambre à l'instant même[[T0]] et est prête\nà être convoquée."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c305_0010_eng",
+    "index": 2,
+    "total_pages": 56,
+    "pages": [
+      {
+        "page": 17,
+        "kind": "en_multi",
+        "speaker": "id:119",
+        "prev_fr": "Voici la victime de l'affaire qui nous occupe. M. Odoril Asman.",
+        "next_fr": "... Je répugne à énoncer des évidences, but Mr Asman does not resemble the Professor at all.",
+        "orig_clean": "But of course, I know him well. He is a part of my odious personages exhibit.",
+        "en_clean": "Mais bien sûr, je le connais fort bien. He is a part of my odious personages exhibit.",
+        "prefix": "\r\n<E800 172><E563><E800 174><E061 1><E800 176><E147 119 67><E800 177><E147 106 67><E800 178><E130 15 0><E800 179><E131><E800 181><E041 119 85><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>",
+          "<E049>",
+          "<E003 14>",
+          "<E025 2>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Mais bien sûr,[[T0]] je le connais fort bien.[[T1]][[T2]] [[T3]]He is a part of my odious\npersonages exhibit.",
+        "fr_masked": "Mais bien sûr,[[T0]] je le connais fort bien.[[T1]][[T2]] [[T3]]Il figure dans mon\nexposition des personnages odieux."
+      },
+      {
+        "page": 18,
+        "kind": "en_multi",
+        "speaker": "id:119",
+        "prev_fr": "Mais bien sûr, je le connais fort bien. He is a part of my odious personages exhibit.",
+        "next_fr": "Oui, mais...peut-être !",
+        "orig_clean": "...I detest to say what is evident, but Mr Asman does not resemble the Professor at all.",
+        "en_clean": "... Je répugne à énoncer des évidences, but Mr Asman does not resemble the Professor at all.",
+        "prefix": "\r\n<E800 185><E129 7 0 2><E800 186><E461 0 0><E800 187><E549 7 33 0 0><E800 188><E485 120 0 0><E800 189><E131><E800 191><E041 119 85><E330><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 10>",
+          "<E025 2>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "... Je répugne à énoncer des évidences,[[T0]][[T1]] [[T2]]but Mr Asman does not\nresemble the Professor at all.",
+        "fr_masked": "... Je répugne à énoncer des évidences,[[T0]][[T1]] [[T2]]mais M. Asman ne\nressemble en rien au Démon Assassin."
+      },
+      {
+        "page": 22,
+        "kind": "en_multi",
+        "speaker": "id:119",
+        "prev_fr": "Êtes-vous en train de suggérer que nous devrions contempler the demasked visage du Démon Assassin ?",
+        "next_fr": "Voici is absurd!",
+        "orig_clean": "I have here the key, but it is strictly forbidden to open the lock.",
+        "en_clean": "J'ai la clé en ma possession, but it is strictly forbidden to open the lock.",
+        "prefix": "\r\n<E800 211><E563><E800 214><E060 0 105 0 0><E800 215><E164 119 76 1 2 7 0 0 1><E800 216><E139 119><E800 218><E041 119 85><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 8>",
+          "<E025 2>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "J'ai la clé en ma possession,[[T0]][[T1]] [[T2]]but it is strictly forbidden to open the\nlock.",
+        "fr_masked": "J'ai la clé en ma possession,[[T0]][[T1]] [[T2]]mais il est strictement interdit\nd'ouvrir cette serrure."
+      },
+      {
+        "page": 33,
+        "kind": "en_multi",
+        "speaker": "id:119",
+        "prev_fr": "......... Quel dommage.",
+        "next_fr": "Quels principes ?",
+        "orig_clean": "It would seem you are unaware of the Tusspells' principles.",
+        "en_clean": "Il semblerait que vous ignoriez of the Tusspells' principles.",
+        "prefix": "\r\n<E800 289><E563><E800 291><E145 119 72><E800 292><E003 25><E800 294><E041 119 85><E025 3><E330>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>",
+          "<E085 2 17>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Il semblerait que vous ignoriez[[T0]] of the Tusspells' principles.[[T1]]",
+        "fr_masked": "Il semblerait que vous ignoriez[[T0]] les principes des Tusspells.[[T1]]"
+      },
+      {
+        "page": 36,
+        "kind": "en_multi",
+        "speaker": "id:119",
+        "prev_fr": "The family Tusspells has always prided itself on sculpting its models à la perfection.",
+        "next_fr": "Une aïeule de la famille Pétrie is said to have made a waxwork of the queen who was executed.",
+        "orig_clean": "Every detail, including the visage, is fashioned with complete fidelity. ...Et voilà: our principles.",
+        "en_clean": "Le moindre détail, y compris le visage, is fashioned with complete fidelity. ... Et voilà : nos principes.",
+        "prefix": "\r\n<E800 311><E145 119 78><E800 312><E041 119 85><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 4>",
+          "<E049>",
+          "<E003 6>",
+          "<E049>",
+          "<E003 14>",
+          "<E025 2>",
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Le moindre détail,[[T0]] y compris le visage,[[T1]][[T2]] is fashioned with\ncomplete fidelity.[[T3]][[T4]] [[T5]]... Et voilà :[[T6]] nos principes.",
+        "fr_masked": "Le moindre détail,[[T0]] y compris le visage,[[T1]][[T2]] est façonné avec une\nfidélité absolue.[[T3]][[T4]] [[T5]]... Et voilà :[[T6]] nos principes."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c305_0020_eng",
+    "index": 2,
+    "total_pages": 7,
+    "pages": [
+      {
+        "page": 1,
+        "kind": "en_multi",
+        "speaker": "id:119",
+        "prev_fr": "– La statue du Démon Assassin –",
+        "next_fr": "An impression of the visage was taken directly from the corpse...selon les nobles principes de la famille Pétrie.",
+        "orig_clean": "The special exhibit in the House of Horrors is based on a rumour that shocked society in London.",
+        "en_clean": "L'exposition spéciale de la Galerie des Horreurs is based on a rumour that shocked society in London.",
+        "prefix": "\r\n<E800 52><E563><E800 55><E194 1><E800 56><E085 0 5><E800 58><E041 119 85><E025 2>",
+        "suffix": "",
+        "tags": [
+          "<E003 4>",
+          "<E048>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "L'exposition spéciale de la Galerie des Horreurs[[T0]] is based on a\nrumour that shocked society in London.[[T1]]",
+        "fr_masked": "L'exposition spéciale de la Galerie des Horreurs[[T0]] s'inspire d'une\nrumeur qui a bouleversé la société de London.[[T1]]"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c305_0020_eng",
+    "index": 3,
+    "total_pages": 28,
+    "pages": [
+      {
+        "page": 26,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "(Mais je la trouverai. Je ferai toute la lumière sur ce qui s'est passé.)",
+        "next_fr": "",
+        "orig_clean": "(I'll prove that Dr Sithe and Drebber were in on this crime together!)",
+        "en_clean": "(Je prouverai que la Dre Pétrie et Drebber were in on this crime together!)",
+        "prefix": "\r\n<E800 290><E041 1 0><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E007>",
+          "<E003 12>",
+          "<E145 1 7>",
+          "<E118 1 1.3>",
+          "<E003 6>",
+          "<E025 1>",
+          "<E346>",
+          "<E092 2>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "[[T0]](Je prouverai que la Dre Pétrie et Drebber[[T1]] [[T2]][[T3]][[T4]][[T5]][[T6]][[T7]]were in on this\ncrime together!)",
+        "fr_masked": "[[T0]](Je prouverai que la Dre Pétrie et Drebber[[T1]] [[T2]][[T3]][[T4]][[T5]][[T6]][[T7]]ont manigancé ce\ncrime ensemble !)"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c305_0030_eng",
+    "index": 13,
+    "total_pages": 33,
+    "pages": [
+      {
+        "page": 13,
+        "kind": "en_multi",
+        "speaker": "id:119",
+        "prev_fr": "Je veux dire, this is exactly the scene that can be seen today at your museum, n'est-ce pas ?",
+        "next_fr": "Madame, puis-je dire un mot ?",
+        "orig_clean": "For a while afterwards, the contents of that article were reproduced in every newspaper imaginable.",
+        "en_clean": "Pendant un certain temps par la suite, the contents of that article were reproduced dans tous les journaux imaginables.",
+        "prefix": "\r\n<E800 408><E145 119 66><E800 409><E041 119 85><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 8>",
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Pendant un certain temps par la suite,[[T0]][[T1]] the contents of that article were\nreproduced[[T2]] dans tous les journaux imaginables.",
+        "fr_masked": "Pendant un certain temps par la suite,[[T0]][[T1]] le contenu de cet article\nfut reproduit[[T2]] dans tous les journaux imaginables."
+      },
+      {
+        "page": 16,
+        "kind": "en_contr",
+        "speaker": "Drake Van Peers",
+        "prev_fr": "Je vous en prie, allez-y, mademoiselle.",
+        "next_fr": "J'ai la conviction que souvent...rumours contain elements of the truth.",
+        "orig_clean": "When something is described as a rumour, it doesn't necessarily mean that it's entirely made up.",
+        "en_clean": "Quand un fait est qualifié de simple rumeur, it doesn't necessarily mean qu'il est pure invention.",
+        "prefix": "\r\n<E800 427><E563><E800 430><E147 9 82><E800 431><E130 2 1><E800 432><E131><E800 434><E041 9 2><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>",
+          "<E025 3>",
+          "<E049>",
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Quand un fait est qualifié de simple rumeur,[[T0]] [[T1]]it doesn't\nnecessarily mean[[T2]][[T3]] qu'il est pure invention.",
+        "fr_masked": "Quand un fait est qualifié de simple rumeur,[[T0]] [[T1]]cela ne veut pas\nnécessairement dire[[T2]][[T3]] qu'il est pure invention."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c305_0030_eng",
+    "index": 14,
+    "total_pages": 14,
+    "pages": [
+      {
+        "page": 9,
+        "kind": "en_multi",
+        "speaker": "id:119",
+        "prev_fr": "(Parce que rien ne caractérise mieux un bandit endurci que de la... cire.)",
+        "next_fr": "Je fais référence à la vedette de l'exposition spéciale, bien sûr. Le Démon Assassin.",
+        "orig_clean": "And it is thanks to one killer in particular, that my museum has gained such popularity in London.",
+        "en_clean": "Et c'est grâce à un assassin en particulier that my museum has gained such popularity in London.",
+        "prefix": "\r\n<E800 606><E563><E800 609><E147 119 64><E800 610><E130 15 1><E800 611><E131><E800 613><E041 119 85><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Et c'est grâce à un assassin en particulier[[T0]] that my\nmuseum has gained such popularity in London.",
+        "fr_masked": "Et c'est grâce à un assassin en particulier[[T0]] que mon\nmusée a acquis une telle popularité à London."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c305_0030_eng",
+    "index": 15,
+    "total_pages": 17,
+    "pages": [
+      {
+        "page": 4,
+        "kind": "bad_corr",
+        "speaker": "id:119",
+        "prev_fr": "Cela n'avait rien à voir avec l'argent.",
+        "next_fr": "C'est la raeston d'être du musée Pétrie.",
+        "orig_clean": "The man is part of London's criminal history. That is why I had to sculpt him. To record this history.",
+        "en_clean": "Cet homme appartient à l'hesttoire criminelle de Londres. Voilà pourquoi je me devaest de le sculpter. Pour consigner cette hesttoire.",
+        "prefix": "\r\n<E800 682><E041 119 85><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 10>",
+          "<E049>",
+          "<E003 8>",
+          "<E025 3>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Cet homme appartient à l'hesttoire criminelle de Londres.[[T0]][[T1]]\nVoilà pourquoi je me devaest de le sculpter.[[T2]][[T3]] [[T4]]Pour consigner cette hesttoire.",
+        "fr_masked": "Cet homme appartient à l'histoire criminelle de London.[[T0]][[T1]]\nJe devais donc le sculpter.[[T2]][[T3]] [[T4]]Pour consigner cette histoire."
+      },
+      {
+        "page": 6,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "C'est la raeston d'être du musée Pétrie.",
+        "next_fr": "...then surely nobody but the members of the judiciary present ne connaît la véritable identité du meurtrier.",
+        "orig_clean": "But if the man was convicted in a closed court and sent for immediate execution...",
+        "en_clean": "Maest si l'homme a été jugé à huest clos and sent for immediate execution...",
+        "prefix": "\r\n<E800 690><E563><E800 693><E147 1 1><E800 694><E130 1 1><E800 695><E131><E800 697><E041 1 0><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Maest si l'homme a été jugé à huest clos[[T0]] and sent\nfor immediate execution...",
+        "fr_masked": "Mais si l'homme a été jugé à huis clos[[T0]] et envoyé\nsur-le-champ à l'échafaud..."
+      },
+      {
+        "page": 13,
+        "kind": "bad_corr",
+        "speaker": "id:119",
+        "prev_fr": "Sans l'ombre d'un doute. As will your entire museum, if you don't tread very carefully, madame.",
+        "next_fr": "Donc il y a dix ans, la nuit de l'exécution du Démon Assassin, you took a wax impression of hest face from the corpse?",
+        "orig_clean": "That could be another interesting chapter in the history of my family, I think, don't you?",
+        "en_clean": "Ce pourrait être another interesting chapter in the hesttory of my family, I think, ne trouvez-vous pas ?",
+        "prefix": "\r\n<E800 746><E563><E800 749><E147 119 77><E800 750><E130 15 1><E800 751><E131><E800 753><E041 119 85><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 6>",
+          "<E145 119 71>",
+          "<E118 119 1.2>",
+          "<E003 12>",
+          "<E333>",
+          "<E025 2>",
+          "<E049>",
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Ce pourrait être[[T0]][[T1]] [[T2]][[T3]][[T4]][[T5]][[T6]]another interesting chapter in the hesttory\nof my family, I think,[[T7]][[T8]] ne trouvez-vous pas ? ",
+        "fr_masked": "Ce pourrait être[[T0]][[T1]] [[T2]][[T3]][[T4]][[T5]][[T6]]un autre chapitre intéressant de l'histoire\nde ma famille, je trouve,[[T7]][[T8]] ne trouvez-vous pas ?"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c305_0030_eng",
+    "index": 16,
+    "total_pages": 27,
+    "pages": [
+      {
+        "page": 2,
+        "kind": "bad_corr",
+        "speaker": "id:119",
+        "prev_fr": "Vous y êtes restée plus longtemps que prévu ?",
+        "next_fr": "Oserais-je demander... ?",
+        "orig_clean": "As I removed the mask, the mouth of the cadaver fell open and I had some problems with the chin.",
+        "en_clean": "Quand j'ai retiré le masque, the mouth of the cadaver fell open and j'ai eu quelques ennuis avec son menpourn.",
+        "prefix": "\r\n<E800 798><E041 119 85><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 12>",
+          "<E145 119 71>",
+          "<E118 119 1.3>",
+          "<E003 6>",
+          "<E330>",
+          "<E092 5>",
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Quand j'ai retiré le masque,[[T0]][[T1]] [[T2]][[T3]][[T4]][[T5]][[T6]]the mouth of the cadaver fell\nopen and[[T7]] j'ai eu quelques ennuis avec son menpourn.",
+        "fr_masked": "Quand j'ai retiré le masque,[[T0]][[T1]] [[T2]][[T3]][[T4]][[T5]][[T6]]la bouche du cadavre s'est\nouverte et[[T7]] j'ai eu quelques ennuis avec son menton."
+      },
+      {
+        "page": 5,
+        "kind": "en_multi",
+        "speaker": "id:119",
+        "prev_fr": "Oserais-je demander... ?",
+        "next_fr": "Oh dear...what a horrible thought...",
+        "orig_clean": "His muscles were relaxing and consequently his chin would not align itself correctly.",
+        "en_clean": "Ses muscles étaient en phase de relâchement, et par conséquent, his chin would not align itself correctly.",
+        "prefix": "\r\n<E800 815><E145 119 66><E800 816><E041 119 85><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>",
+          "<E049>",
+          "<E003 10>",
+          "<E238>",
+          "<E085 2 17>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Ses muscles étaient en phase de relâchement,[[T0]] et par conséquent,[[T1]][[T2]] [[T3]]his chin\nwould not align itself correctly.[[T4]]",
+        "fr_masked": "Ses muscles étaient en phase de relâchement,[[T0]] et par conséquent,[[T1]][[T2]]\n[[T3]]son menton ne s'alignait pas correctement.[[T4]]"
+      },
+      {
+        "page": 8,
+        "kind": "en_multi",
+        "speaker": "id:119",
+        "prev_fr": "Oh dear...what a horrible thought...",
+        "next_fr": "Que voulez-vous dire ?",
+        "orig_clean": "However, that night, I was alone. And as a consequence, I missed my preferred window of time.",
+        "en_clean": "Cependant, cette nuit-là, j'étais seule. Et de ce fait, I missed my preferred window of time.",
+        "prefix": "\r\n<E800 833><E145 119 66><E800 834><E041 119 85><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>",
+          "<E003 6>",
+          "<E049>",
+          "<E003 14>",
+          "<E049>",
+          "<E003 8>",
+          "<E025 2>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Cependant,[[T0]] cette nuit-là,[[T1]] j'étais seule.[[T2]][[T3]] Et de ce fait,[[T4]][[T5]] [[T6]]I\nmissed my preferred window of time.",
+        "fr_masked": "Cependant,[[T0]] cette nuit-là,[[T1]] j'étais seule.[[T2]][[T3]] Et de ce fait,[[T4]][[T5]] [[T6]]j'ai\nmanqué mon créneau horaire idéal."
+      },
+      {
+        "page": 16,
+        "kind": "bad_corr",
+        "speaker": "Drake Van Peers",
+        "prev_fr": "A...wriggly mortice?",
+        "next_fr": "Au bout d'une dizaine d'heures environ, the entire body is completely rigid and inflexible.",
+        "orig_clean": "As a rule, three hours post death, the muscles in the body begin to stiffen.",
+        "en_clean": "En règle générale, trois heures après la mort, the muscles in the body begin pour stiffen.",
+        "prefix": "\r\n<E800 896><E041 9 2><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 8>",
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "En règle générale,[[T0]][[T1]] trois heures après la mort,[[T2]] the muscles in the body\nbegin pour stiffen.",
+        "fr_masked": "En règle générale,[[T0]][[T1]] trois heures après la mort,[[T2]] les muscles du corps\ncommencent à se raidir."
+      },
+      {
+        "page": 17,
+        "kind": "en_multi",
+        "speaker": "Drake Van Peers",
+        "prev_fr": "En règle générale, trois heures après la mort, the muscles in the body begin pour stiffen.",
+        "next_fr": "Puis, passé ce délai, the muscles slowly start pour revert pour their relaxed state.",
+        "orig_clean": "By approximately ten hours post death, the entire body is completely rigid and inflexible.",
+        "en_clean": "Au bout d'une dizaine d'heures environ, the entire body is completely rigid and inflexible.",
+        "prefix": "\r\n<E800 897><E041 9 2><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 8>",
+          "<E333>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Au bout d'une dizaine d'heures environ,[[T0]][[T1]] [[T2]]the entire body is\ncompletely rigid and inflexible.",
+        "fr_masked": "Au bout d'une dizaine d'heures environ,[[T0]][[T1]] [[T2]]le corps tout entier est\ncomplètement rigide et inflexible."
+      },
+      {
+        "page": 18,
+        "kind": "bad_corr",
+        "speaker": "Drake Van Peers",
+        "prev_fr": "Au bout d'une dizaine d'heures environ, the entire body is completely rigid and inflexible.",
+        "next_fr": "Ce phénomène est couramment utilisé pour estimer l'heure du décès lorsqu'un corps est découvert !",
+        "orig_clean": "And then from that point on, the muscles slowly start to revert to their relaxed state.",
+        "en_clean": "Puis, passé ce délai, the muscles slowly start pour revert pour their relaxed state.",
+        "prefix": "\r\n<E800 898><E041 9 2><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Puis, passé ce délai,[[T0]] the muscles slowly start pour\nrevert pour their relaxed state.",
+        "fr_masked": "Puis, passé ce délai,[[T0]] les muscles commencent lentement\nà retrouver leur état de relâchement."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c305_0030_eng",
+    "index": 20,
+    "total_pages": 11,
+    "pages": [
+      {
+        "page": 2,
+        "kind": "en_multi",
+        "speaker": "id:119",
+        "prev_fr": "Il me semble que vous disiez qu'elle commence par la mâchoire, about three hours post death. Est-ce bien exact ?",
+        "next_fr": "(Eh bien, je n'en avais pas la moindre idée. But maybe I won't admit to my ignorance about forensic science.)",
+        "orig_clean": "Oui, c'est ça. Of course the exact duration depends a little on the season.",
+        "en_clean": "Oui, c'est bien cela. Naturellement, the exact duration depends a little on the season.",
+        "prefix": "\r\n<E800 1087><E563><E800 1090><E147 119 64><E800 1091><E147 106 64><E800 1092><E130 15 0><E800 1093><E131><E800 1094><E149 1 0 0><E800 1096><E145 119 65><E800 1097><E003 15><E800 1100><E041 119 85><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 4>",
+          "<E049>",
+          "<E003 12>",
+          "<E025 2>",
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Oui,[[T0]] c'est bien cela.[[T1]][[T2]] [[T3]]Naturellement,[[T4]] the exact duration depends a little\non the season.",
+        "fr_masked": "Oui,[[T0]] c'est bien cela.[[T1]][[T2]] [[T3]]Naturellement,[[T4]] la durée exacte dépend un peu\nde la saison."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c305_0030_eng",
+    "index": 21,
+    "total_pages": 13,
+    "pages": [
+      {
+        "page": 7,
+        "kind": "en_multi",
+        "speaker": "id:119",
+        "prev_fr": "(C'est incroyablement tôt.)",
+        "next_fr": "Il fallait à tout prix achever l'empreinte and bury the body before daybreak, of course.",
+        "orig_clean": "The fact is, I had very little time. So I finished my work in a half hour.",
+        "en_clean": "Le fait est que j'avais très peu de temps devant moi. So I finished my work in a half hour.",
+        "prefix": "\r\n<E800 1217><E563><E800 1220><E147 119 67><E800 1221><E147 106 67><E800 1222><E130 15 0><E800 1223><E131><E800 1225><E041 119 85><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 4>",
+          "<E049>",
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Le fait est que[[T0]] j'avais très peu de temps devant moi.[[T1]][[T2]] So I finished my work in\na half hour.",
+        "fr_masked": "Le fait est que[[T0]] j'avais très peu de temps devant moi.[[T1]][[T2]] J'ai donc achevé\nmon travail en une demi-heure."
+      },
+      {
+        "page": 8,
+        "kind": "en_multi",
+        "speaker": "id:119",
+        "prev_fr": "Le fait est que j'avais très peu de temps devant moi. So I finished my work in a half hour.",
+        "next_fr": "Si quiconque m'avait surprise en ces lieux, it would have been a catastrophe. Je devais donc faire vite.",
+        "orig_clean": "It was necessary to complete the impression and bury the body before daybreak, of course.",
+        "en_clean": "Il fallait à tout prix achever l'empreinte and bury the body before daybreak, of course.",
+        "prefix": "\r\n<E800 1226><E145 119 68><E800 1227><E145 106 68><E800 1228><E041 119 85><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Il fallait à tout prix achever l'empreinte[[T0]] and bury the\nbody before daybreak, of course.",
+        "fr_masked": "Il fallait à tout prix achever l'empreinte[[T0]] et enterrer le\ncorps avant le lever du jour, bien sûr."
+      },
+      {
+        "page": 10,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "Si quiconque m'avait surprise en ces lieux, it would have been a catastrophe. Je devais donc faire vite.",
+        "next_fr": "",
+        "orig_clean": "(Is it me, or does Mr Sholmes seem to be taking shape more quickly now, too?)",
+        "en_clean": "(Est-ce mon imagination, or does Mr Sholmes seem to be taking shape more quickly now, too?)",
+        "prefix": "\r\n<E800 1232><E563><E800 1235><E147 1 4><E800 1236><E130 1 0><E800 1237><E131><E800 1239><E041 1 0><E330><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E007>",
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "[[T0]](Est-ce mon imagination,[[T1]] or does Mr Sholmes seem to be taking shape\nmore quickly now, too?)",
+        "fr_masked": "[[T0]](Est-ce mon imagination,[[T1]] ou M. Sholmes semble-t-il prendre\nforme plus vite maintenant, lui aussi ?)"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c305_0030_eng",
+    "index": 24,
+    "total_pages": 4,
+    "pages": [
+      {
+        "page": 2,
+        "kind": "en_multi",
+        "speaker": "id:119",
+        "prev_fr": "Merci, madame. C'est très clair à présent.",
+        "next_fr": "",
+        "orig_clean": "How frustrating. I was not concentrating on Mr Sholmes here and I have taken away too much wax.",
+        "en_clean": "Que c'est contrariant. I was not concentrating on Mr Sholmes here et j'ai ôté trop de cire.",
+        "prefix": "\r\n<E800 1347><E563><E800 1350><E147 119 69><E800 1351><E147 119 69><E800 1352><E130 15 0><E800 1353><E131><E800 1356><E041 119 85><E025 3><E238>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 10>",
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Que c'est contrariant.[[T0]][[T1]] I was not concentrating on Mr Sholmes\nhere[[T2]] et j'ai ôté trop de cire.",
+        "fr_masked": "Que c'est contrariant.[[T0]][[T1]] Je n'étais pas concentrée sur M. Sholmes\nici présent[[T2]] et j'ai ôté trop de cire."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c305_0030_eng",
+    "index": 25,
+    "total_pages": 10,
+    "pages": [
+      {
+        "page": 1,
+        "kind": "en_multi",
+        "speaker": "id:119",
+        "prev_fr": "",
+        "next_fr": "Mais aux premières lueurs de l'aube, I knew that the warden from the prison entamerait sa ronde habituelle dans le secteur.",
+        "orig_clean": "I had paid the gravedigger money to keep my little secret, of course.",
+        "en_clean": "J'avais rétribué le fossoyeur to keep my little secret, of course.",
+        "prefix": "\r\n<E800 1374><E563><E800 1377><E147 119 64><E800 1378><E147 106 64><E800 1379><E130 15 0><E800 1380><E131><E800 1382><E041 119 85><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 4>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "J'avais rétribué le fossoyeur[[T0]] to keep my little secret,\nof course.",
+        "fr_masked": "J'avais rétribué le fossoyeur[[T0]] pour qu'il garde mon petit\nsecret, bien entendu."
+      },
+      {
+        "page": 5,
+        "kind": "en_multi",
+        "speaker": "id:119",
+        "prev_fr": "J'avais déjà payé le fossoyeur, comme je vous l'ai dit.",
+        "next_fr": "Le soleil s'est levé à 4 h 40 ce jour-là.",
+        "orig_clean": "You cannot buy the silence of everyone, or the secret is no longer a secret, uh?",
+        "en_clean": "On ne peut acheter le silence de tout le monde, ou le secret is no longer a secret, hein ?",
+        "prefix": "\r\n<E800 1406><E563><E800 1408><E145 119 66><E800 1409><E003 10><E800 1411><E041 119 85><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 10>",
+          "<E003 6>",
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "On ne peut acheter le silence de tout le monde,[[T0]][[T1]] ou le secret[[T2]] is\nno longer a secret,[[T3]] hein ?",
+        "fr_masked": "On ne peut acheter le silence de tout le monde,[[T0]][[T1]] sinon le secret[[T2]]\nn'est plus un secret,[[T3]] hein ?"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c305_0030_eng",
+    "index": 26,
+    "total_pages": 14,
+    "pages": [
+      {
+        "page": 2,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "Quel est votre sentiment, M. Naruhodo ?",
+        "next_fr": "À présent, si cela est vrai...",
+        "orig_clean": "For some reason, Dr Sithe went along with Drebber's plan.",
+        "en_clean": "Pour une raison inconnue, Dr Sithe went along with Drebber's plan.",
+        "prefix": "\r\n<E800 1474><E041 1 0><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Pour une raison inconnue,[[T0]] Dr Sithe went along with Drebber's\nplan.",
+        "fr_masked": "Pour une raison inconnue,[[T0]] le Dr Sithe a suivi le plan\nde Drebber."
+      },
+      {
+        "page": 12,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "Oui, à moi également...",
+        "next_fr": "",
+        "orig_clean": "(After all, he has a profound connection to the Professor as well...)",
+        "en_clean": "(Après tout, he has a profound connection to the Professor as well...)",
+        "prefix": "\r\n<E800 1491><E563><E800 1494><E147 1 7><E800 1495><E130 1 1><E800 1496><E131><E800 1498><E041 1 0><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E007>",
+          "<E003 8>",
+          "<E025 2>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "[[T0]](Après tout,[[T1]] [[T2]]he has a profound connection to the Professor as\nwell...)",
+        "fr_masked": "[[T0]](Après tout,[[T1]] [[T2]]il a lui aussi un lien profond avec le\nDémon Assassin...)"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c305_0040_eng",
+    "index": 2,
+    "total_pages": 45,
+    "pages": [
+      {
+        "page": 17,
+        "kind": "orig_short",
+        "speaker": "Iris Watson",
+        "prev_fr": "‘Death by hanging confirmed at midnight, 17th June.’",
+        "next_fr": "In other words, this report...est faux !",
+        "orig_clean": "No...!",
+        "en_clean": "No...!",
+        "prefix": "\r\n<E800 152><E563><E800 154><E061 1><E800 156><E147 6 7><E800 157><E130 4 0><E800 158><E131><E800 160><E145 6 11><E800 161><E117 6 8><E800 163><E041 6 7><E025 2><E331>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E342>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "No...[[T0]]!",
+        "fr_masked": "Non...[[T0]] !"
+      },
+      {
+        "page": 36,
+        "kind": "en_multi",
+        "speaker": "id:119",
+        "prev_fr": "Quel fait ?",
+        "next_fr": "Mais que se passerait-il s'il n'était pas mort sur l'échafaud ?",
+        "orig_clean": "I moved the man's limp jaw with my own hands! There was no–",
+        "en_clean": "I moved the man's limp jaw with my own hands! Il n'y a aucun–",
+        "prefix": "\r\n<E800 318><E145 119 67><E800 319><E118 119 2.0><E800 320><E145 106 67><E800 321><E118 119 2.0><E800 323><E041 119 85><E025 2>",
+        "suffix": "<E024>",
+        "tags": [
+          "<E003 4>",
+          "<E049>",
+          "<E003 10>",
+          "<E025 3>",
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "I moved the man's limp jaw[[T0]] with my own hands![[T1]][[T2]]\n[[T3]]Il n'y a aucun–[[T4]]",
+        "fr_masked": "J'ai déplacé la mâchoire inerte de cet homme[[T0]] de mes propres mains ![[T1]][[T2]]\n[[T3]]Il n'y avait aucun–[[T4]]"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c305_0060_eng",
+    "index": 4,
+    "total_pages": 8,
+    "pages": [
+      {
+        "page": 6,
+        "kind": "en_contr",
+        "speaker": "日火吏",
+        "prev_fr": "Et vous devriez peut-être aussi garder les yeux ouverts lorsque vous vous écroulez sur le banc. Par simple sécurité.",
+        "next_fr": "",
+        "orig_clean": "...I'll bear it in mind.",
+        "en_clean": "...J'y penserai....I'll bear it in mind.",
+        "prefix": "\r\n<E800 135><E041 1 0><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E341>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "...J'y penserai.[[T0]]...I'll bear it in mind.",
+        "fr_masked": "...[[T0]] J'y penserai."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c306_0020_eng",
+    "index": 24,
+    "total_pages": 33,
+    "pages": [
+      {
+        "page": 14,
+        "kind": "orig_short",
+        "speaker": "Toby",
+        "prev_fr": "...!",
+        "next_fr": "Par conséquent, à moins d'avoir réellement vu le Démon Assassin cette nuit-là...",
+        "orig_clean": "Agh!",
+        "en_clean": "Agh!",
+        "prefix": "\r\n<E800 1485><E563><E800 1488><E147 69 64><E800 1489><E130 17 0><E800 1490><E131><E800 1492><E145 69 71><E800 1493><E118 69 1.5><E800 1495><E041 69 69><E025 2><E331>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E006>",
+          "<E005>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "[[T0]]Agh[[T1]]!",
+        "fr_masked": "[[T0]]Argh[[T1]] !"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c306_0020_eng",
+    "index": 28,
+    "total_pages": 39,
+    "pages": [
+      {
+        "page": 12,
+        "kind": "orig_short",
+        "speaker": "Toby",
+        "prev_fr": "Including the gunshot...",
+        "next_fr": "Grrr...",
+        "orig_clean": "Stop!",
+        "en_clean": "Stop!",
+        "prefix": "\r\n<E800 1746><E563><E800 1750><E147 69 70><E800 1751><E130 17 0><E800 1752><E131><E800 1754><E147 6 0><E800 1756><E041 69 69><E025 1><E346><E092 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E006>",
+          "<E005>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "[[T0]]Stop[[T1]]!",
+        "fr_masked": "[[T0]]Arrêtez[[T1]] !"
+      },
+      {
+        "page": 17,
+        "kind": "orig_short",
+        "speaker": "id:119",
+        "prev_fr": "Please, Madame Tusspells, carry on.",
+        "next_fr": "Mr Drebber...",
+        "orig_clean": "Of course.",
+        "en_clean": "Of course.",
+        "prefix": "\r\n<E800 1791><E563><E800 1794><E147 119 64><E800 1795><E130 13 0><E800 1796><E131><E800 1798><E145 119 71><E800 1799><E003 10><E800 1801><E041 119 85><E025 3>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "Of course.",
+        "fr_masked": "Bien entendu."
+      },
+      {
+        "page": 27,
+        "kind": "orig_short",
+        "speaker": "Toby",
+        "prev_fr": "Mr Drebber...",
+        "next_fr": "Vous contestez la relation que vient d'en faire Madame Pétrie ?",
+        "orig_clean": "Hm? Yes?",
+        "en_clean": "Hm? Yes?",
+        "prefix": "\r\n<E800 1870><E563><E800 1873><E147 69 75><E800 1874><E130 17 1><E800 1875><E131><E800 1877><E041 69 69><E025 3><E341>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 12>",
+          "<E025 2>",
+          "<E006>",
+          "<E005>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Hm?[[T0]][[T1]] [[T2]][[T3]]Yes[[T4]]?",
+        "fr_masked": "Hm ?[[T0]][[T1]] [[T2]][[T3]]Oui[[T4]] ?"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c306_0040_eng",
+    "index": 4,
+    "total_pages": 10,
+    "pages": [
+      {
+        "page": 0,
+        "kind": "orig_short",
+        "speaker": "蚊唾",
+        "prev_fr": "",
+        "next_fr": "Uwaaaaaagh!",
+        "orig_clean": "Good gracious.",
+        "en_clean": "Good gracious.",
+        "prefix": "<RDFG 35838><E800 75><E191><E800 76><E192><E800 79><E281><E800 80><E282><E800 82><E041 15 15><E025 3><E341>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "",
+        "en_masked": "Good gracious.",
+        "fr_masked": "Bonté divine."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c306_0040_eng",
+    "index": 6,
+    "total_pages": 42,
+    "pages": [
+      {
+        "page": 32,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": ".........",
+        "next_fr": "...!",
+        "orig_clean": "Which means...",
+        "en_clean": "Which means...",
+        "prefix": "\r\n<E800 629><E041 1 0><E025 3>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "Which means...",
+        "fr_masked": "Ce qui signifie..."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c306_0060_eng",
+    "index": 5,
+    "total_pages": 24,
+    "pages": [
+      {
+        "page": 6,
+        "kind": "orig_short",
+        "speaker": "Toby",
+        "prev_fr": "Comment ?!",
+        "next_fr": ".........",
+        "orig_clean": "Agh...............",
+        "en_clean": "Agh...............",
+        "prefix": "\r\n<E800 237><E563><E800 240><E147 69 71><E800 241><E130 17 1><E800 242><E131><E800 244><E041 69 69><E606><E025 4>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E145 69 73>",
+          "<E003 2>",
+          "<E003 4>",
+          "<E003 6>",
+          "<E003 8>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Agh[[T0]]...[[T1]]...[[T2]]...[[T3]]...[[T4]]...",
+        "fr_masked": "Argh[[T0]]...[[T1]]...[[T2]]...[[T3]]...[[T4]]..."
+      },
+      {
+        "page": 14,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "...on aperçoit distinctement la signature de M. Asman au bas de la page.",
+        "next_fr": "Guh...",
+        "orig_clean": "In short...",
+        "en_clean": "In short...",
+        "prefix": "\r\n<E800 305><E563><E800 308><E147 1 0><E800 309><E130 1 1><E800 310><E131><E800 312><E145 1 7><E800 313><E144 1><E800 315><E041 1 0><E025 3>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "In short...",
+        "fr_masked": "En bref..."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c306_0060_eng",
+    "index": 6,
+    "total_pages": 44,
+    "pages": [
+      {
+        "page": 10,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": ".........",
+        "next_fr": ".........",
+        "orig_clean": "However...",
+        "en_clean": "However...",
+        "prefix": "\r\n<E800 466><E041 1 0><E025 3>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "However...",
+        "fr_masked": "Cependant..."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c306_0070_eng",
+    "index": 5,
+    "total_pages": 39,
+    "pages": [
+      {
+        "page": 33,
+        "kind": "orig_short",
+        "speaker": "蚊唾",
+        "prev_fr": "Non...",
+        "next_fr": "Dr Sithe!",
+        "orig_clean": "GOOD LOOOOOOOOORD!",
+        "en_clean": "GOOD LOOOOOOOOORD!",
+        "prefix": "\r\n<E800 517><E147 15 0><E800 518><E130 5 1><E800 519><E131><E800 521><E145 15 3><E800 523><E041 15 15><E025 2><E606>",
+        "suffix": "<E024>",
+        "tags": [
+          "<E345>",
+          "<E003 15>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "GOOD LOOOOOO[[T0]]OOORD![[T1]]",
+        "fr_masked": "GRAND DIIIIII[[T0]]IIIEU ![[T1]]"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c306_0080_eng",
+    "index": 2,
+    "total_pages": 42,
+    "pages": [
+      {
+        "page": 17,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": ".........",
+        "next_fr": "Ordaaar! Ordaaar! Ordaaaaaar!!!",
+        "orig_clean": "Nnn...NOOOOOOOOO!",
+        "en_clean": "Nnn...NOOOOOOOOO!",
+        "prefix": "\r\n<E800 138><E563><E800 141><E147 1 2><E800 142><E130 1 0><E800 143><E131><E800 145><E041 1 0><E025 3><E341>",
+        "suffix": "<E024>",
+        "tags": [
+          "<E025 7>",
+          "<E003 18>",
+          "<E145 1 3>",
+          "<E356>",
+          "<E025 2>",
+          "<E345>",
+          "<E003 25>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Nnn[[T0]]...[[T1]][[T2]][[T3]][[T4]]NOOOOOOOOO[[T5]]![[T6]]",
+        "fr_masked": "Nnn[[T0]]... [[T1]][[T2]][[T3]][[T4]]NOOOOOOOON[[T5]] ![[T6]]"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c307_0010_eng",
+    "index": 3,
+    "total_pages": 19,
+    "pages": [
+      {
+        "page": 17,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "(Regardez seulement l'expression sur le visage du Dr Pétrie.)",
+        "next_fr": "",
+        "orig_clean": "Yes, My Lord!",
+        "en_clean": "Yes, My Lord!",
+        "prefix": "\r\n<E800 249><E563><E800 252><E147 1 85><E800 253><E130 1 1><E800 254><E131><E800 256><E145 1 73><E800 257><E139 1><E800 259><E041 1 0><E346><E025 1>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 10>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Yes,[[T0]] My Lord!",
+        "fr_masked": "Oui,[[T0]] Votre Honneur !"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c307_0020_eng",
+    "index": 13,
+    "total_pages": 28,
+    "pages": [
+      {
+        "page": 6,
+        "kind": "orig_short",
+        "speaker": "蚊唾",
+        "prev_fr": "I fetched Harebrayne's ridiculous screwdriver from the stage...",
+        "next_fr": ".........",
+        "orig_clean": "Alone, Doctor?",
+        "en_clean": "Alone, Doctor?",
+        "prefix": "\r\n<E800 459><E563><E800 462><E147 15 5><E800 463><E130 5 1><E800 464><E131><E800 466><E041 15 15><E025 3><E330>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 6>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Alone,[[T0]] Doctor?",
+        "fr_masked": "Seule,[[T0]] Docteur ?"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c307_0020_eng",
+    "index": 26,
+    "total_pages": 14,
+    "pages": [
+      {
+        "page": 6,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "It was a matter of priorities.",
+        "next_fr": "Argh...",
+        "orig_clean": "What?",
+        "en_clean": "What?",
+        "prefix": "\r\n<E800 1530><E563><E800 1533><E147 1 17><E800 1534><E130 1 1><E800 1535><E131><E800 1537><E041 1 0><E025 2><E338><E342>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "What?",
+        "fr_masked": "Quoi ?"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c307_0020_eng",
+    "index": 35,
+    "total_pages": 10,
+    "pages": [
+      {
+        "page": 7,
+        "kind": "orig_short",
+        "speaker": "日火吏",
+        "prev_fr": "Do you, Mr Naruhodo?",
+        "next_fr": "",
+        "orig_clean": "Yes, exactly.",
+        "en_clean": "Yes, exactly.",
+        "prefix": "\r\n<E800 1811><E563><E800 1814><E147 9 4><E800 1815><E130 3 1><E800 1816><E131><E800 1818><E041 1 0><E025 3>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 8>",
+          "<E025 2>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Yes,[[T0]] [[T1]]exactly.",
+        "fr_masked": "Oui,[[T0]] [[T1]]exactement."
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c307_0040_eng",
+    "index": 5,
+    "total_pages": 33,
+    "pages": [
+      {
+        "page": 15,
+        "kind": "en_multi",
+        "speaker": "日火吏",
+        "prev_fr": "......... Ah!",
+        "next_fr": "In short, Dr Sithe...",
+        "orig_clean": "...it must be the case that when you stabbed Mr Asman... he was standing up.",
+        "en_clean": "...il est mathématiquement certain que lorsque vous avez poignardé M. Asman... he was standing up.",
+        "prefix": "\r\n<E800 301><E041 1 0><E025 2>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E049>",
+          "<E003 14>",
+          "<E025 3>",
+          "<E330>",
+          "<E006>",
+          "<E005>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "...il est mathématiquement certain que lorsque vous avez poignardé M. Asman...[[T0]][[T1]]\n[[T2]][[T3]]he was [[T4]]standing[[T5]] up.",
+        "fr_masked": "... il est mathématiquement certain que lorsque vous\navez poignardé M. Asman...[[T0]][[T1]] [[T2]][[T3]]il se tenait [[T4]]debout[[T5]]."
+      },
+      {
+        "page": 18,
+        "kind": "orig_short",
+        "speaker": "id:123",
+        "prev_fr": "...your latest testimony was a total fabrication!",
+        "next_fr": "What?!",
+        "orig_clean": "Agh... AAAAAAAAAAAAAAARH!",
+        "en_clean": "Agh... AAAAAAAAAAAAAAARH!",
+        "prefix": "\r\n<E800 318><E147 69 70><E800 319><E147 123 76><E800 320><E130 15 1><E800 321><E131><E800 323><E041 123 89><E025 7><E604>",
+        "suffix": "<E024>",
+        "tags": [
+          "<E003 12>",
+          "<E145 123 82>",
+          "<E045>",
+          "<E025 1>",
+          "<E046>",
+          "<E003 15>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Agh...[[T0]]\n[[T1]][[T2]][[T3]]AAAAAAAAAAAAAAA[[T4]]RH![[T5]]",
+        "fr_masked": "Argh...[[T0]]\n[[T1]][[T2]][[T3]]AAAAAAAAAAAAAAA[[T4]]RH ![[T5]]"
+      },
+      {
+        "page": 22,
+        "kind": "orig_short",
+        "speaker": "Iris Watson",
+        "prev_fr": "Agh... AAAAAAAAAAAAAAARH!",
+        "next_fr": "What sort of misapprehension?",
+        "orig_clean": "What?!",
+        "en_clean": "What?!",
+        "prefix": "\r\n<E800 356><E563><E800 359><E147 6 0><E800 360><E130 4 1><E800 361><E131><E800 363><E145 6 11><E800 364><E118 6 2.5><E800 365><E003 6><E800 367><E041 6 7><E606><E025 1>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "What?!",
+        "fr_masked": "Quoi ?!"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c307_0050_eng",
+    "index": 7,
+    "total_pages": 36,
+    "pages": [
+      {
+        "page": 13,
+        "kind": "orig_short",
+        "speaker": "id:123",
+        "prev_fr": "Cold-blooded murder!",
+        "next_fr": "Sadly your ‘logic’ has a gaping hole in it!",
+        "orig_clean": "Oh do shut up!",
+        "en_clean": "Oh do shut up!",
+        "prefix": "\r\n<E800 731><E563><E800 734><E147 123 76><E800 735><E130 15 1><E800 737><E486 69 13 -1 0 0 0><E800 738><E487 69 20 0 0><E800 740><E131><E800 742><E145 123 100><E800 743><E003 30><E800 745><E041 123 89><E046><E025 1>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "Oh do shut up!",
+        "fr_masked": "Oh, taisez-vous donc !"
+      },
+      {
+        "page": 34,
+        "kind": "orig_short",
+        "speaker": "id:123",
+        "prev_fr": ".........",
+        "next_fr": "",
+        "orig_clean": "What?",
+        "en_clean": "What?",
+        "prefix": "\r\n<E800 882><E563><E800 885><E147 123 74><E800 886><E130 15 0><E800 887><E131><E800 889><E041 123 89><E333><E025 2>",
+        "suffix": "<E023>",
+        "tags": [],
+        "newline": "\r\n",
+        "en_masked": "What?",
+        "fr_masked": "Quoi ?"
+      }
+    ]
+  },
+  {
+    "container": "BB/sce02_eng.arc",
+    "gmd_key": "BB/script/output/_sce02_c307_0055_eng",
+    "index": 8,
+    "total_pages": 35,
+    "pages": [
+      {
+        "page": 21,
+        "kind": "orig_short",
+        "speaker": "id:123",
+        "prev_fr": "...serait d'une facilité déconcertante.",
+        "next_fr": "Il y a dix ans, alors que M. Asman était encore journaliste et qu'il écrivait cet article sur M. Drebber...",
+        "orig_clean": "Ugh...uuugh...",
+        "en_clean": "Ugh...uuugh...",
+        "prefix": "\r\n<E800 387><E563><E800 390><E145 123 65><E800 391><E130 15 0><E800 392><E131><E800 394><E615><E800 395><E041 123 89><E169 123 0><E338><E342><E025 7>",
+        "suffix": "<E023>",
+        "tags": [
+          "<E003 8>",
+          "<E341>",
+          "<E169 123 3>"
+        ],
+        "newline": "\r\n",
+        "en_masked": "Ugh...[[T0]][[T1]]uuugh...[[T2]]",
+        "fr_masked": "Urgh...[[T0]][[T1]]uuurgh...[[T2]]"
+      }
+    ]
+  }
+]

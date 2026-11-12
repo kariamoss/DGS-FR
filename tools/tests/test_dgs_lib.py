@@ -154,6 +154,63 @@ class TestDgsLib(unittest.TestCase):
             )[0]
         )
 
+    def test_verify_all_checks_ruby_balance_per_page(self) -> None:
+        import verify_all
+
+        cross_page_broken = (
+            "Page 1 <RUBY><RB>split</RT></RUBY><PAGE>"
+            "Page 2 </RB><RUBY><RB>text"
+        )
+        # Simpler: <RUBY><RB> opens on p0 and </RB></RUBY> closes on p1 -> whole string balanced, per-page broken!
+        cross_page_broken = (
+            "Page 1 <RUBY><RB>split<PAGE>"
+            "Page 2 ok</RB></RUBY>"
+        )
+        errs = verify_all._check_tag_balance(cross_page_broken)
+        self.assertEqual(len(errs), 4)
+        self.assertTrue(any(e.startswith("p0 unbalanced <RUBY>") for e in errs))
+        self.assertTrue(any(e.startswith("p0 unbalanced <RB>") for e in errs))
+        self.assertTrue(any(e.startswith("p1 unbalanced <RUBY>") for e in errs))
+        self.assertTrue(any(e.startswith("p1 unbalanced <RB>") for e in errs))
+
+        valid = "<RUBY><RB>愛</RB><RT>Aï</RT></RUBY><PAGE><RUBY><RB>花</RB><RT>Fleur</RT></RUBY>"
+        self.assertEqual(verify_all._check_tag_balance(valid), [])
+
+    def test_phase2_editorial_regressions_and_ratchet(self) -> None:
+        self.assertIn(
+            "londres",
+            dgs_lib.find_editorial_regressions("Je suis arrivé à Londres hier."),
+        )
+        # <E507 London    Londres> carries an internal tag argument and must NOT be flagged
+        self.assertNotIn(
+            "londres",
+            dgs_lib.find_editorial_regressions("Je suis arrivé à <E507 London    Londres>London<E519>."),
+        )
+        self.assertIn(
+            "reaper",
+            dgs_lib.find_editorial_regressions("Le Reaper hante Old Bailey."),
+        )
+        for sample in ("dest,position", "thdans", "hesttoire", "menpourn"):
+            with self.subTest(sample=sample):
+                self.assertIn(
+                    "naive_replace_corruption",
+                    dgs_lib.find_editorial_regressions(f"Texte {sample} ici."),
+                )
+        # Normal comma or valid English/French words must not falsely trigger dest,[alpha]
+        self.assertNotIn(
+            "naive_replace_corruption",
+            dgs_lib.find_editorial_regressions("Un geste modeste, posé."),
+        )
+        for arc in (
+            "BB/sce02_eng.arc",
+            "BB/sce03_eng.arc",
+            "BB/sce04_eng.arc",
+            "msg_cmn_eng.arc",
+            "BB/msg_title_eng.arc",
+            "GO/msg_title_eng.arc",
+        ):
+            self.assertIn(arc, dgs_lib.STRICT_ZERO_ENGLISH_ARCS)
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -1,7 +1,7 @@
 # The Chronicles of Ace Attorney: A Great Era — Édition Complète
 
 [![Fork](https://img.shields.io/badge/fork-kariamoss%2FDGS--FR-blue.svg)](https://github.com/kariamoss/DGS-FR)
-[![Version](https://img.shields.io/badge/version-2.0.1--complète-green.svg)](https://github.com/kariamoss/DGS-FR/releases)
+[![Version](https://img.shields.io/badge/version-2.0.3--complète-green.svg)](https://github.com/kariamoss/DGS-FR/releases)
 [![Français](https://img.shields.io/badge/langue-100%25%20Fran%C3%A7ais-brightgreen.svg)](#contenu-du-patch)
 
 Patch de fan-traduction française intégrale pour **The Great Ace Attorney Chronicles** (*Dai Gyakuten Saiban 1 & 2*).

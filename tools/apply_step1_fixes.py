@@ -179,6 +179,53 @@ def patch_string_content(gmd_key: str, _idx: int, text: str) -> str:
     text = text.replace("<E516 232>Espagne<E519> ,", "<E516 232>Espagne<E519>,")
     text = text.replace("<E516 23>russe<E519> .", "<E516 23>russe<E519>.")
     text = text.replace("de Saô ,", "de Sôseki,")
+    text = text.replace("<E507 a b>Méssu<E519><E005>est mon", "<E507 a b>Méssu<E519><E005> est mon")
+    text = text.replace("serait ladanseuse étoile", "serait la danseuse étoile")
+
+    # 4b. Per-page broken <RUBY>/<RB>/<RT> tags and residual Japanese words
+    broken_ruby_and_jp_fixes = (
+        (
+            "un <E516 7>coffee</RB><RT><COL f9e041ff>ｃａｆ\uffc9</COL></RT></RUBY><E519><E507 a b> <E519> parfumé",
+            "un <E516 7>café<E519> parfumé",
+        ),
+        ("<E507 a b><RUBY><RB>Quel acte <E519> ignoble", "<E507 a b>Quel acte<E519> ignoble"),
+        (
+            "<E516 203>le cocher</RB><RT><COL f9e041ff>ｔｈｅ ｃｏａｃｈｍａｎ</COL></RT></RUBY><E519>.",
+            "<E516 203>le cocher<E519>.",
+        ),
+        ("tout <E516 211><RUBY><RB>Londonien<E519>", "tout <E516 211>Londonien<E519>"),
+        (
+            "Dans <E006><E516 24>this wardrobe</RB><RT><COL f9e041ff>ｃｅｔｔｅ ａｒｍｏｉｒｅ</COL></RT></RUBY><E519><E005>",
+            "Dans <E006><E516 24>cette armoire<E519><E005>",
+        ),
+        ("cette <E516 24><RUBY><RB>armoire,<E519>", "cette <E516 24>armoire<E519>,"),
+        (
+            "cette <E006><E516 24>wardrobe</RB><RT><COL f9e041ff>   ａｒｍｏｉｒｅ</COL></RT></RUBY><E519><E005>",
+            "cette <E006><E516 24>armoire<E519><E005>",
+        ),
+        ("l'<E516 24><RUBY><RB>armoire<E519>.)", "l'<E516 24>armoire<E519>.)"),
+        (
+            "l'<E516 24>洋箪笥</RB><RT><COL f9e041ff>ａｒｍｏｉｒｅ</COL></RT></RUBY><E519>",
+            "l'<E516 24>armoire<E519>",
+        ),
+        ("sous le lit.<E516 49><RUBY><RB><E519><E023>", "sous le lit.<E023>"),
+        ("<E507 a b> 舞姫</RB>", "<E507 a b><RUBY><RB> 舞姫</RB>"),
+        ("<E516 137><RUBY><RB><E519>M. Mori", "<E516 137><E519>M. Mori"),
+        ("<E507 a b> 不 </RB>", "<E507 a b><RUBY><RB> 不 </RB>"),
+        ("d'une <E507 a b><RUBY><RB><E519> assistante juridique", "d'une assistante juridique"),
+        ("<E516 50>我</RB>", "<E516 50><RUBY><RB>我</RB>"),
+        ("Je le sais bien !<E507 a b><RUBY><RB><E519> Quand même !", "Je le sais bien ! Quand même !"),
+        ("<E507 a b>転</RB>", "<E507 a b><RUBY><RB>転</RB>"),
+        ("<E516 218><RUBY><RB><E519> un célèbre écrivain", "<E516 218><E519> un célèbre écrivain"),
+        (
+            "<E507 a b>koban de l'ère Hôei<E519>小判<E005> <E507 a b>, <E519> quelle misère.",
+            "<E507 a b>koban de l'ère Hôei<E519><E005>, quelle misère.",
+        ),
+        ("同日\u3000, peu après", "Le même jour, peu après"),
+        ("裁き du « Faucheur » ", "Jugement du « Faucheur » "),
+    )
+    for src_s, dst_s in broken_ruby_and_jp_fixes:
+        text = text.replace(src_s, dst_s)
 
     # 5. Formatting tag spacing
     text = text.replace("la<E507 a b>Crystal Tower", "la <E507 a b>Crystal Tower")
@@ -203,9 +250,11 @@ def patch_string_content(gmd_key: str, _idx: int, text: str) -> str:
         text,
         flags=re.DOTALL,
     )
-    text = text.replace("dans Londres", "dans London")
-    text = text.replace("surnomme <E003 8><E516 211>Londres", "surnomme <E003 8><E516 211>London")
-    text = text.replace("surnomme Londres", "surnomme London")
+    if "Londres" in text or "londres" in text:
+        parts = re.split(r"(<[^>]+>)", text)
+        for i in range(0, len(parts), 2):
+            parts[i] = re.sub(r"\bLondres\b", "London", parts[i])
+        text = "".join(parts)
 
     return text
 

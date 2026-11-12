@@ -54,6 +54,12 @@ STRICT_ZERO_ENGLISH_ARCS: frozenset[str] = frozenset({
     "GO/sce04_eng.arc",
     "BB/sce00_eng.arc",
     "BB/sce01_eng.arc",
+    "BB/sce02_eng.arc",
+    "BB/sce03_eng.arc",
+    "BB/sce04_eng.arc",
+    "msg_cmn_eng.arc",
+    "BB/msg_title_eng.arc",
+    "GO/msg_title_eng.arc",
 })
 
 # Canonical mapping from container path (relative to archive/ or nativeDX11x64/) -> human metadata
@@ -727,6 +733,16 @@ def find_editorial_regressions(text: str) -> list[str]:
         regs.append("dieu_de_la_mort")
     if re.search(r"(?:bande|c[âa]ble)\s+mouchet", cleaned, re.IGNORECASE):
         regs.append("bande_mouchetee")
+    if re.search(r"\blondres\b", cleaned, re.IGNORECASE):
+        regs.append("londres")
+    if re.search(r"\breaper\b", cleaned, re.IGNORECASE):
+        regs.append("reaper")
+    if re.search(
+        r"\b\w*(?:hestt|pourn|thdans|whdans|suest|jamaest|foest|voest|mademoest|garantest|destsimulé|vestage|devaest)\w*|\b\w*dest,[a-zA-ZÀ-ÿ]\w*",
+        cleaned,
+        re.IGNORECASE,
+    ):
+        regs.append("naive_replace_corruption")
     if re.search(r"la<E507[^>]*>Crystal|cette<E516[^>]*>banquette|qu'un<E516[^>]*>kimono|toute<E516[^>]*>l'Europe", text):
         regs.append("glued_tag_phrase")
     if re.search(r"\b[a-zA-ZÀ-ÿ]{2,}<E5[01][67][^>]*>[a-zA-ZÀ-ÿ]", text):
