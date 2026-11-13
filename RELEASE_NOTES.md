@@ -1,5 +1,12 @@
 # Notes de Version : The Great Ace Attorney Chronicles (Fan-Traduction Française)
 
+## Version 2.0.4
+* **Rythme et mise en scène des dialogues** : Recalage et harmonisation complète des balises de pause temporelle (`<E003>`) directement sur la ponctuation française (`.,!?:;…—`).
+* **Suppression des pauses orphelines** : Élimination de plus de 19 000 pauses hachées au milieu des mots et propositions héritées de la syntaxe anglaise (ex. entre article et nom, auxiliaire et verbe).
+* Préservation naturelle des suspensions dramatiques et des bégaiements d'hésitation (`N-Non !`).
+
+---
+
 ## Version 2.0.3
 * Traduction intégrale des derniers dialogues, textes système et bonus DLC restants dans DGS2 (Épisodes 3 à 5).
 * Correction des formulations hybrides FR/EN résiduelles et harmonisation complète des mentions visibles de **« London »**.

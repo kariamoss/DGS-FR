@@ -20,7 +20,7 @@ def build_steam_patch():
     patch.flag = 2  # Steam
     patch.major = 2
     patch.minor = 0
-    patch.micro = 3
+    patch.micro = 4
 
     print("Scanning original game files...")
     t0 = time.time()

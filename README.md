@@ -1,7 +1,7 @@
 # The Chronicles of Ace Attorney: A Great Era — Édition Complète
 
 [![Fork](https://img.shields.io/badge/fork-kariamoss%2FDGS--FR-blue.svg)](https://github.com/kariamoss/DGS-FR)
-[![Version](https://img.shields.io/badge/version-2.0.3--complète-green.svg)](https://github.com/kariamoss/DGS-FR/releases)
+[![Version](https://img.shields.io/badge/version-2.0.4--complète-green.svg)](https://github.com/kariamoss/DGS-FR/releases)
 [![Français](https://img.shields.io/badge/langue-100%25%20Fran%C3%A7ais-brightgreen.svg)](#contenu-du-patch)
 
 Patch de fan-traduction française intégrale pour **The Great Ace Attorney Chronicles** (*Dai Gyakuten Saiban 1 & 2*).
@@ -56,6 +56,7 @@ Pour une fidélité optimale à l'ambiance et au contexte historique de l'œuvre
 * **Cadre victorien britannique** : Standardisation soignée des formules de politesse anglaises (`Mr`, `Mrs`, `Miss`, `Lord`) selon les usages de l'époque.
 * **Cadre japonais (Ère Meiji)** : Préservation des suffixes honorifiques traditionnels (`-sama`, `-san`) lorsque les personnages japonais s'adressent entre eux, respectant ainsi leurs liens et nuances culturelles.
 * **Transcription occidentale naturelle** : Remplacement des caractères kanjis et furiganas par leur transcription phonétique en alphabet latin (`chômiryô`, `Yûno`, `Hikari`, `koban`), pour une lecture limpide et fluide dans la police principale du jeu.
+* **Rythme et mise en scène des dialogues** : Recalage minutieux des pauses temporelles (`<E003>`) directement sur la ponctuation française (`.,!?:;…—`). Élimination de plus de 19 000 pauses orphelines héritées de la syntaxe anglaise pour un défilement naturel et expressif du texte sans coupures au milieu des mots.
 * **Interface & Danse des Déductions** : Correction graphique et grammaticale de l'écran de conclusion de la Danse des Déductions (« Déduction parfaite ») avec typographie harmonisée.
 
 ---

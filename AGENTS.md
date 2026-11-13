@@ -56,3 +56,16 @@ Ce dépôt maintient la traduction française PC Steam de *The Great Ace Attorne
 - PowerShell 5.1 refuse `&&` (utiliser `;`) et altère les guillemets dans `-c "..."` (utiliser `@' ... '@ | python -` ou un script dédié).
 - Tout script Python écrit pour le projet doit configurer `sys.stdout.reconfigure(encoding="utf-8")`.
 - Ne jamais laisser de scripts temporaires, captures ou dumps texte à la racine du dépôt ou dans `tools/`. Les anciens outils C#/PS1 sont archivés dans `tools/legacy_cs/`.
+
+## 8. Rythme, vitesse et ponctuation des dialogues (<E003>, <E025>, <E358>)
+- **Vitesse de frappe (`<E025 V>`)** :
+  - Profil officiel accéléré : dialogues standards à `<E025 1>` (vitesse vive, ~60 car/sec), monologues/pensées intérieures à `<E025 2>` (vitesse posée, ~30 car/sec).
+  - Ne jamais ralentir les répliques vives (`<E025 1>`), et préserver `<E025 6>` / `<E025 7>` sur les points de suspension lents (`...`).
+- **Ancrage strict des pauses (`<E003 N>`) sur la ponctuation** :
+  - Toute pause temporelle `<E003 N>` (et son éventuel préfixe `<E358>`) **doit être immédiatement collée à la ponctuation qui la précède** (`.,!?:;…—`), l'espace se plaçant obligatoirement *après* la balise :  
+    `[Mot][Ponctuation]<E358><E003 N> [Mot suivant]`
+  - Bégaiement ou hésitation sur tiret : conserver la pause après le trait d'union (ex. `N-<E003 8>Non !`).
+  - **Interdictions formelles** : ne jamais laisser ou insérer `<E003>` au milieu de deux mots sans ponctuation (interdit entre article/préposition et nom `l'<E003>avocat`, sujet et verbe `je <E003> suis`, auxiliaire et participe `est <E003> relié`, ou après une conjonction `parce que <E003>`).
+- **Traduction par batches (`phase2_pipeline.py`)** :
+  - Ne jamais calquer les placeholders `[[Tx]]` de pause sur l'ordre des mots anglais. Toujours relocaliser le token de pause `<E003>` derrière la ponctuation de la proposition française correspondante.
+
